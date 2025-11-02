@@ -2,81 +2,81 @@
 
 ## 📖 Reading Passage: The Music Teacher's Heart
 
-Mrs. Thompson was a **music** **teacher** at Lincoln Elementary School. Her **class** was different from other classes – it was **free** for **everyone**, and she taught with her whole **heart**. Every **season**, new students would **appear** in her classroom, hoping to **learn** something beautiful.
+Mrs. Thompson was a **music** **teacher** at Lincoln Elementary School. Her **class** was different from other classes – it was **free** for **everyone**, and she taught with her **whole** **heart**. Every **season**, new students would **appear** in her classroom, hoping to **learn** something beautiful.
 
-"**Please**, take your seats," she would say **early** each **morning**. "Today we're going to **experience** something special. **Music** isn't just about notes on a page. It's about expressing what's in your **heart**."
+"**Please**, take your seats," she would say **early** each morning. "Today we're going to **experience** something special. **Music** isn't just about notes on a page. It's about expressing what's in your **heart**."
 
-Her students came from all walks of **life**. Some were **young**, barely able to reach the piano keys. Others were older, looking for a **late** chance to **build** a connection with **art**. The **class** was truly **free** – **no** one had to pay, and **everyone** was welcome.
+Her students came from all walks of life. Some were young, barely able to **reach** the piano keys. Others were older, looking for a **late** chance to **build** a connection with **art**. The **class** was truly **free** – no one had to pay, and **everyone** was welcome.
 
-"I **hope** you **understand** this," Mrs. Thompson would **explain**. "**Music** has the **effect** of bringing people **together**. It doesn't matter if you're **rich** or **poor**, **young** or **old**. When you **play** **music**, you're speaking a **universal** language."
+"I **hope** you understand this," Mrs. Thompson would explain. "**Music** has the **effect** of bringing people together. It doesn't matter if you're rich or poor, young or old. When you **play** **music**, you're speaking a universal language."
 
-One day, a new student appeared. His name was Marcus, and he was **late** – very **late**. The **class** had **already** started, but Mrs. Thompson smiled and motioned for him to **sit** down.
+One day, a new student appeared. His name was Marcus, and he was **late** – very **late**. The **class** had already started, but Mrs. Thompson smiled and motioned for him to sit down.
 
-"I'm **sorry**," Marcus whispered. "I had to **help** my **father** **this** **morning**. He works **at** the **local** factory, and sometimes I need to **care** for my little brother **before** school."
+"I'm **sorry**," Marcus whispered. "I had to help my father this morning. He works at the local factory, and **sometimes** I need to **care** for my little brother before school."
 
-"Don't **worry**," Mrs. Thompson said gently. "**Everyone** has their own **story**. What matters is that you're here now. Are you ready to **learn**?"
+"Don't worry," Mrs. Thompson said gently. "**Everyone** has their own story. What matters is that you're here now. Are you ready to **learn**?"
 
-Marcus nodded, his **heart** beating fast. He had never touched a **musical** instrument **before**. The **whole** **idea** seemed **impossible**. But Mrs. Thompson saw something in his eyes – a deep desire to **try**, to **experience** something **beautiful**.
+Marcus nodded, his **heart** beating fast. He had never touched a musical instrument before. The **whole** idea seemed impossible. But Mrs. Thompson saw something in his eyes – a deep desire to try, to **experience** something beautiful.
 
-"**Music** can **serve** many purposes," she **explained** to the **class**. "It can **offer** comfort when we're sad. It can **help** us **celebrate** when we're happy. It can even **change** how we **see** the **world**."
+"**Music** can **serve** many purposes," she explained to the **class**. "It can **offer** comfort when we're sad. It can help us celebrate when we're happy. It can even change how we see the world."
 
-The **season** passed, and Marcus practiced every **chance** he got. **Sometimes** he would **stay** **late** after **class**, **working** on **difficult** **pieces**. Mrs. Thompson would **often** **stay** with him, **offering** guidance and **encouragement**.
+The **season** passed, and Marcus practiced every chance he got. **Sometimes** he would stay **late** after **class**, working on difficult pieces. Mrs. Thompson would often stay with him, offering guidance and encouragement.
 
-"You have **talent**," she told him one afternoon. "But **more** importantly, you have **heart**. That's what makes a **true** **artist**."
+"You have talent," she told him one afternoon. "But more importantly, you have **heart**. That's what makes a **true** artist."
 
-Marcus's **father** worked **hard** every day to **support** the **family**. Money was tight, and there was barely **enough** for **food**. The **idea** of buying a **musical** instrument seemed **impossible**. But Marcus didn't give up. He would **use** the school's old piano whenever it was **free**.
+Marcus's father worked **hard** every day to support the family. Money was tight, and there was barely enough for food. The idea of buying a musical instrument seemed impossible. But Marcus didn't give up. He would **use** the school's old piano whenever it was **free**.
 
-One **early** **morning**, Mrs. Thompson made a **decision**. She spoke with the school **principal** and the **local** **community**. "**Everyone** deserves a **chance** to **learn** **music**," she argued. "It's not a **luxury** – it's a **necessity** for the **human** **heart** and **mind**."
+One **early** morning, Mrs. Thompson made a decision. She spoke with the school principal and the local community. "**Everyone** deserves a chance to **learn** **music**," she argued. "It's not a luxury – it's a necessity for the human **heart** and **mind**."
 
-The **community** responded. **Local** **businesses** donated old instruments. A **music** store **offered** **free** lessons on weekends. The **effect** was **immediate** – more students **appeared**, all eager to **learn**.
+The community responded. Local businesses donated old instruments. A **music** store offered **free** lessons on weekends. The **effect** was immediate – more students appeared, all eager to **learn**.
 
-"**This** is **incredible**," Marcus said, looking **at** the donated instruments. "I never **expected** **this**."
+"This is incredible," Marcus said, looking at the donated instruments. "I never expected this."
 
-"When you **show** people what's **possible**," Mrs. Thompson **explained**, "they want to **help** **build** something **beautiful**. That's the **power** of **community** and **art**."
+"When you **show** people what's **possible**," Mrs. Thompson explained, "they want to help **build** something beautiful. That's the power of community and **art**."
 
-The **class** grew. Students from different **backgrounds** came **together**. There was Chen, whose **parents** had moved from China last **year**. There was Sofia, who lived in the **poorest** **neighborhood** but had the **sweetest** voice. There was **himself**, Marcus, learning to **express** his **emotions** through **music**.
+The **class** grew. Students from different backgrounds came together. There was Chen, whose parents had moved from China last year. There was Sofia, who lived in the poorest neighborhood but had the sweetest voice. There was **himself**, Marcus, learning to express his emotions through **music**.
 
-**Everyone** in the **class** **experienced** something **special** – not just the **technical** **skills** of **playing** instruments, but the **deeper** **connection** between **art** and **life**.
+**Everyone** in the **class** experienced something special – not just the technical skills of playing instruments, but the deeper connection between **art** and life.
 
-"**Please** remember," Mrs. Thompson would **say**, "**music** teaches us important **lessons** about **life**. It teaches us **patience** when we **practice**. It teaches us **teamwork** when we **play** **together**. It teaches us to **listen** – not just with our **ears**, but with our **hearts**."
+"**Please** remember," Mrs. Thompson would say, "**music** teaches us important lessons about life. It teaches us patience when we practice. It teaches us teamwork when we **play** together. It teaches us to listen – not just with our ears, but with our hearts."
 
-The **season** **changed**, and the **class** **prepared** for their first **performance**. **Everyone** was nervous. Marcus's hands **shook** as he **sat** **at** the piano. But when he **began** to **play**, something **magical** happened.
+The **season** changed, and the **class** prepared for their first performance. **Everyone** was nervous. Marcus's hands shook as he sat at the piano. But when he began to **play**, something magical happened.
 
-The **music** filled the **room**. It was **simple**, not **perfect**, but it was **honest**. It came from the **heart**. Parents **watched** with tears in their **eyes**. The **whole** **community** had **gathered** to **support** these **young** **musicians**.
+The **music** filled the room. It was simple, not perfect, but it was honest. It came from the **heart**. Parents watched with tears in their eyes. The **whole** community had gathered to support these young musicians.
 
-When the **performance** **ended**, **everyone** **stood** and applauded. Mrs. Thompson **felt** her **heart** swell with pride. **This** was why she became a **teacher** – not just to **teach** **music**, but to **build** **confidence**, to **offer** **hope**, to **show** students that **beauty** and **art** were **possible** even in **difficult** times.
+When the performance ended, **everyone** stood and applauded. Mrs. Thompson felt her **heart** swell with pride. This was why she became a **teacher** – not just to teach **music**, but to **build** confidence, to **offer** **hope**, to **show** students that beauty and **art** were **possible** even in difficult times.
 
-"**You** all **played** **beautifully**," she told her students **later**. "But **more** importantly, you **played** with **heart**. You **showed** **everyone** that **music** isn't about being **perfect** – it's about being **true** to **yourself**."
+"You all played beautifully," she told her students later. "But more importantly, you played with **heart**. You showed **everyone** that **music** isn't about being perfect – it's about being **true** to yourself."
 
-Marcus went **home** that **night** feeling **different**. His **father**, who had taken time **off** **work** to **attend** the **performance**, put his **hand** on Marcus's **shoulder**.
+Marcus went home that night feeling different. His father, who had taken time off work to attend the performance, put his hand on Marcus's shoulder.
 
-"I'm **proud** of you, **son**," he said. "You **never** gave up. You **worked** **hard**, and it **showed**."
+"I'm proud of you, **son**," he said. "You never gave up. You worked **hard**, and it showed."
 
-"Mrs. Thompson says **music** can **change** your **life**," Marcus replied. "I **think** she's right. **Learning** **music** has **changed** how I **see** myself."
+"Mrs. Thompson says **music** can change your life," Marcus replied. "I think she's right. Learning **music** has changed how I see myself."
 
-Years **later**, Marcus would **remember** that **class** as a **turning** **point** in his **life**. He went on to **study** **music** at **college**, **eventually** becoming a **music** **teacher** **himself**. And like Mrs. Thompson, he made his classes **free** for **everyone**, believing that **art** and **education** should be **accessible** to **all**.
+Years later, Marcus would remember that **class** as a turning point in his life. He went on to study **music** at **college**, eventually becoming a **music** **teacher** **himself**. And like Mrs. Thompson, he made his classes **free** for **everyone**, believing that **art** and **education** should be accessible to all.
 
-Mrs. Thompson's **effect** on the **community** was **profound**. She didn't just **teach** **music** – she taught **hope**. She taught that **everyone**, regardless of their **background** or **circumstances**, had something **valuable** to **offer**. She taught that **art** could **serve** as a **bridge** between different **people**, different **cultures**, different **experiences**.
+Mrs. Thompson's **effect** on the community was profound. She didn't just teach **music** – she taught **hope**. She taught that **everyone**, regardless of their background or circumstances, had something valuable to **offer**. She taught that **art** could **serve** as a bridge between different people, different cultures, different experiences.
 
-Her students **learned** **more** than just how to **read** **music** or **play** instruments. They **learned** about **themselves**. They **learned** to **care** for each other. They **learned** that **beauty** can **appear** even in **unexpected** places.
+Her students learned more than just how to read **music** or **play** instruments. They learned about themselves. They learned to **care** for each other. They learned that beauty can **appear** even in unexpected places.
 
-"**True** **education**," Mrs. Thompson would **often** **say**, "isn't just about filling **minds** with **information**. It's about touching **hearts**, **building** **character**, and helping people **see** the **beauty** in **themselves** and the **world** **around** them."
+"**True** **education**," Mrs. Thompson would often say, "isn't just about filling minds with information. It's about touching hearts, building character, and helping people see the beauty in themselves and the world around them."
 
-The **music** **class** became a **beloved** **part** of the school. Every **season** brought new students, new **challenges**, new **opportunities** to **grow**. But the core **message** remained the same: **music** is for **everyone**, and **everyone** has **something** **beautiful** inside them waiting to **come** out.
+The **music** **class** became a beloved part of the school. Every **season** brought new students, new challenges, new opportunities to grow. But the core message remained the same: **music** is for **everyone**, and **everyone** has something beautiful inside them waiting to come out.
 
-As the **years** passed, Mrs. Thompson grew older. Her **hair** turned **white**, her **steps** became slower, but her **heart** for **teaching** never **faded**. She continued to **offer** **free** classes, to **support** struggling students, to **build** a **community** around **art** and **music**.
+As the years passed, Mrs. Thompson grew older. Her hair turned white, her steps became slower, but her **heart** for teaching never faded. She continued to **offer** **free** classes, to support struggling students, to **build** a community around **art** and **music**.
 
-"Why do you **continue** to **teach** for **free**?" **someone** once asked her. "You could **make** **more** money giving **private** lessons."
+"Why do you continue to teach for **free**?" someone once asked her. "You could make more money giving private lessons."
 
-Mrs. Thompson smiled. "Money isn't everything," she said. "I teach because **music** gave **meaning** to my **life**, and I want to **serve** others by sharing that **gift**. I teach because every **time** I **see** a student's **face** **light** up when they **learn** something new, my **heart** fills with **joy**. I teach because **education** and **art** should be **available** to **everyone**, not just those who can **pay**."
+Mrs. Thompson smiled. "Money isn't everything," she said. "I teach because **music** gave meaning to my life, and I want to **serve** others by sharing that gift. I teach because every time I see a student's face light up when they **learn** something new, my **heart** fills with joy. I teach because **education** and **art** should be available to **everyone**, not just those who can pay."
 
-Her **legacy** lived on through her students. Marcus wasn't the only one whose **life** was **changed**. Dozens of students went on to **build** **careers** in **music**, **art**, and **education**. But more importantly, hundreds of students **learned** to **appreciate** **beauty**, to **express** themselves **creatively**, and to **believe** that they had **value** and **potential**.
+Her legacy lived on through her students. Marcus wasn't the only one whose life was changed. Dozens of students went on to **build** careers in **music**, **art**, and **education**. But more importantly, hundreds of students learned to appreciate beauty, to express themselves creatively, and to believe that they had value and potential.
 
-**The** **music** **class** at Lincoln Elementary became **legendary**. People would **talk** about Mrs. Thompson's **dedication**, her **kindness**, her **belief** that **art** could **change** **lives**. They would **remember** how she made every student **feel** **special**, how she **offered** not just **education** but also **care** and **support**.
+The **music** **class** at Lincoln Elementary became legendary. People would talk about Mrs. Thompson's dedication, her kindness, her belief that **art** could change lives. They would remember how she made every student feel special, how she offered not just **education** but also **care** and support.
 
-And through it all, the **lesson** remained **clear**: when you **teach** with your whole **heart**, when you **serve** others with **love** and **dedication**, you create ripples that **spread** far beyond what you can **see**. You **build** something that **lasts**, something that continues to **offer** **hope** and **beauty** long after you're gone.
+And through it all, the lesson remained clear: when you teach with your **whole** **heart**, when you **serve** others with **love** and dedication, you create ripples that spread far beyond what you can see. You **build** something that lasts, something that continues to **offer** **hope** and beauty long after you're gone.
 
-Mrs. Thompson's **heart** for **teaching**, her **passion** for **music**, and her **belief** in **every** student created a **lasting** **effect** that would **continue** for **generations**. And that, perhaps, is the **truest** form of **success** – not in what we **gain** for ourselves, but in what we **offer** to others.
+Mrs. Thompson's **heart** for teaching, her passion for **music**, and her belief in every student created a lasting **effect** that would continue for generations. And that, perhaps, is the truest form of success – not in what we gain for ourselves, but in what we **offer** to others.
 
 ---
 

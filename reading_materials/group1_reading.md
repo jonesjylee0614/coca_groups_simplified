@@ -2,57 +2,57 @@
 
 ## 📖 Reading Passage: The Lost Puppy Adventure
 
-**The** morning sun cast golden rays **through** **my** bedroom window **when** **I** woke up **on** Saturday. **It** was going **to** be **a** special day - **I** could feel **it** **in** **my** bones. **I** jumped out **of** bed **and** ran **to** **the** kitchen, **where** **my** mother was making pancakes.
+**The** morning sun cast golden rays through **my** bedroom window when **I** woke up **on** Saturday. **It** was going **to** **be** **a** special day - **I** could feel **it** **in** **my** bones. **I** jumped out **of** bed **and** ran **to** **the** kitchen, where **my** mother was making pancakes.
 
-"**Do** **you** want **to** go **to** **the** park today?" **I** asked, **my** voice full **of** excitement. **She** smiled **and** nodded. "**Of** course, but **you** need **to** finish **your** breakfast first."
+"**Do** **you** want **to** **go** **to** **the** park today?" **I** asked, **my** voice full **of** excitement. **She** smiled **and** nodded. "**Of** course, **but** **you** need **to** finish **your** breakfast first."
 
-**As** **I** ate, **I** thought **about** **the** adventure **that** awaited us. **The** park was **not** just any park - **it** was **the** place **where** **all** **the** kids **in** our neighborhood would gather **to** play games, share stories, **and** make new friends. **We** wanted **to** **have** **a** picnic **and** maybe even fly **a** kite **if** **the** wind was right.
+**As** **I** ate, **I** thought **about** **the** adventure **that** awaited us. **The** park was **not** just any park - **it** was **the** place where **all** **the** kids **in** our neighborhood **would** gather **to** play games, share stories, **and** **make** new friends. **We** wanted **to** **have** **a** picnic **and** maybe even fly **a** kite **if** **the** wind was right.
 
-**When** **we** arrived **at** **the** park, **I** saw **that** **the** weather was perfect - bright, sunny, **and** warm. **They** were already setting up **for** **the** annual summer festival. **A** band was tuning their instruments **on** **the** stage, **and** food vendors were preparing their booths. "**This** is going **to** be amazing!" **I** exclaimed **to** **my** mother.
+When **we** arrived **at** **the** park, **I** saw **that** **the** weather was perfect - bright, sunny, **and** warm. **They** were already setting up **for** **the** annual summer festival. **A** band was tuning **their** instruments **on** **the** stage, **and** food vendors were preparing **their** booths. "**This** is going **to** **be** amazing!" **I** exclaimed **to** **my** mother.
 
-**We** found **a** nice spot **under** **a** large oak tree **and** spread out our blanket. **Just** **as** **we** were about **to** eat, **I** heard **a** faint whining sound **from** **the** bushes nearby. "**What** was **that**?" **I** whispered.
+**We** found **a** nice spot under **a** large oak tree **and** spread out our blanket. Just **as** **we** were **about** **to** eat, **I** heard **a** faint whining sound **from** **the** bushes nearby. "**What** was **that**?" **I** whispered.
 
-**My** mother put her finger **to** her lips. "**Listen** carefully."
+**My** mother put her finger **to** her lips. "Listen carefully."
 
-**We** both sat quietly, **and** then **I** saw him - **a** small, brown puppy shivering **under** **the** leaves. **He** looked lost **and** scared. "**Oh, **you** poor thing," **I** said softly, crawling slowly **to** where **he** was hiding.
+**We** both sat quietly, **and** then **I** saw him - **a** small, brown puppy shivering under **the** leaves. **He** looked lost **and** scared. "Oh, **you** poor thing," **I** said softly, crawling slowly **to** where **he** was hiding.
 
-**The** puppy looked up **at** me **with** big, sad eyes. **It** was clear **that** **he** was alone **and** needed help. "**We** can't leave him here," **I** told **my** mother. "**We** **have** **to** do something."
+**The** puppy looked up **at** **me** **with** big, sad eyes. **It** was clear **that** **he** was alone **and** needed help. "**We** **can**'t leave him here," **I** told **my** mother. "**We** **have** **to** **do** something."
 
-**She** agreed. "**You're** right. **But** **what** can **we** do? **We** don't know **who** he belongs **to**."
+**She** agreed. "**You**'re right. **But** **what** **can** **we** **do**? **We** don't **know** **who** **he** belongs **to**."
 
-**I** thought **for** **a** moment. "**I** know! **We** can make **a** 'Found Puppy' sign **and** put **it** up **by** **the** park entrance. **And** **we** can ask **the** park ranger **to** help us find his owner."
+**I** thought **for** **a** moment. "**I** **know**! **We** **can** **make** **a** 'Found Puppy' sign **and** put **it** up **by** **the** park entrance. **And** **we** **can** ask **the** park ranger **to** help us find **his** owner."
 
-**As** **we** were making our sign, **an** elderly man walked **by** **with** his dog. "**What** are **you** doing?" **he** asked kindly.
+**As** **we** were making our sign, an elderly man walked **by** **with** **his** dog. "**What** are **you** doing?" **he** asked kindly.
 
-**We** explained **about** **the** lost puppy, **and** **he** said, "**I** saw **a** family looking **for** their dog earlier **today**. **They** were near **the** playground. **You** should go check there."
+**We** explained **about** **the** lost puppy, **and** **he** said, "**I** saw **a** family looking **for** **their** dog earlier today. **They** were near **the** playground. **You** should **go** check there."
 
-**We** thanked him **and** hurried **to** **the** playground area. **Sure** enough, **a** family was standing **by** **the** swings, looking worried. **A** little girl was crying.
+**We** thanked him **and** hurried **to** **the** playground area. Sure enough, **a** family was standing **by** **the** swings, looking worried. **A** little girl was crying.
 
-"**Excuse** me," **I** said gently. "**Are** **you** looking **for** **a** puppy?"
+"Excuse **me**," **I** said gently. "Are **you** looking **for** **a** puppy?"
 
-**The** mother's face lit up. "**Yes! **Have** **you** seen him? **His** name is Max, **and** he's brown **and** very small."
+**The** mother's face lit up. "Yes! **Have** **you** seen him? **His** name is Max, **and** **he**'s brown **and** very small."
 
-**I** smiled **and** nodded. "**We** found him! **He's** hiding **under** **the** bushes **by** **the** oak tree. **Follow** us."
+**I** smiled **and** nodded. "**We** found him! **He**'s hiding under **the** bushes **by** **the** oak tree. Follow us."
 
-**When** **we** led them **to** **the** puppy, **the** little girl squealed with joy. "**Max! **I** was so worried **about** **you**!" **She** hugged him tightly, **and** **the** puppy licked her face happily.
+When **we** led them **to** **the** puppy, **the** little girl squealed **with** joy. "Max! **I** was **so** worried **about** **you**!" **She** hugged him tightly, **and** **the** puppy licked her face happily.
 
-**The** father thanked us profusely. "**We** can't thank **you** enough. **We** were so scared **that** **we** **would** **never** find him."
+**The** father thanked us profusely. "**We** **can**'t thank **you** enough. **We** were **so** scared **that** **we** **would** never find him."
 
-"**It** was **no** trouble **at** all," **my** mother said. "**We** were happy **to** help."
+"**It** was no trouble **at** **all**," **my** mother said. "**We** were happy **to** help."
 
-**As** **we** walked back **to** our picnic spot, **I** felt **a** warm feeling **inside**. "**You** know," **I** said **to** **my** mother, "**helping** someone feels **so** good."
+**As** **we** walked back **to** our picnic spot, **I** felt **a** warm feeling inside. "**You** **know**," **I** said **to** **my** mother, "helping someone feels **so** good."
 
-**She** put her arm around me. "**That's** **the** magic **of** kindness, dear. **When** **you** help others, **you** make **the** world **a** better place **for** everyone."
+**She** put her arm around **me**. "**That**'s **the** magic **of** kindness, dear. When **you** help others, **you** **make** **the** world **a** better place **for** everyone."
 
 **The** rest **of** **the** day was perfect. **We** ate our lunch, listened **to** **the** band play, **and** even danced **to** **the** music. **All** **of** our friends came **to** join us, **and** **we** played games until **the** sun began **to** set.
 
 **By** **the** time **we** had **to** leave, **I** was tired **but** incredibly happy. "**This** was **the** best day ever," **I** told **my** mother **as** **we** walked home.
 
-**And** **she** was right - **the** park had become more than just **a** place **to** play. **It** was **a** place **where** good things happened, **where** people helped each other, **and** **where** every day could be **an** adventure **if** **you** were open **to** **it**.
+**And** **she** was right - **the** park had become more than just **a** place **to** play. **It** was **a** place where good things happened, where people helped each other, **and** where every day could **be** an adventure **if** **you** were open **to** **it**.
 
-**I** knew **that** **I** **would** always remember this day - **the** day **we** found Max, **the** day **we** helped **a** family, **and** **the** day **I** learned **that** **the** smallest acts **of** kindness could make **the** biggest difference **in** someone's life.
+**I** knew **that** **I** **would** always remember **this** day - **the** day **we** found Max, **the** day **we** helped **a** family, **and** **the** day **I** learned **that** **the** smallest acts **of** kindness could **make** **the** biggest difference **in** someone's life.
 
-**That** night, **as** **I** lay **in** bed, **I** could still hear **the** music **from** **the** park **and** feel **the** warmth **of** **the** day. **And** **I** knew **that** tomorrow would bring new adventures, new friends, **and** new chances **to** make **the** world **a** little bit better, one small act **of** kindness **at** **a** time.
+**That** night, **as** **I** lay **in** bed, **I** could still hear **the** music **from** **the** park **and** feel **the** warmth **of** **the** day. **And** **I** knew **that** tomorrow **would** bring new adventures, new friends, **and** new chances **to** **make** **the** world **a** little bit better, one small act **of** kindness **at** **a**** time.
 
 ---
 

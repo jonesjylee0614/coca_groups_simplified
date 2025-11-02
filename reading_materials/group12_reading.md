@@ -2,85 +2,85 @@
 
 ## 📖 Reading Passage: Words Matter
 
-Emma was a **young** writer who **wanted** to **become** a novelist. **Each** **day**, she would **sit** at her **desk** and **try** to **write**, but the **words** never **came** **easily**. She would **read** **books** by famous **authors** and **wonder** **why** her **writing** didn't **sound** as **good**.
+Emma was a **young** **writer** who wanted to **become** a novelist. **Each** **day**, she would sit at her **desk** and **try** to **write**, but the words never came easily. She would **read** books by famous authors and wonder **why** her writing didn't sound as good.
 
-"**Each** **time** I **try** to **write** **something**, it **comes** out **wrong**," she told her **friend** Sarah **over** coffee. "**Why** **can't** I **become** a **real** writer?"
+"**Each** time I **try** to **write** something, it comes out wrong," she told her **friend** Sarah over coffee. "**Why** can't I **become** a real **writer**?"
 
-"**Maybe** you're trying too **hard**," Sarah suggested. "**Young** writers **often** **put** too **much** **pressure** on themselves. **Each** **word** doesn't **have** to be **perfect**. Just **let** the **words** **come**."
+"Maybe you're trying too hard," Sarah suggested. "**Young** writers often **put** too much pressure on themselves. **Each** **word** doesn't have to be perfect. Just **let** the words **come**."
 
-Emma **thought** about this **advice**. That evening, she **decided** to **try** a **different** approach. Instead of **worrying** about **whether** her **writing** was **good** **enough**, she would just **write** **what** **came** to **mind**.
+Emma thought about this advice. That evening, she decided to **try** a different approach. Instead of worrying about whether her writing was good enough, she would just **write** **what** came to mind.
 
-**Each** **night** for a **week**, Emma sat at her **desk** and **wrote** without **stopping**. She didn't **read** **over** **what** she'd written. She didn't **ask** **herself** **why** certain **words** **came** or **whether** they were **right**. She just **let** the **story** **flow**.
+**Each** night for a week, Emma sat at her **desk** and wrote without stopping. She didn't **read** over **what** she'd written. She didn't ask herself **why** certain words came or whether they were right. She just **let** the **story** flow.
 
-**After** a **week**, Emma had written **thirty** **pages**. She was **surprised** – she'd never written so **much** **before**. Curious, she began to **read** **what** she'd created.
+After a week, Emma had written thirty pages. She was surprised – she'd never written so much before. Curious, she began to **read** **what** she'd created.
 
-Some of it was **terrible**, she had to **admit**. But **here** and **there**, she **found** **sentences** that **sounded** **good**, **moments** that **felt** **real**. **Each** **page** held **something** **worth** **keeping**.
+Some of it was terrible, she had to admit. But here and there, she found sentences that sounded good, moments that felt real. **Each** **page** held something worth keeping.
 
-"**Why** did this **work** **better**?" Emma **wondered**. She **realized** that **when** she **stopped** **worrying** about **each** **word** being **perfect**, the **words** **came** more **naturally**. The **story** **became** more **real** **because** she **let** **herself** **write** without **fear**.
+"**Why** did this work better?" Emma wondered. She realized that **when** she stopped worrying about **each** **word** being perfect, the words came more naturally. The **story** became more real **because** she **let** herself **write** without fear.
 
-**Each** **day** **after** that, Emma **kept** writing. Some **days** were **easy**, and the **words** **flowed** like **water**. Other **days** were **hard**, and **each** **sentence** **felt** like a **struggle**. But she **didn't** give up. She **knew** that **becoming** a writer **meant** **writing** **every** **day**, **whether** she **felt** **inspired** or not.
+**Each** **day** after that, Emma kept writing. Some days were easy, and the words flowed like water. Other days were hard, and **each** sentence felt like a struggle. But she didn't **give** up. She knew that becoming a **writer** meant writing **every** **day**, whether she felt inspired or not.
 
-"The **difference** **between** **wanting** to be a writer and **becoming** one," her **teacher** once **said**, "is **simple**: **real** writers **write**. **Each** **day** they **sit** down and **put** **words** on the **page**, no **matter** **what**."
+"The difference between wanting to be a **writer** and becoming one," her teacher once said, "is simple: real writers **write**. **Each** **day** they sit down and **put** words on the **page**, no matter **what**."
 
-Emma **read** those **words** again. They were **simple** but **powerful**. **Each** **time** she **felt** **discouraged**, she **remembered** them. **Writing** wasn't about **waiting** for **inspiration**. It was about **showing** up **each** **day** and **doing** the **work**.
+Emma **read** those words again. They were simple but powerful. **Each** time she felt discouraged, she remembered them. Writing wasn't about waiting for inspiration. It was about showing up **each** **day** and doing the work.
 
-One **day**, Emma's **friend** Sarah **asked** to **read** **some** of her **work**. Emma **felt** **nervous** – she'd never **shown** **anyone** her **writing** **before**. But she **wanted** to **know** **whether** her **writing** **was** **improving**, so she gave Sarah ten **pages** to **read**.
+One **day**, Emma's **friend** Sarah asked to **read** some of her work. Emma felt nervous – she'd never shown anyone her writing before. But she wanted to know whether her writing was improving, so she gave Sarah ten pages to **read**.
 
-Sarah **read** them **carefully**. **When** she **finished**, she **looked** up at Emma. "This is **good**," she **said** **simply**. "**Really** **good**. **Each** **character** **feels** **real**. The **story** **draws** me in. **Why** haven't you **shown** this to **anyone** **before**?"
+Sarah **read** them carefully. **When** she finished, she looked up at Emma. "This is good," she said simply. "Really good. **Each** character feels real. The **story** draws me in. **Why** haven't you shown this to anyone before?"
 
-Emma **felt** **relief** **wash** **over** her. "I didn't **think** it was **good** **enough**," she **admitted**.
+Emma felt relief wash over her. "I didn't think it was good enough," she admitted.
 
-"That's **why** so **many** **young** writers give up," Sarah **said**. "They **want** their **writing** to be **perfect** from the **start**. But **writing** is a **process**. **Each** **draft** **becomes** **better** than the last. You have to **let** **yourself** **write** **badly** **before** you **can** **write** **well**."
+"That's **why** so many **young** writers **give** up," Sarah said. "They **want** their writing to be perfect from the start. But writing is a process. **Each** draft becomes better than the last. You have to **let** yourself **write** badly before you can **write** well."
 
-Emma **decided** to **become** **bolder**. She **started** **sharing** her **writing** with a **small** **group** of **other** **young** writers. **Each** **week**, they would **meet** to **read** and **discuss** **each** **other**'s **work**. **Each** **person** **offered** **feedback**, **pointing** out **what** **worked** and **what** didn't.
+Emma decided to **become** bolder. She started sharing her writing with a small group of other **young** writers. **Each** week, they would meet to **read** and discuss **each** other's work. **Each** person offered feedback, pointing out **what** worked and **what** didn't.
 
-**At** first, Emma **found** it **hard** to **hear** **criticism**. **Each** **comment** **felt** like a **judgment** of her **ability**. But **over** **time**, she **realized** that the **feedback** was **making** her **writing** **better**. **Each** **revision** **brought** her **closer** to the **story** she **wanted** to **tell**.
+At first, Emma found it hard to hear criticism. **Each** comment felt like a judgment of her ability. But over time, she realized that the feedback was making her writing better. **Each** revision brought her closer to the **story** she wanted to tell.
 
-"**Why** do you **want** to **become** a writer?" one **member** of the **group** **asked** her one **day**.
+"**Why** do you **want** to **become** a **writer**?" one member of the group asked her one **day**.
 
-Emma **thought** about this **question**. "**Because** **words** **matter**," she **said** **finally**. "**Each** **word** can **change** **how** **someone** **feels** or **thinks**. **Words** can **create** **worlds**, **build** **connections**, **give** **voice** to **things** we **didn't** **know** **how** to **say**. I **want** to **use** **words** to **make** **something** **meaningful**."
+Emma thought about this question. "**Because** words matter," she said finally. "**Each** **word** can change **how** someone feels or thinks. Words can create worlds, build connections, **give** voice to things we didn't know **how** to say. I **want** to use words to make something meaningful."
 
-The **group** **fell** **silent**. **Each** **person** **seemed** to be **thinking** about Emma's **words**. Then Sarah **spoke**: "That's **why** you'll **become** a **great** writer. **Because** you **understand** that **words** **matter**."
+The group fell silent. **Each** person seemed to be thinking about Emma's words. Then Sarah spoke: "That's **why** you'll **become** a great **writer**. **Because** you understand that words matter."
 
-Emma **kept** **writing**. **Each** **month**, she **finished** a new **story**. Some were **good**, some weren't. But **each** one taught her **something** new about **writing**. She **learned** **when** to **use** **simple** **words** and **when** to **choose** **more** **complex** ones. She **learned** **why** some **sentences** **worked** and others didn't. She **learned** that **becoming** a writer was a **journey**, not a **destination**.
+Emma kept writing. **Each** month, she finished a new **story**. Some were good, some weren't. But **each** one taught her something new about writing. She learned **when** to use simple words and **when** to choose more complex ones. She learned **why** some sentences worked and others didn't. She learned that becoming a **writer** was a journey, not a destination.
 
-One **year** **after** she **started** **writing** **seriously**, Emma **submitted** a **story** to a **literary** **magazine**. **Each** **day**, she **checked** her **email**, **hoping** for a **response**. **After** two **months**, a **reply** **came**: "We **would** like to **publish** your **story**."
+One year after she started writing seriously, Emma submitted a **story** to a literary magazine. **Each** **day**, she checked her email, hoping for a response. After two months, a reply came: "We would like to publish your **story**."
 
-Emma **read** the **email** three **times**. She **couldn't** **believe** it. Her **words** – the ones she'd **struggled** **over**, the ones she'd **written** **each** **day** even **when** it was **hard** – were going to be **published**. **Real** **people** would **read** them.
+Emma **read** the email three times. She couldn't believe it. Her words – the ones she'd struggled over, the ones she'd written **each** **day** even **when** it was hard – were going to be published. Real people would **read** them.
 
-"You **did** it!" Sarah **exclaimed** **when** Emma **shared** the **news**. "You **became** a **published** writer!"
+"You did it!" Sarah exclaimed **when** Emma shared the news. "You became a published **writer**!"
 
-"I **did**," Emma **said**, **smiling**. "But this is just the **beginning**. **Each** **story** I **write** **helps** me **become** **better**. I **want** to **keep** **writing**, **keep** **learning**, **keep** **growing**."
+"I did," Emma said, smiling. "But this is just the beginning. **Each** **story** I **write** helps me **become** better. I **want** to keep writing, keep learning, keep growing."
 
-That evening, Emma **sat** at her **desk** again. She **looked** at the **blank** **page** **in** **front** of her. **Each** **blank** **page** used to **scare** her. Now she **saw** it as an **opportunity** – a **space** **where** new **words** could **come** to **life**, **where** new **stories** could **begin**.
+That evening, Emma sat at her **desk** again. She looked at the blank **page** in front of her. **Each** blank **page** used to scare her. Now she saw it as an opportunity – a space **where** new words could **come** to life, **where** new stories could begin.
 
-She **started** **typing**. The **words** **came** more **easily** now. Not **because** **each** **word** was **perfect**, but **because** she'd **learned** to **trust** the **process**. She'd **learned** that **wanting** to **write** wasn't **enough** – you had to **actually** **write**. You had to **sit** down **each** **day** and **let** the **words** **come**, even **when** they didn't **come** **easily**.
+She started typing. The words came more easily now. Not **because** **each** **word** was perfect, but **because** she'd learned to trust the process. She'd learned that wanting to **write** wasn't enough – you had to actually **write**. You had to sit down **each** **day** and **let** the words **come**, even **when** they didn't **come** easily.
 
-**Why** did **words** **matter** so **much** to Emma? **Because** **each** **word** was a **choice**, a **tool**, a **building** **block**. Together, **words** **became** **sentences**. **Sentences** **became** **paragraphs**. **Paragraphs** **became** **stories**. And **stories** – **good** stories – could **change** **lives**.
+**Why** did words matter so much to Emma? **Because** **each** **word** was a choice, a tool, a building block. Together, words became sentences. Sentences became paragraphs. Paragraphs became stories. And stories – good stories – could change lives.
 
-Emma **wanted** to **become** the **kind** of writer **who** **changed** **lives**. Not through **fame** or **recognition**, but through the **simple** **act** of **putting** **words** on a **page** that **resonated** with **readers**. **Each** **story** she **wrote** was a **step** **toward** that **goal**.
+Emma wanted to **become** the kind of **writer** who changed lives. Not through fame or recognition, but through the simple act of putting words on a **page** that resonated with readers. **Each** **story** she wrote was a step toward that goal.
 
-**Each** **night**, **before** **going** to **sleep**, Emma would **read** a **few** **pages** from her **favorite** **books**. She **would** **study** **how** **each** **author** used **words**, **how** they **constructed** **sentences**, **why** certain **passages** **felt** **powerful**. She was **still** **learning**, **still** **growing**. And that was okay. **Becoming** a writer was a **lifelong** **journey**.
+**Each** night, before going to sleep, Emma would **read** a few pages from her favorite books. She would study **how** **each** author used words, **how** they constructed sentences, **why** certain passages felt powerful. She was still learning, still growing. And that was okay. Becoming a **writer** was a lifelong journey.
 
-"**Why** do you **read** so **much**?" Sarah **asked** her once.
+"**Why** do you **read** so much?" Sarah asked her once.
 
-"**Because** **reading** and **writing** are **connected**," Emma **replied**. "**Each** **book** I **read** **teaches** me **something** about **writing**. **Good** writers are **also** **good** **readers**. They **understand** **how** **words** **work** **because** they've **read** **thousands** of **pages** and **paid** **attention** to **how** other writers **use** **language**."
+"**Because** reading and writing are connected," Emma replied. "**Each** **book** I **read** teaches me something about writing. Good writers are also good readers. They understand **how** words work **because** they've **read** thousands of pages and paid attention to **how** other writers use language."
 
-Emma's **journey** **became** an **inspiration** to **others**. **Young** writers in her **community** would **come** to her for **advice**. "**How** can I **become** a writer?" they **would** **ask**.
+Emma's journey became an inspiration to others. **Young** writers in her community would **come** to her for advice. "**How** can I **become** a **writer**?" they would ask.
 
-Emma's **answer** was always the **same**: "**Write**. **Each** **day**, **write** **something**. Don't **wait** for **inspiration**. Don't **worry** about **whether** it's **good**. Just **write**. **Let** the **words** **come**. Over **time**, you'll **become** **better**. **Each** **day** of **writing** **brings** you **closer** to **becoming** the writer you **want** to be."
+Emma's answer was always the same: "**Write**. **Each** **day**, **write** something. Don't wait for inspiration. Don't worry about whether it's good. Just **write**. **Let** the words **come**. Over time, you'll **become** better. **Each** **day** of writing brings you closer to becoming the **writer** you **want** to be."
 
-She would **also** **tell** them: "**Read**. **Read** **everything**. **Read** **books** you **love** and **books** you **don't**. **Read** to **understand** **how** **words** **work**, **how** **stories** are **built**. **Each** **book** is a **lesson** in **writing**."
+She would also tell them: "**Read**. **Read** everything. **Read** books you love and books you don't. **Read** to understand **how** words work, **how** stories are built. **Each** **book** is a lesson in writing."
 
-And **finally**, she would **say**: "Remember **why** you **want** to **write**. **Each** **day** will **bring** challenges. There will be **days** **when** the **words** don't **come**, **when** you **wonder** **why** you're **doing** this. In those **moments**, **remember** **why** you **started**. **Remember** that **words** **matter**."
+And finally, she would say: "Remember **why** you **want** to **write**. **Each** **day** will **bring** challenges. There will be days **when** the words don't **come**, **when** you wonder **why** you're doing this. In those moments, remember **why** you started. Remember that words matter."
 
-Emma **knew** that her **journey** as a writer was just **beginning**. There would be **many** more **stories** to **write**, **many** more **lessons** to **learn**. But **each** **day** she **sat** at her **desk** and **put** **words** on the **page**, she was **becoming** the writer she **wanted** to be.
+Emma knew that her journey as a **writer** was just beginning. There would be many more stories to **write**, many more lessons to learn. But **each** **day** she sat at her **desk** and **put** words on the **page**, she was becoming the **writer** she wanted to be.
 
-**Because** in the **end**, that's **what** **becoming** a writer is **really** about: **showing** up **each** **day**, **letting** the **words** **come**, and **trusting** that **over** **time**, those **words** will **become** **something** **meaningful**. **Each** **word** matters. **Each** **day** of **writing** matters. And **each** **person** **who** **reads** your **words** and **feels** **something** – that matters **most** of all.
+**Because** in the end, that's **what** becoming a **writer** is really about: showing up **each** **day**, letting the words **come**, and trusting that over time, those words will **become** something meaningful. **Each** **word** matters. **Each** **day** of writing matters. And **each** person who reads your words and feels something – that matters most of all.
 
-Emma **smiled** as she **typed** the **final** **sentence** of her latest **story**. She **saved** the **document**, **closed** her **laptop**, and **looked** out her **window** at the **night** **sky**. **Each** **star** **reminded** her that even **small** **lights** can **shine** in the **darkness**. And that's **what** her **words** were – **small** **lights**, **shining** in the **vast** **darkness**, **hoping** to **reach** **someone** **who** **needed** them.
+Emma smiled as she typed the final sentence of her latest **story**. She saved the document, closed her laptop, and looked out her window at the night sky. **Each** star reminded her that even small lights can shine in the darkness. And that's **what** her words were – small lights, shining in the vast darkness, hoping to reach someone who needed them.
 
-**Each** **word** mattered. And **each** **day**, Emma would **keep** **writing** them.
+**Each** **word** mattered. And **each** **day**, Emma would keep writing them.
 
 ---
 

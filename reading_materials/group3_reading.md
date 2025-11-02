@@ -2,69 +2,69 @@
 
 ## 📖 Reading Passage: The School Garden Project
 
-**One** sunny morning, **Mrs.** Johnson stood **in** front **of** **our** **class** **and** announced something exciting. "**Children**," **she** said, "**I** have **an** idea **that** **could** change **our** **school** forever." We all leaned forward, curious **to** hear **what** **she** had **to** say.
+**One** sunny morning, Mrs. Johnson stood **in** front of our class and announced **something** exciting. "Children," she said, "I have an idea that could change our **school** forever." We all leaned forward, curious to hear what she had to say.
 
-"**Look** **out** **the** window," **she** continued, pointing **to** **the** empty space behind **the** playground. "**That** area has been empty **for** years. **Why** don't **we** turn **it** **into** **a** garden?"
+"Look **out** the window," she continued, pointing to the empty space behind the playground. "That area has been empty for years. **Why** don't we turn it into a garden?"
 
-**A** garden? **We** looked at each **other** with confusion. "**Really**?" asked Jamie, raising his hand. "**But** **we're** just kids. **How** **could** **we** do something **like** that?"
+A garden? We looked at each other with confusion. "**Really**?" asked Jamie, raising his hand. "But we're just kids. How could we do **something** like that?"
 
-**Mrs.** Johnson smiled warmly. "**That's** **the** wonderful thing **about** children. **You** have incredible imaginations **and** endless energy. **And** besides, **you** won't be **alone**. **I** **will** be there **to** help **you** **every** step **of** **the** way."
+Mrs. Johnson smiled warmly. "That's the wonderful thing about children. You have incredible imaginations and endless energy. And besides, you won't be alone. I will be there to help you every step of the way."
 
-**As** **she** spoke, **I** could feel excitement building inside me. "**When** do **we** start?" **I** asked, barely able **to** contain my enthusiasm.
+**As** she spoke, I could **feel** excitement building inside me. "**When** do we start?" I asked, barely able to contain my enthusiasm.
 
-"**Not** so fast," **she** laughed. "**First**, **we** need **to** plan **this** properly. **We** **should** **call** **a** meeting **after** **school** today **to** discuss everything."
+"Not so fast," she laughed. "First, we **need** to plan this properly. We **should** **call** a meeting **after** **school** today to discuss everything."
 
-**Later** that day, many **of** **us** gathered **in** **the** classroom. **Even** **those** students who usually didn't talk much seemed interested. **Mrs.** Johnson stood **at** **the** front **with** **a** large piece **of** paper.
+Later that day, many of **us** gathered **in** the classroom. **Even** **those** students who usually didn't **talk** **much** seemed interested. Mrs. Johnson stood at the front with a large piece of paper.
 
-"**Okay**, everyone," **she** began. "**Let's** **think** **about** what **we** need **to** consider. **What** should **we** plant? **How** **much** space do **we** need? **Who** **will** do what?"
+"Okay, everyone," she began. "Let's think about what we **need** to consider. What **should** we plant? How **much** space do we **need**? Who will do what?"
 
-**Very** quickly, **hands** went **up** all around **the** room. "**I** think **we** should plant vegetables," said Sarah. "**Then** **we** could donate them **to** people **in** need."
+**Very** quickly, hands went up all around the room. "I think we **should** plant vegetables," said Sarah. "**Then** we could donate them to people **in** **need**."
 
-"**That's** **a** great idea!" **Mrs.** Johnson exclaimed. "**What** else?"
+"That's a **great** idea!" Mrs. Johnson exclaimed. "What else?"
 
-"**We** could plant flowers too," added Michael. "**Flowers** make **people** happy."
+"We could plant flowers **too**," added Michael. "Flowers make people happy."
 
-"**And** **we** need **to** think **about** water," **said** Emma from **the** **back**. "**Plants** need **a** lot **of** water **to** grow."
+"And we **need** to think about water," said Emma from the **back**. "Plants **need** a lot of water to grow."
 
-"**Very** good points," **Mrs.** Johnson nodded, writing everything **down**. "**You** children are really thinking this **through**."
+"**Very** good points," Mrs. Johnson nodded, writing everything **down**. "You children are **really** thinking this **through**."
 
-**Over** **the** next few weeks, **our** project began **to** take shape. **We** drew plans **and** made lists. **We** even had **to** ask **the** school principal **for** permission **to** use **the** land. **When** he agreed, **we** were so excited **we** could barely stand still.
+**Over** the next few weeks, our project began to take shape. We drew plans and made lists. We **even** had to **ask** the **school** principal for permission to use the land. **When** he agreed, we were so excited we could barely stand **still**.
 
-**One** afternoon, **a** **woman** from **the** local garden center came **to** talk **to** **us**. "**I** heard **about** **your** project," **she** said warmly. "**And** **I** want **to** help."
+**One** afternoon, a **woman** from the local garden center came to **talk** to **us**. "I heard about your project," she said warmly. "And I want to help."
 
-**She** showed **us** how **to** prepare **the** soil **and** which plants would grow best **in** our climate. "**You** children are doing something **very** special," **she** told **us**. "**Never** underestimate **the** power **of** working together."
+She showed **us** how to prepare the soil and which plants would grow best **in** our climate. "You children are doing **something** **very** special," she told **us**. "**Never** underestimate the power of working together."
 
-**The** work was harder than any **of** **us** had expected. **We** had **to** clear **the** land **and** remove **all** **the** weeds. **Sometimes** **I** thought **my** back would break **from** digging **all** day. **But** when **I** looked around **and** saw **my** friends working alongside me, **I** didn't feel tired **anymore**.
+The **work** was harder than **any** of **us** had expected. We had to clear the land and remove all the weeds. Sometimes I thought my **back** would break from digging all day. But **when** I looked around and saw my friends working alongside me, I didn't **feel** tired anymore.
 
-**Only** **a** few students dropped **out** **of** **the** project. **Most** **of** **us** stayed, working **through** rain **and** shine. **We** learned **that** teamwork really makes things easier.
+**Only** a few students dropped **out** of the project. Most of **us** stayed, working **through** rain and shine. We learned that teamwork **really** makes things easier.
 
-**After** many weeks **of** hard **work**, **the** day finally came **when** **we** could plant our first seeds. **Each** **child** got **to** plant something. **I** chose tomatoes because they're **my** favorite.
+**After** many weeks of hard **work**, the day finally came **when** we could plant our first seeds. Each **child** got to plant **something**. I chose tomatoes **because** they're my favorite.
 
-**Mrs.** Johnson watched **us** with tears **in** **her** eyes. "**You** know," **she** said softly, "**this** is more than **just** **a** garden. **You** children are learning valuable lessons **about** responsibility **and** cooperation."
+Mrs. Johnson watched **us** with tears **in** **her** eyes. "You know," she said softly, "this is more than just a garden. You children are learning valuable lessons about responsibility and cooperation."
 
-**As** spring turned **into** summer, **our** garden began **to** flourish. **The** tiny green shoots pushed **up** **through** **the** soil, reaching **for** **the** sunlight. **We** watered them every day **and** made sure **no** pests bothered them.
+**As** spring turned into summer, our garden began to flourish. The tiny green shoots pushed up **through** the soil, reaching for the sunlight. We watered them every day and made sure **no** pests bothered them.
 
-**One** day, **a** younger student came **up** **to** me. "**Why** do **you** spend so much time **here**?" **he** asked curiously.
+**One** day, a younger student came up to me. "**Why** do you spend so **much** time here?" he asked curiously.
 
-**I** thought **for** **a** moment before answering. "**Because** this garden means something **to** me. **It's** not **just** plants **and** dirt. **It's** **a** place **where** **we** all work together **to** create something beautiful."
+I thought for a moment before answering. "**Because** this garden means **something** to me. It's not just plants and dirt. It's a place where we all **work** together to create **something** beautiful."
 
-**The** little boy looked confused, so **I** tried **to** explain better. "**You** see, **when** **we** first started, this was just an empty piece **of** land. **But** now, **it's** becoming **a** living thing. **And** **we're** part **of** that."
+The little boy looked confused, so I tried to explain better. "You see, **when** we first started, this was just an empty piece of land. But now, it's becoming a living thing. And we're part of that."
 
-**By** **the** time summer vacation arrived, **our** garden was thriving. **We** had tall sunflowers, bright tomatoes, **and** colorful zinnias. **The** **whole** **school** came **to** see what **we** had accomplished.
+By the time summer vacation arrived, our garden was thriving. We had tall sunflowers, bright tomatoes, and colorful zinnias. The whole **school** came to see what we had accomplished.
 
-**Even** **the** local newspaper wrote **a** story **about** **us**. "**Children** Transform School Space," **the** headline read. **When** **I** saw **the** article, **I** felt so proud **of** what **we** had done.
+**Even** the local newspaper wrote a story about **us**. "Children Transform **School** Space," the headline read. **When** I saw the article, I felt so proud of what we had done.
 
-**On** **the** last day **of** **school**, **we** had **a** celebration **in** **our** garden. **Each** **class** came **to** tour **the** garden, **and** **we** explained how **we** had made it happen.
+**On** the **last** day of **school**, we had a celebration **in** our garden. Each class came to tour the garden, and we explained how we had made it happen.
 
-**Mrs.** Johnson gave **a** speech. "**This** garden started as **one** small idea," **she** told everyone. "**But** through **the** hard **work** **and** dedication **of** these wonderful children, **it** has become something much greater. **They** have shown **us** all **that** age is **just** **a** number, **and** **that** anyone can make **a** difference **if** they try."
+Mrs. Johnson gave a speech. "This garden started **as** **one** small idea," she told everyone. "But **through** the hard **work** and dedication of these wonderful children, it has become **something** **much** greater. They have shown **us** all that age is just a number, and that anyone can make a difference if they **try**."
 
-**As** **I** stood there, looking **at** **the** beautiful garden **that** **we** had created, **I** realized **she** was right. **This** experience had changed me **in** so many ways. **I** had learned **that** working together **really** can accomplish amazing things.
+**As** I stood there, looking at the beautiful garden that we had created, I realized she was **right**. This experience had changed me **in** so many ways. I had learned that working together **really** can accomplish amazing things.
 
-**Yeah**, **it** was hard **work**. **And** yeah, there were days **when** **I** wanted **to** give **up**. **But** looking **at** **the** thriving plants **and** happy faces around me, **I** knew **it** was all worth **it**.
+**Yeah**, it was hard **work**. And **yeah**, there were days **when** I wanted to give up. But looking at the thriving plants and happy faces around me, I knew it was all worth it.
 
-**Never** **in** **my** life had **I** felt so accomplished. **This** garden wasn't **just** **a** project anymore - **it** was **a** part **of** **me**, **a** part **of** **all** **of** **us**. **And** somehow, **I** knew **that** this was **only** **the** beginning **of** what **we** could do **together**.
+**Never** **in** my **life** had I felt so accomplished. This garden wasn't just a project anymore - it was a part of me, a part of all of **us**. And somehow, I knew that this was **only** the beginning of what we could do together.
 
-**The** world is full **of** empty spaces **that** need transforming. **And** somewhere out there, there are children who will take **on** **the** challenge, **just** **like** **we** did. **Because** when children work together **with** passion **and** determination, **there** is **no** limit **to** what **they** can achieve.
+The **world** is full of empty spaces that **need** transforming. And somewhere **out** there, there are children who will take **on** the challenge, just like we did. **Because** **when** children **work** together with passion and determination, there is **no** limit to what they can achieve.
 
 ---
 

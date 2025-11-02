@@ -2,85 +2,85 @@
 
 ## 📖 Reading Passage: The Community Service Team
 
-"**Hey**, Jamie! **Wait** **up**!" I called **out** as I saw my **best** **friend** walking **away** **from** school. "**I** have an **idea** I want to share with you."
+"**Hey**, Jamie! **Wait** up!" I called out as I saw my **best** friend walking **away** from school. "I have an **idea** I want to share with you."
 
-Jamie turned around, a questioning **look** **in** his **eye**. "**What** is it? You have that excited expression again."
+Jamie turned around, a questioning look in his **eye**. "What is it? You have that excited expression again."
 
-"**Maybe** it's something **important**," I replied, catching my breath. "**Remember** how we talked **about** starting a **community** **service** **team** **at** school?"
+"**Maybe** it's something **important**," I replied, catching my breath. "Remember how we talked about starting a community **service** **team** at school?"
 
-Jamie's face lit up. "**Actually**, I was just thinking **about** that **same** **thing**! **But** I'm not **sure** where to **begin**."
+Jamie's face lit up. "**Actually**, I was just thinking about that same thing! But I'm not sure where to begin."
 
-"**I** might have the **answer**," I said confidently. "**My** **mother** works **for** a local **business** that provides **services** to families **in** need. **She** mentioned they need volunteers **to** **help** **under**privileged **kids**."
+"I might have the answer," I said confidently. "My **mother** works for a local **business** that provides services to families in need. She mentioned they need volunteers to help underprivileged kids."
 
-**That** was how our journey began. **Since** that conversation, we've built **one** of the **most** successful **service** **teams** **in** our school district. **Though** it wasn't **always** easy, the experience has been incredibly rewarding.
+That was how our journey began. **Since** that conversation, we've built one of the most successful **service** teams in our school district. **Though** it wasn't always easy, the experience has been incredibly rewarding.
 
-**The** **first** **challenge** we faced was finding a place **to** meet. **We** needed a **room** **large** enough **to** hold our planning sessions. "**Hey**, Mr. Thompson," I approached our school principal. "**Could** we **use** that empty classroom **under** the library?"
+The first challenge we faced was finding a place to **meet**. We needed a **room** **large** enough to hold our planning sessions. "**Hey**, Mr. Thompson," I approached our school principal. "Could we use that empty classroom **under** the library?"
 
-Mr. Thompson looked at us thoughtfully. "**What** **kind** of **service** are you planning to **provide**?" he asked.
+Mr. Thompson looked at us thoughtfully. "What **kind** of **service** are you planning to **provide**?" he asked.
 
-"**We** want to **help** **young** children with their homework **and** **study** skills," Jamie explained. "**And** maybe **teach** them some **real** life skills too."
+"We want to help **young** children with their homework and **study** skills," Jamie explained. "And **maybe** teach them some **real** life skills too."
 
-"**That** sounds like a wonderful **idea**," the principal smiled. "**But** you'll need adult supervision. **I'll **talk** to your parents **about** it."
+"That sounds like a wonderful **idea**," the principal smiled. "But you'll need adult supervision. I'll talk to your parents about it."
 
-**After** getting permission, we had to recruit members. **We** made posters and put them **up** **all** **over** the school. "**Join** **our** **team**!" the posters read. "**Make** a difference **in** your community!"
+**After** getting permission, we had to recruit members. We made posters and put them up all over the school. "Join our **team**!" the posters read. "Make a difference in your community!"
 
-**Within** a **week**, we had twenty interested students. **Our** **first** official **meeting** was held **in** the designated **room**. **Everyone** sat **in** a circle **on** the floor.
+Within a week, we had twenty interested students. Our first official meeting was held in the designated **room**. Everyone sat in a circle on the floor.
 
-"**Okay**, everyone," I began, feeling nervous but excited. "**Thank** you for coming. **Let**'s introduce ourselves. **I'll **go** **first**. **My** **name** is Alex, and I believe **that** **every** **person** can make a difference."
+"**Okay**, everyone," I began, feeling nervous but excited. "**Thank** you for coming. Let's introduce ourselves. I'll go first. My **name** is Alex, and I believe that every **person** can make a difference."
 
-**Each** **person** shared their **name** and why they wanted to join. **Some** wanted to gain experience for college applications. **Others** genuinely wanted to **help** people. **Both** reasons were valid.
+Each **person** shared their **name** and why they wanted to join. Some wanted to gain experience for college applications. Others genuinely wanted to help people. **Both** reasons were valid.
 
-**Then** Jamie stood **up**. "**My** **name** is Jamie, and I'm passionate **about** education. **I** think knowledge is **power**, and **we** have the **power** to change lives."
+Then Jamie stood up. "My **name** is Jamie, and I'm passionate about education. I think knowledge is **power**, and we have the **power** to change lives."
 
-**Our** **next** step was to **understand** the **issue** more deeply. **We** invited my **mother** to speak **to** our **team**.
+Our next step was to **understand** the **issue** more deeply. We invited my **mother** to speak to our **team**.
 
-"**Eighty** **percent** of the children **in** this **area** come **from** low-income families," she explained. "**Many** parents **work** **long** hours and can't **help** with homework. **That's** where you come **in**."
+"Eighty **percent** of the children in this **area** come from low-income families," she explained. "Many parents work **long** hours and can't help with homework. That's where you come in."
 
-**The** **real** work began soon **after**. **We** paired up **each** volunteer with a **child** who needed **help**. **I** was paired with a **young** girl named Lily.
+The **real** work began soon **after**. We paired up each volunteer with a child who needed help. I was paired with a **young** girl named Lily.
 
-**At** **first**, Lily was shy and didn't want to **talk** much. "**It's** **okay**," I told her gently. "**We** can go **at** your own pace."
+At first, Lily was shy and didn't want to talk much. "It's **okay**," I told her gently. "We can go at your own pace."
 
-**Week** after **week**, Lily began to open **up**. **She** was bright but struggled with reading. "**I** **don't **understand** these **words**," she said one day, pointing **to** her book.
+Week **after** week, Lily began to open up. She was bright but struggled with reading. "I don't **understand** these words," she said one day, pointing to her book.
 
-"**Let**'s break them **down** together," I suggested. **We** spent the **long** afternoon working **on** vocabulary. **By** the time her **mother** came to pick her **up**, Lily had read three pages **by** herself.
+"Let's break them down together," I suggested. We spent the **long** afternoon working on vocabulary. By the time her **mother** came to pick her up, Lily had read three pages by herself.
 
-**Her** **mother**'s eyes filled with tears. "**Thank** you so much," she whispered. "**I** work **far** **away** and can't **always** be here to **help**."
+Her **mother**'s eyes filled with tears. "**Thank** you so much," she whispered. "I work **far** **away** and can't always be here to help."
 
-**Though** we were making progress, we faced challenges too. **Some** children had behavioral **issues**. **Others** missed sessions frequently. **But** we learned to be patient and flexible.
+**Though** we were making progress, we faced challenges too. Some children had behavioral issues. Others missed sessions frequently. But we learned to be patient and flexible.
 
-**One** day, a local **business** owner heard **about** our program. "**I** want to support what you're doing," he said. "**I'll **pay** for supplies **and** snacks **for** the kids."
+One day, a local **business** owner heard about our program. "I want to support what you're doing," he said. "I'll **pay** for supplies and snacks for the kids."
 
-**His** support made a huge difference. **We** could now provide better materials **and** create a more welcoming environment.
+His support made a huge difference. We could now **provide** better materials and create a more welcoming environment.
 
-**As** **months** passed, our **team** grew stronger. **We** developed a system where **each** volunteer had specific responsibilities. **Some** focused **on** tutoring, **others** **on** organizing activities, and **both** sides worked together seamlessly.
+As months passed, our **team** grew stronger. We developed a system where each volunteer had specific responsibilities. Some focused on tutoring, others on organizing activities, and **both** sides worked together seamlessly.
 
-**The** children showed remarkable improvement. **Not** only **in** their grades, **but** also **in** their confidence. **Eighty** **percent** of them showed significant progress **in** their studies.
+The children showed remarkable improvement. Not only in their grades, but also in their confidence. Eighty **percent** of them showed significant progress in their studies.
 
-**Yet**, the **most** important change wasn't measurable **by** grades. **It** was the change **in** their **eyes** - the spark of hope and curiosity.
+**Yet**, the most **important** change wasn't measurable by grades. It was the change in their eyes - the spark of hope and curiosity.
 
-**When** the school year ended, we held a celebration. **Every** **child** received a certificate **of** achievement. **Each** volunteer got recognition **for** their service.
+When the school year ended, we held a celebration. Every child received a certificate of achievement. Each volunteer got recognition for their **service**.
 
-**My** **mother** was there, watching proudly. "**You** **kids** have done something truly special," she said. "**You've** shown that **young** people can lead too."
+My **mother** was there, watching proudly. "You kids have done something truly special," she said. "You've shown that **young** people can lead too."
 
-**Mr. Thompson, our principal, gave a speech too. "**This** program started as a **small** **idea**, **but** it has become something **much** **larger**. **You** have provided an invaluable **service** to our community."
+Mr. Thompson, our principal, gave a speech too. "This program started as a small **idea**, but it has become something much larger. You have provided an invaluable **service** to our community."
 
-**Looking** back **on** that year, I realize how much we learned. **We** learned **that** **real** leadership isn't **about** being **in** charge. **It's** **about** serving others.
+Looking back on that year, I realize how much we learned. We learned that **real** leadership isn't about being in charge. It's about serving others.
 
-**We** learned that **every** **person** has something valuable to contribute. **Whether** you're good **at** math, art, or simply being **kind**, you can make a difference.
+We learned that every **person** has something valuable to contribute. Whether you're good at math, art, or simply being **kind**, you can make a difference.
 
-**And** we learned that **team** work makes everything better. **Though** each **person** contributes individually, **together** we achieve more.
+And we learned that **team** work makes everything better. **Though** each **person** contributes individually, together we achieve more.
 
-**Now**, **as** we plan for the **next** year, we have even bigger goals. **We** want to expand our **service** to **more** areas. **We** want to reach even **more** children.
+Now, as we plan for the next year, we have even bigger goals. We want to expand our **service** to more areas. We want to reach even more children.
 
-**But** for **right** now, I'm just grateful **for** what we've accomplished. **I** look **at** the faces **of** the children we've helped, and I know this was worth every **moment**.
+But for **right** now, I'm just grateful for what we've accomplished. I look at the faces of the children we've helped, and I know this was worth every moment.
 
-**Sometimes**, **when** I'm **under** pressure or feeling overwhelmed, I remember Lily's smile the day she read her **first** book **by** herself. **That** memory gives me the **power** to keep going.
+Sometimes, when I'm **under** pressure or feeling overwhelmed, I remember Lily's smile the day she read her first book by herself. That memory gives me the **power** to keep going.
 
-**Service** isn't just **about** helping others. **It's** **about** growing yourself too. **You** gain perspective, develop empathy, and understand the world better.
+**Service** isn't just about helping others. It's about growing yourself too. You gain perspective, develop empathy, and **understand** the world better.
 
-**As** I think **about** the future, I know this is just the beginning. **The** **law** of service is simple: **the** more you give, the more you receive.
+As I think about the future, I know this is just the beginning. The **law** of **service** is simple: the more you give, the more you receive.
 
-**And** I can't **wait** to see what we'll accomplish together **next**.
+And I can't **wait** to see what we'll accomplish together next**.
 
 ---
 

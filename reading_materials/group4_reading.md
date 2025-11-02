@@ -2,77 +2,77 @@
 
 ## 📖 Reading Passage: The School President Election
 
-**Every** **year** at Lincoln **High** **School**, something exciting happens - **the** **student** council election. This **year** was **no** different, **and** **I** had decided **to** run **for** **president**. "**Keep** calm **and** believe **in** yourself," **my** older sister told me **the** night before **the** big day.
+**Every** year at Lincoln **High** **School**, something exciting happens - the **student** council election. This year was no different, and I had decided to run for **president**. "**Keep** calm and **believe** in yourself," my older sister told me the night before the **big** day.
 
-**The** next morning, **I** walked **into** **school** feeling nervous but determined. "**Where** do **we** **put** **up** our campaign posters?" **asked** my best friend Alex, who was managing my campaign.
+The next morning, I walked into **school** feeling nervous but determined. "**Where** do we **put** up our campaign posters?" asked my best friend Alex, who was managing my campaign.
 
-"**All** **over** **the** **place**," **I** said **with** **a** smile. "**We** want **every** **student** to **see** them."
+"**All** **over** the **place**," I said with a smile. "We want **every** **student** to see them."
 
-**As** **we** worked, **I** noticed **another** candidate, Sarah, **also** putting **up** her posters. **She** was **the** captain **of** **the** debate team **and** **very** popular. "**This** might be **a** problem**," **I** thought **to** myself.
+As we worked, I noticed **another** candidate, Sarah, also putting up her posters. She was the captain of the debate team and very popular. "This **might** be a **problem**," I thought to myself.
 
-**Just** **then**, **the** school principal, Mr. Thompson, walked **by**. "**Good** luck, candidates," **he** said cheerfully. "**Remember**, **the** **most** important **thing** is **to** **show** leadership **and** integrity."
+Just then, the **school** principal, Mr. Thompson, walked by. "Good luck, candidates," he said cheerfully. "Remember, the **most** important thing is to **show** leadership and integrity."
 
-"**Yes**, sir," **we** both replied politely.
+"**Yes**, sir," we both replied politely.
 
-**Three** hours later, **it** was **time** **for** **the** **all**-**school** assembly **where** each candidate would give their speech. **My** heart was beating fast **as** **I** waited **for** **my** **turn**.
+**Three** hours later, it was time for the **all**-**school** assembly **where** each candidate would give their speech. My heart was beating fast as I waited for my **turn**.
 
-**When** **my** name was called, **I** walked **to** **the** podium **and** took **a** deep breath. "**Fellow** students," **I** began, **my** voice shaking slightly at **first**. "**I** believe **that** **our** **school** can become **a** **better** **place** **for** **everyone**."
+When my name was called, I walked to the podium and took a deep breath. "Fellow students," I began, my voice shaking slightly at first. "I **believe** that our **school** can **become** a better **place** for everyone."
 
-**I** talked **about** my plans **to** **help** **students** who were struggling **with** their studies. "**We** should **start** **a** tutoring program," **I** suggested. "**And** **we** need **to** **keep** our campus clean **and** beautiful."
+I talked about my plans to **help** students who were struggling with their studies. "We should **start** a tutoring program," I suggested. "And we need to **keep** our campus clean and beautiful."
 
-**While** **I** was speaking, **I** could **see** **the** **students** listening carefully. **Some** nodded **in** agreement, **while** others seemed **to** be thinking deeply.
+**While** I was speaking, I could see the students listening carefully. Some nodded in agreement, **while** others seemed to be thinking deeply.
 
-**After** my speech, **it** was Sarah's **turn**. **She** was very confident **and** spoke **about** her experience **as** debate team captain. "**I** have **the** skills to lead," **she** said firmly. "**And** **I** will **not** let **anyone** **down**."
+After my speech, it was Sarah's **turn**. She was very confident and spoke about her experience as debate team captain. "I have the skills to lead," she said firmly. "And I will not let anyone down."
 
-**Between** **the** two **of** **us**, **the** competition was fierce. **But** somehow, **I** felt good **about** what **I** had said. "**You** did great," Alex whispered **as** **we** sat **back** down.
+**Between** the two of us, the competition was fierce. But somehow, I felt good about what I had said. "You did great," Alex whispered as we sat back down.
 
-**The** voting took **place** during lunch, **and** **by** **the** end **of** **the** day, **it** was **time** to announce **the** results. **All** **the** **students** gathered **in** **the** auditorium **once** more.
+The voting took **place** during lunch, and by the end of the day, it was time to announce the results. **All** the students gathered in the auditorium once more.
 
-"**And** **the** new **student** **president** is..." Mr. Thompson began, building **the** suspense.
+"And the new **student** **president** is..." Mr. Thompson began, building the suspense.
 
-**I** held my breath **while** **he** opened **the** envelope. "...Sarah Johnson!"
+I held my breath **while** he opened the envelope. "...Sarah Johnson!"
 
-**There** was **a** moment **of** silence, **then** loud applause. **Sarah** walked **to** **the** stage **with** **a** huge smile **on** her face. **I** clapped **too**, **even** though **my** heart felt heavy.
+There was a moment of silence, then loud applause. Sarah walked to the stage with a huge smile on her face. I clapped too, even though my heart felt heavy.
 
-**After** **the** assembly, Sarah came **over** to me. "**You** were amazing **up** there," **she** said sincerely. "**I** really liked your ideas **about** **the** tutoring program."
+After the assembly, Sarah came **over** to me. "You were amazing up there," she said sincerely. "I really liked your ideas about the tutoring program."
 
-"**Thank** you," **I** replied, trying **to** **sound** cheerful. "**Congratulations**."
+"Thank you," I replied, trying to sound cheerful. "Congratulations."
 
-"**Listen**," **she** continued, "**I** need someone to **help** me **with** **the** **student** council. **Would** **you** like **to** be **part** **of** my team?"
+"Listen," she continued, "I need someone to **help** me with the **student** council. Would you **like** to be **part** of my team?"
 
-**I** was surprised but happy. "**Really**?"
+I was surprised but happy. "Really?"
 
-"**Of** course! **Your** ideas were **so** good. **We** might **start** that tutoring program **together**."
+"Of course! Your ideas were **so** good. We **might** **start** that tutoring program together."
 
-**That** moment changed everything. **I** realized that winning wasn't **the** **most** important **thing**. **What** mattered was working **together** to make our **school** better.
+That moment changed everything. I realized that winning wasn't the **most** important thing. What mattered was working together to make our **school** better.
 
-**Over** **the** next few **weeks**, Sarah **and** **I** became good friends. **We** worked **on** **the** tutoring program **and** many other projects. **Every** **student** seemed to benefit **from** our efforts.
+**Over** the next **few** weeks, Sarah and I became good friends. We worked on the tutoring program and many other projects. **Every** **student** seemed to benefit from our efforts.
 
-**One** afternoon, **my** **family** came to watch **a** presentation **we** were giving. **My** parents were proud, **and** **so** was **my** older sister.
+One afternoon, my **family** came to watch a presentation we were giving. My parents were proud, and **so** was my older sister.
 
-"**You** **always** were **a** natural leader," **she** told me later.
+"You **always** were a natural leader," she told me later.
 
-**The** **same** **week**, **the** local newspaper wrote **a** story **about** our successful collaboration. "**Student** Leaders **Show** **the** Power **of** Teamwork," **the** headline read.
+The **same** **week**, the local newspaper wrote a story about our successful collaboration. "**Student** Leaders **Show** the Power of Teamwork," the headline read.
 
-**As** **the** **year** went **on**, **more** **and** **more** **students** got involved **in** **school** activities. **It** seemed **like** **every** day there was something new happening.
+As the year went on, more and more students got involved in **school** activities. It seemed **like** **every** day there was something new happening.
 
-**Sometimes**, **when** **I** think **back** **on** that election, **I** wonder **what** might have happened **if** **I** had won. **But** **then** **I** remember **that** everything worked **out** **for** **the** best.
+Sometimes, when I think back on that election, I wonder what **might** have happened if I had won. But then I remember that everything worked out for the best.
 
-**Sarah** **still** serves **as** **president**, **and** **I** continue **to** **help** **her** lead. **We** make **a** great team, **and** **our** **school** has become **a** model **for** others.
+Sarah still serves as **president**, and I continue to **help** her lead. We make a great team, and our **school** has **become** a model for others.
 
-**Last** **month**, **the** **school** district **president** came to visit. "**What** **you** **students** have accomplished here is remarkable," **she** told **us**.
+Last month, the **school** district **president** came to visit. "What you students have accomplished here is remarkable," she told us.
 
-**She** asked **where** **we** got our ideas, **and** **I** explained how **the** election had brought **us** together. "**It** was **like** **a** gift," **I** said. "**We** learned to **play** **to** **each** other's strengths."
+She asked **where** we got our ideas, and I explained how the election had brought us together. "It was **like** a gift," I said. "We learned to **play** to each other's strengths."
 
-**The** district **president** nodded thoughtfully. "**That's** **a** valuable lesson **for** **all** **of** **us**."
+The district **president** nodded thoughtfully. "That's a valuable lesson for **all** of us."
 
-**Now**, **whenever** **I** **see** younger **students** who seem unsure **of** themselves, **I** remember **my** own experience. "**Don't** be afraid to try," **I** tell them. "**Even** **if** **you** don't win, **you** might gain something much more valuable."
+Now, whenever I see younger students who **seem** unsure of themselves, I remember my **own** experience. "Don't be afraid to try," I tell them. "Even if you don't win, you **might** gain something much more valuable."
 
-**Because** **in** **the** end, **it's** not **about** winning or losing. **It's** **about** believing **in** yourself **and** being willing to **help** others. **And** sometimes, **the** greatest victories **happen** **when** **you** least expect them.
+Because in the end, it's not about winning or losing. It's about believing in yourself and being willing to **help** others. And sometimes, the greatest victories **happen** when you least expect them.
 
-**Every** **week**, **I** try **to** **keep** that lesson **in** mind. **Whether** **I'm** working **on** **a** **group** project **or** helping someone with their **homework**, **I** remember **that** true leadership isn't **about** being **in** charge.
+**Every** **week**, I try to **keep** that lesson in mind. Whether I'm working on a **group** project or helping someone with their homework, I remember that true leadership isn't about being in charge.
 
-**It's** **about** making **a** positive difference, **no** matter **how** **small**. **And** **that's** **a** lesson **that** will stay **with** me **always**.
+It's about making a positive difference, no matter how small. And that's a lesson that will stay with me **always****.
 
 ---
 

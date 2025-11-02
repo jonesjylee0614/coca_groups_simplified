@@ -2,73 +2,73 @@
 
 ## 📖 Reading Passage: The American Dream Story
 
-**Every** **month**, I read stories **about** people who achieve their dreams, but **nothing** compares to **my** **friend** Alex's journey. **His** **story** began **in** a **small** town **where** opportunities seemed limited. "**I** **must** **move** to the **city**," he told me one **night**. "**Without** change, I'll **ever** achieve **anything**."
+Every **month**, I **read** stories **about** people who achieve their dreams, but **nothing** compares to my **friend** Alex's journey. His **story** began in a **small** town where opportunities seemed limited. "I **must** **move** to the **city**," he told me one **night**. "**Without** change, I'll **ever** achieve **anything**."
 
-**The** **next** day, Alex packed his **bag** and said goodbye. "**I'm** **against** staying here **without** trying," he explained. "**Most** people think it's a **bad** idea, but I **believe** **in** this **move**."
+The **next** day, Alex packed his bag and said goodbye. "I'm **against** staying here **without** trying," he explained. "**Most** people think it's a **bad** idea, but I believe in this **move**."
 
-**In** the beginning, **life** **in** the big **American** **city** was tough. Alex had **no** **money** and needed to find a **job** quickly. "**I'll **take** **any** **work** I can find," he said, determination **in** his voice.
+In the beginning, life in the big **American** **city** was tough. Alex had no **money** and needed to find a **job** quickly. "I'll take any **work** I can find," he said, determination in his voice.
 
-**During** **those** difficult **months**, Alex lived **in** a **small** apartment with **little** furniture. **Each** **night**, he would **write** **down** his goals **and** **read** motivational **books**. "**Books** are my **best** **friends**," he told me **during** one **of** our phone calls.
+**During** those difficult months, Alex lived in a **small** apartment with **little** furniture. **Each** **night**, he would **write** down his goals and **read** motivational books. "Books are my best friends," he told me **during** one of our phone calls.
 
-**One** day, Alex saw an advertisement **for** a **program** at a local **company**. "**This** could be my chance," he thought. **The** **company** was looking **for** someone with computer skills, and Alex had spent **months** teaching himself.
+One day, Alex saw an advertisement for a **program** at a local **company**. "This could be my chance," he thought. The **company** was looking for someone with computer skills, and Alex had spent months teaching himself.
 
-**The** **question** was: could he compete **against** other candidates? **In** **this** **case**, preparation was **everything**. Alex spent weeks studying **for** the interview.
+The **question** was: could he compete **against** other candidates? In this **case**, preparation was everything. Alex spent weeks studying for the interview.
 
-**When** the day **of** the interview arrived, Alex was nervous but confident. "**I** have **nothing** to lose," he reminded himself.
+When the day of the interview arrived, Alex was nervous but confident. "I have **nothing** to lose," he reminded himself.
 
-**The** interviewer, a friendly **guy** named David, asked tough questions. "**Tell** me **about** a time when you faced a challenge," David said.
+The interviewer, a friendly **guy** named David, asked tough questions. "Tell me **about** a time when you faced a challenge," David said.
 
-Alex thought carefully **before** answering. "**I** **ran** into financial difficulties when I first moved here," he began. "**But** I didn't **give** **up**. **Instead**, I took **any** job available and studied **at** **night**."
+Alex thought carefully **before** answering. "I ran into financial difficulties when I first moved here," he began. "But I didn't give up. Instead, I took any **job** available and studied at **night**."
 
-David nodded, impressed. "**That's** impressive. **Now**, let me ask you another **question**: **where** do you see yourself **in** five years?"
+David nodded, impressed. "That's impressive. Now, let me ask you another **question**: where do you see yourself in five years?"
 
-"**I** want to **be** **in** a position where I can **bring** positive change to the **company**," Alex replied sincerely.
+"I want to be in a position where I can **bring** positive change to the **company**," Alex replied sincerely.
 
-**After** the interview, Alex had to wait **for** the results. **During** that time, he continued to **work** hard **and** improve his skills.
+After the interview, Alex had to wait for the results. **During** that time, he continued to **work** hard and improve his skills.
 
-**A** **week** later, he received the call. "Congratulations, Alex! You got the **job**!"
+A week later, he received the call. "Congratulations, Alex! You got the **job**!"
 
-Alex couldn't believe his ears. "**Are** **you** **sure**?" he asked, needing confirmation.
+Alex couldn't believe his ears. "Are you **sure**?" he asked, needing confirmation.
 
-"**Absolutely** **sure**," the HR manager laughed. "**We** were impressed by your determination."
+"Absolutely **sure**," the HR manager laughed. "We were impressed by your determination."
 
-**That** was the **beginning** of Alex's success **story**. **As** **months** passed, he proved himself to be a valuable employee. **His** hard **work** and dedication didn't go unnoticed.
+That was the beginning of Alex's success **story**. As months passed, he proved himself to be a valuable employee. His hard **work** and dedication didn't go unnoticed.
 
-**The** **government** even recognized his achievements **in** a local ceremony. "**Alex** represents the **American** Dream," the mayor said during the event.
+The **government** even recognized his achievements in a local ceremony. "Alex represents the **American** Dream," the mayor said **during** the event.
 
-Alex's **friend** from his hometown came to visit. "**I** can't believe this is the **same** person who left our **small** town," his friend said, looking around Alex's nice apartment.
+Alex's **friend** from his hometown came to visit. "I can't believe this is the same person who left our **small** town," his **friend** said, looking around Alex's nice apartment.
 
-"People** can change **for** the **better**," Alex replied with a smile. "**All** it takes is belief **and** hard **work**."
+"People can change for the better," Alex replied with a smile. "All it takes is belief and hard **work**."
 
-**Today**, Alex continues to **write** his **story**. "**I'm** living proof that **anything** is possible," he often tells young people who seek his advice.
+**Today**, Alex continues to **write** his **story**. "I'm living proof that **anything** is possible," he often tells young people who seek his advice.
 
-**The** **number** of people he has inspired continues to grow. "**I** just want to **bring** hope to others," he explains.
+The **number** of people he has inspired continues to grow. "I just want to **bring** hope to others," he explains.
 
-**In** **fact**, Alex started a mentoring **program** to **help** others achieve their goals. "**Each** one, teach one," is his motto.
+In **fact**, Alex started a mentoring **program** to help others achieve their goals. "**Each** one, teach one," is his motto.
 
-**Every** **night**, **before** going to bed, Alex takes a moment to reflect. "**I'm** grateful **for** how far I've come," he says. "**But** I know there's still more **work** to do."
+Every **night**, **before** going to bed, Alex takes a moment to reflect. "I'm grateful for how far I've come," he says. "But I know there's still more **work** to do."
 
-**His** **story** teaches us several important lessons:
+His **story** teaches us several important lessons:
 
-**First**, never be afraid to **move** out of your comfort zone.
+First, never be afraid to **move** out of your comfort zone.
 
-**Second**, education is a powerful tool - **read** **books**, learn new skills, never stop growing.
+Second, education is a powerful tool - **read** books, learn new skills, never stop growing.
 
-**Third**, **hold** on to your dreams, even when things get difficult.
+Third, **hold** on to your dreams, even when things get difficult.
 
-**Fourth**, **love** what you do, and success will follow.
+Fourth, **love** what you do, and success will follow.
 
-**And** finally, remember that **every** great achievement begins with a **small** step.
+And finally, remember that every great achievement begins with a **small** step.
 
-**When** I asked Alex **what** advice he would give to others, he didn't hesitate. "**Don't **ever** let anyone tell you that you can't achieve something. **The** only person who can limit you is yourself."
+When I asked Alex what advice he would give to others, he didn't hesitate. "Don't **ever** let anyone tell you that you can't achieve something. The only person who can limit you is yourself."
 
-**In** **this** **game** of life, we **must** all play our **best**. Whether we're working **for** a **company**, starting our own business, or trying to make a difference **in** our community, the principles are the **same**.
+In this **game** of life, we **must** all play our best. Whether we're working for a **company**, starting our own business, or trying to make a difference in our community, the principles are the same.
 
-**Alex's** journey shows us that the **American** Dream isn't just **about** **money** or success. **It's** **about** becoming the **best** version of yourself and helping others along the way.
+Alex's journey shows us that the **American** Dream isn't just **about** **money** or success. It's **about** becoming the best version of yourself and helping others along the way.
 
-**As** I **write** this **story**, I hope it inspires you to chase your own dreams. **After** **all**, if Alex can go **from** having **nothing** to achieving his goals, so can you.
+As I **write** this **story**, I hope it inspires you to chase your own dreams. After all, if Alex can go from having **nothing** to achieving his goals, so can you.
 
-**The** **next** chapter **in** your **story** is waiting to be written. **All** you have to do is **begin**.
+The **next** chapter in your **story** is waiting to be written. All you have to do is **begin****.
 
 ---
 

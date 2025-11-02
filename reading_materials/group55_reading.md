@@ -2,124 +2,124 @@
 
 ## 📖 Reading Passage: The Broken Clock
 
-The old **clock** on the wall was **broken**, its hands frozen at 3:15. Detective Sarah Martinez stood in the **abandoned** **apartment**, trying to **arrange** the pieces of the **puzzle**. A **gang** member had been found **dead** here three days ago, and the **investigation** was going nowhere.
+The old **clock** on the wall was **broken**, its hands frozen at 3:15. Detective Sarah Martinez stood in the abandoned apartment, trying to **arrange** the pieces of the puzzle. A **gang** member had been found dead here three days ago, and the investigation was going nowhere.
 
-"For the **sake** of this case, we need to **properly** **examine** every detail," she said to her **partner**, Officer Chen. The **sequence** of events didn't make **sense**. The **victim**, known as "Wolf" in the criminal **underworld**, had many **enemies**, but the **manner** of his **death** was **unusual**.
+"For the **sake** of this case, we need to **properly** examine every detail," she said to her partner, Officer Chen. The **sequence** of events didn't make sense. The victim, known as "**Wolf**" in the criminal underworld, had many enemies, but the manner of his death was unusual.
 
-Sarah's **stomach** **tightened** as she **reviewed** the **crime** **scene** **photographs**. There was a **bullet** **hole** in the **wall**, but no **bullet** had been **found**. A **battery** from a **smartphone** lay on the floor, **deliberately** **placed**, it seemed. The **scene** was **staged**, but why?
+Sarah's **stomach** tightened as she reviewed the crime scene photographs. There was a **bullet** hole in the wall, but no **bullet** had been found. A **battery** from a smartphone lay on the floor, deliberately placed, it seemed. The scene was staged, but why?
 
-"**Originally**, I thought this was a **simple** **gang** **killing**," Chen said. "But the more I **look**, the more **complicated** it becomes."
+"**Originally**, I thought this was a simple **gang** killing," Chen said. "But the more I look, the more **complicated** it becomes."
 
-Sarah **agreed**. Nothing about this case was **simple**. The **penalty** for **murder** was **severe**, yet someone had taken this **risk**. What **prize** could be **worth** it?
+Sarah agreed. Nothing about this case was simple. The **penalty** for murder was severe, yet someone had taken this risk. What **prize** could be worth it?
 
-She **walked** over to the **kitchen** **counter** where a half-empty **butter** **container** sat next to **stale** **bread**. Wolf had been **eating** when **interrupted**. The **vacuum** of **information** about his final **hours** was **frustrating**.
+She walked over to the kitchen counter where a half-empty **butter** container sat next to stale bread. **Wolf** had been eating when interrupted. The vacuum of information about his final hours was frustrating.
 
-On the **desk**, Sarah **found** a **poem** **written** on a **napkin**. The **handwriting** was **careful**, almost **artistic**:
+On the desk, Sarah found a **poem** written on a napkin. The handwriting was careful, almost artistic:
 
-"*In the **desert** of **memory**,  
-Where **broken** **clocks** **tick** **backwards**,  
-The **wolf** **howls** for **justice**,  
-But **silence** is the only **answer**.*"
+"*In the **desert** of memory,  
+Where **broken** clocks tick backwards,  
+The **wolf** howls for justice,  
+But silence is the only answer.*"
 
-"**Damn**," Chen **muttered**. "That's **cryptic**. Is it a **clue** or just **random** **nonsense**?"
+"**Damn**," Chen muttered. "That's cryptic. Is it a clue or just random nonsense?"
 
-Sarah **studied** the **poem** **carefully**. Every **word** **mattered** in an **investigation**. The **reference** to a **broken** **clock** couldn't be **coincidence** – not with that **frozen** **timepiece** on the **wall**.
+Sarah studied the **poem** carefully. Every word mattered in an investigation. The reference to a **broken** **clock** couldn't be coincidence – not with that frozen timepiece on the wall.
 
-Her **phone** **buzzed**. It was Captain Rodriguez. "Martinez, I need an **update**. The **mayor** is **pushing** for **answers**. This **gang** **violence** is **bad** for the **city**'s **image**."
+Her phone buzzed. It was Captain Rodriguez. "Martinez, I need an update. The mayor is pushing for answers. This **gang** violence is bad for the city's image."
 
-"We're **making** **progress**, **Captain**," Sarah **lied**. **Actually**, they were **stuck**. The **lack** of **physical** **evidence** was **unusual** for a **violent** **crime**.
+"We're making progress, Captain," Sarah lied. Actually, they were stuck. The lack of physical evidence was unusual for a violent crime.
 
-She **hung** up and **continued** her **search**. In the **bedroom**, she **found** **clothing** **scattered** **everywhere** – **pants**, **shirts**, **socks**. Someone had been **looking** for **something**. But **what**?
+She hung up and continued her search. In the bedroom, she found clothing scattered everywhere – pants, shirts, socks. Someone had been looking for something. But what?
 
-Chen **called** from the **bathroom**. "Sarah, you need to see this."
+Chen called from the bathroom. "Sarah, you need to see this."
 
-Behind the **broken** **mirror**, Chen had **discovered** a **hidden** **compartment**. Inside was a **small** **electronic** **device** – a **voice** **recorder**.
+Behind the **broken** mirror, Chen had discovered a hidden compartment. Inside was a small **electronic** device – a voice recorder.
 
-"Should we **play** it?" Chen **asked**.
+"Should we play it?" Chen asked.
 
-"**Damn** **right** we should," Sarah said, her **hands** **slightly** **shaking** with **anticipation**.
+"**Damn** right we should," Sarah said, her hands slightly shaking with anticipation.
 
-The **recorder** **crackled** to **life**. Wolf's **voice**, **recorded** two **days** before his **death**:
+The recorder crackled to life. **Wolf**'s voice, recorded two days before his death:
 
-"If you're **hearing** this, I'm **probably** **dead**. I've **arranged** this **recording** as **insurance**. The **gang** **thinks** I'm **loyal**, but I've been **working** with the **feds** for **six** **months**. There's a **major** **delivery** coming – **drugs**, **weapons**, maybe **worse**. The **bureau** needs this **information**. The **clock** in my **apartment** – it's not **broken**. The **battery** **compartment** **contains** a **microSD** **card** with **names**, **dates**, **locations**. **Everything** they need to take down the **organization**."
+"If you're hearing this, I'm probably dead. I've arranged this recording as insurance. The **gang** thinks I'm loyal, but I've been working with the feds for six months. There's a major **delivery** coming – drugs, weapons, maybe worse. The **bureau** needs this information. The **clock** in my apartment – it's not **broken**. The **battery** compartment contains a microSD card with names, dates, locations. Everything they need to take down the organization."
 
-Sarah and Chen **stared** at each other. The **broken** **clock** was **deliberately** **stopped** at 3:15 – **probably** the **time** of an **important** **meeting** or **delivery**.
+Sarah and Chen stared at each other. The **broken** **clock** was deliberately stopped at 3:15 – probably the time of an important meeting or **delivery**.
 
-"We need to **examine** that **clock**," Sarah said.
+"We need to examine that **clock**," Sarah said.
 
-**Carefully**, they **removed** it from the **wall**. Chen **opened** the **battery** **compartment**. Inside, **exactly** as Wolf **described**, was a **tiny** **memory** **card**.
+Carefully, they removed it from the wall. Chen opened the **battery** compartment. Inside, exactly as **Wolf** described, was a tiny memory card.
 
-"**Fucking** **brilliant**," Chen **whispered**. "He **knew** he was in **danger**, so he **arranged** this **elaborate** **setup**."
+"Fucking brilliant," Chen whispered. "He knew he was in danger, so he arranged this elaborate setup."
 
-But Sarah felt **uncomfortable**. Something **still** didn't **fit**. "If Wolf was a **confidential** **informant**, why didn't the **bureau** **protect** him? Why was he **left** **vulnerable**?"
+But Sarah felt uncomfortable. Something still didn't fit. "If **Wolf** was a confidential informant, why didn't the **bureau** protect him? Why was he left vulnerable?"
 
-Her **phone** **rang** again. This time, an **unknown** **number**.
+Her phone rang again. This time, an unknown number.
 
-"Detective Martinez?" The **voice** was **distorted**, **processed** through some **electronic** **filter**. "I **hope** you're **enjoying** your little **treasure** **hunt**. But **trust** me – that **card** is **worthless**. Wolf was **played**. We **knew** about his **betrayal** from the **beginning**."
+"Detective Martinez?" The voice was distorted, processed through some **electronic** filter. "I hope you're enjoying your little treasure hunt. But trust me – that card is worthless. **Wolf** was played. We knew about his betrayal from the beginning."
 
-"Who is this?" Sarah **demanded**.
+"Who is this?" Sarah demanded.
 
-"Someone who **appreciates** **discipline** and **punishes** **betrayal**. Wolf **thought** he could **negotiate** his **safety**. He was **wrong**. And **just** so you **know** – we're **watching** you **right** now."
+"Someone who appreciates **discipline** and punishes betrayal. **Wolf** thought he could negotiate his safety. He was wrong. And just so you know – we're watching you right now."
 
-The **line** went **dead**.
+The line went dead.
 
-Sarah's **stomach** **dropped**. She **looked** around the **apartment** **nervously**. "Chen, we need to **leave**. **Now**."
+Sarah's **stomach** dropped. She looked around the apartment nervously. "Chen, we need to leave. Now."
 
-"**What**? **Why**?"
+"What? Why?"
 
-"That **call** – they **know** we're here. This could be a **trap**."
+"That call – they know we're here. This could be a trap."
 
-They **quickly** **packed** the **evidence** and **headed** for the **exit**. As they **reached** the **door**, Sarah **noticed** something she'd **missed** before: a **small** **red** **light** **blinking** in the **corner** of the **ceiling**. A **camera**.
+They quickly packed the evidence and headed for the exit. As they reached the door, Sarah noticed something she'd missed before: a small red light blinking in the corner of the ceiling. A camera.
 
-"**Damn** it," she **breathed**. "They've been **watching** the **entire** **time**."
+"**Damn** it," she breathed. "They've been watching the entire time."
 
-Back at the **station**, Sarah and Chen **met** with the **bureau's** **task** **force**. The **lead** **agent**, Marcus **Johnson**, was a **stern** **man** in his **fifties**.
+Back at the station, Sarah and Chen met with the **bureau**'s task force. The lead agent, Marcus Johnson, was a stern man in his fifties.
 
-"Wolf was **indeed** our **informant**," **Johnson** **confirmed**. "But we **lost** **contact** three **weeks** ago. We **assumed** he'd been **compromised**."
+"**Wolf** was indeed our informant," Johnson confirmed. "But we lost contact three weeks ago. We assumed he'd been compromised."
 
-"Why didn't you **warn** us?" Sarah **asked**, her **anger** **rising**.
+"Why didn't you warn us?" Sarah asked, her anger rising.
 
-"**Need**-to-**know** **basis**, **Detective**. Your **investigation** was **separate** from **ours**. We couldn't **risk** **exposing** our **operation**."
+"Need-to-know basis, Detective. Your investigation was separate from ours. We couldn't risk exposing our operation."
 
-Sarah **wanted** to **scream**. The **bureaucracy**, the **secrecy**, the **endless** **games** – sometimes she **wondered** why she'd **become** a **cop**.
+Sarah wanted to scream. The bureaucracy, the secrecy, the endless games – sometimes she wondered why she'd become a cop.
 
-Chen **interrupted** her **thoughts**. "The **data** on the **card** – is it **authentic**?"
+Chen interrupted her thoughts. "The data on the card – is it authentic?"
 
-**Johnson** **nodded**. "**Absolutely**. Despite the **caller**'s **claims**, this **information** is **solid**. **Names** of **high**-**ranking** **members**, **financial** **records**, **future** **operations**. This could **dismantle** the **entire** **network**."
+Johnson nodded. "Absolutely. Despite the caller's claims, this information is solid. Names of high-ranking members, financial records, future operations. This could dismantle the entire network."
 
-"So Wolf's **death** wasn't in **vain**?" Sarah **asked**.
+"So **Wolf**'s death wasn't in vain?" Sarah asked.
 
-"No. His **sacrifice** will **save** **countless** **lives**. The **gang** **operates** in **multiple** **cities**. They're **involved** in **human** **trafficking**, **drug** **distribution**, **money** **laundering**. Wolf **knew** the **risks**, but he **chose** to **help** us **anyway**."
+"No. His sacrifice will save countless lives. The **gang** operates in multiple cities. They're involved in human trafficking, drug distribution, money laundering. **Wolf** knew the risks, but he chose to help us anyway."
 
-Sarah **felt** **conflicted**. Wolf was a **criminal**, **yes**, but he'd **tried** to **make** **amends**. His **final** **act** was one of **courage**.
+Sarah felt conflicted. **Wolf** was a criminal, yes, but he'd tried to make amends. His final act was one of courage.
 
-"What about the **threat**?" Chen **asked**. "The **call** Martinez **received**?"
+"What about the threat?" Chen asked. "The call Martinez received?"
 
-"We'll **arrange** **protection** for **both** of you," **Johnson** **said**. "This **gang** doesn't **make** **empty** **threats**. If they **know** you're **involved**, you're **targets**."
+"We'll **arrange** protection for both of you," Johnson said. "This **gang** doesn't make empty threats. If they know you're involved, you're targets."
 
-Over the **next** few **weeks**, Sarah **lived** under **constant** **surveillance**. **Armed** **officers** **accompanied** her **everywhere**. The **lack** of **privacy** was **suffocating**, but **necessary**.
+Over the next few weeks, Sarah lived under constant surveillance. Armed officers accompanied her everywhere. The lack of **privacy** was suffocating, but necessary.
 
-The **bureau** **used** Wolf's **information** to **conduct** **raids** in **six** **cities** **simultaneously**. **Dozens** of **gang** **members** were **arrested**. The **operation** was **declared** a **massive** **success**.
+The **bureau** used **Wolf**'s information to conduct raids in six cities simultaneously. Dozens of **gang** members were arrested. The operation was declared a massive success.
 
-But for Sarah, the **victory** felt **hollow**. Wolf was **still** **dead**. The **broken** **clock** in his **apartment** had **marked** not just a **time**, but the **end** of a **life** – a **complicated**, **flawed** **life**, but one that **ended** in an **attempt** at **redemption**.
+But for Sarah, the victory felt hollow. **Wolf** was still dead. The **broken** **clock** in his apartment had marked not just a time, but the end of a life – a **complicated**, flawed life, but one that ended in an attempt at redemption.
 
-She **visited** Wolf's **grave** on a **cold** **morning**. Someone had **left** **flowers** – **cheap** **ones** from a **grocery** **store**, but the **gesture** **mattered**. Perhaps a **family** **member**, or a **friend** who **remembered** the **man** Wolf **used** to be before the **gang** **life** **consumed** him.
+She visited **Wolf**'s grave on a cold morning. Someone had left flowers – cheap ones from a grocery store, but the gesture mattered. Perhaps a family member, or a friend who remembered the man **Wolf** used to be before the **gang** life consumed him.
 
-Sarah **placed** her own **flowers** – **roses**, **classic** and **simple**. "I **hope** you **found** **peace**," she **whispered**. "Your **clock** **stopped**, but you **bought** **time** for **others**."
+Sarah placed her own flowers – roses, **classic** and simple. "I hope you found peace," she whispered. "Your **clock** stopped, but you bought time for others."
 
-As she **walked** **away**, she **thought** about the **poem** on the **napkin**. Wolf had **written** about **justice** and **silence**. He'd **known** his **fate**, had **accepted** it, but **arranged** for his **death** to have **meaning**.
+As she walked away, she thought about the **poem** on the napkin. **Wolf** had written about justice and silence. He'd known his fate, had accepted it, but arranged for his death to have meaning.
 
-The **broken** **clock** would **remain** in the **evidence** **locker**, a **reminder** of the **complicated** **nature** of **justice**, of **redemption**, of the **thin** **line** between **right** and **wrong**.
+The **broken** **clock** would remain in the evidence locker, a reminder of the **complicated** nature of justice, of redemption, of the thin line between right and wrong.
 
-Sarah's **phone** **buzzed** with a **text** from Chen: "New case. Triple homicide. You in?"
+Sarah's phone buzzed with a text from Chen: "New case. Triple homicide. You in?"
 
-She **typed** back: "Always."
+She typed back: "Always."
 
-The **clock** on her **car** **dashboard** **read** 3:15. She **smiled** **grimly**. **Time** **never** **stopped**, and neither did the **work** of **seeking** **justice**.
+The **clock** on her car dashboard read 3:15. She smiled grimly. Time never stopped, and neither did the work of seeking justice.
 
-For Wolf, for all the **victims**, for the **sake** of those who **couldn't** **speak** for themselves – she would **continue**.
+For **Wolf**, for all the victims, for the **sake** of those who couldn't speak for themselves – she would continue.
 
-The **broken** **clock** had **told** its **story**. Now it was **time** to **write** **another**.
+The **broken** **clock** had told its story. Now it was time to write another.
 
 ---
 

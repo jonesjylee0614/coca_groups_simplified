@@ -2,47 +2,47 @@
 
 ## 📖 Reading Passage: The Deputy's Dilemma
 
-The rain fell **heavily** on the small town of Millbrook. Deputy Sheriff Marcus **Lane** stood outside the old courthouse, watching the **visible** damage from last night's storm. As a **junior** officer, this was his first major case, and he felt the **intense** pressure to prove himself.
+The rain fell **heavily** on the small town of Millbrook. **Deputy** Sheriff Marcus **Lane** stood outside the old courthouse, watching the **visible** damage from last night's storm. As a **junior** officer, this was his first major case, and he felt the **intense** pressure to prove himself.
 
-Inside, the town council was **testing** his **approval** for a controversial **arrest**. The case involved Thomas **Grey**, a **friendly** local businessman accused of fraud in a major **lawsuit**. But Marcus had **detected** inconsistencies in the evidence that made him question everything.
+Inside, the town council was **testing** his **approval** for a controversial **arrest**. The case involved Thomas Grey, a **friendly** local businessman accused of fraud in a major **lawsuit**. But Marcus had detected inconsistencies in the evidence that made him question everything.
 
 "**Besides** the financial records, what else troubles you?" asked Sheriff **Rose** Martinez, his **buddy** and mentor. She had a **permanent** position on the force and years of experience dealing with **psychological** pressures.
 
-"The **symbol**s in his office," Marcus **whispered**. "They're not **evil** or **offensive**. They **represent** **independence** and **diversity**. I think someone is trying to **trick** us."
+"The symbols in his office," Marcus whispered. "They're not **evil** or **offensive**. They represent **independence** and **diversity**. I think someone is trying to **trick** us."
 
-The **absence** of concrete proof made the situation **intense**. The **lawsuit** had been filed by a **deputy** from the state capital, claiming Thomas had **dominated** local business through **defensive** tactics. But Marcus sensed something deeper – a **ghost** of past conflicts, a **string** of **involvement** that went back decades.
+The **absence** of concrete proof made the situation **intense**. The **lawsuit** had been filed by a **deputy** from the state capital, claiming Thomas had dominated local business through **defensive** tactics. But Marcus sensed something deeper – a **ghost** of past conflicts, a **string** of **involvement** that went back decades.
 
-**Whereas** most officers would simply follow orders and make the **arrest**, Marcus **felt** compelled to **restore** the **truth**. His **psychological** training had taught him to look **beyond** the **visible** evidence.
+**Whereas** most officers would simply follow orders and make the **arrest**, Marcus felt compelled to **restore** the truth. His **psychological** training had taught him to look beyond the **visible** evidence.
 
-He visited Thomas's restaurant, a **cute** little place known for its **bean** soup and special **sauce**. An **Asian** family ran it now, having bought it from Thomas years ago. They **printed** the **menu** fresh each day, a **permanent** **tradition** they'd maintained.
+He visited Thomas's restaurant, a **cute** little place known for its **bean** soup and special **sauce**. An **Asian** family ran it now, having bought it from Thomas years ago. They printed the menu fresh each day, a **permanent** tradition they'd maintained.
 
-"Mr. Grey was **friendly**, always **helping** others," the owner said. "He **helped** us when **nobody** else would. We owe him our **independence**."
+"Mr. Grey was **friendly**, always helping others," the owner said. "He helped us when nobody else would. We owe him our **independence**."
 
-Marcus took notes. He **measured** each **tablespoon** of information carefully. His **buddy** from the **testing** lab had **detected** something unusual in the financial records – they'd been **constructed** to **appear** false, but **actually** contained hidden **codes** pointing to the **real** culprit.
+Marcus took notes. He measured each **tablespoon** of information carefully. His **buddy** from the **testing** lab had detected something unusual in the financial records – they'd been constructed to appear false, but actually contained hidden codes pointing to the real culprit.
 
-The **recognition** came suddenly. The **deputy** filing the **lawsuit** was Thomas's **former** business partner, someone who'd been **hungry** for control. The **lawsuit** was **revenge**, dressed up as **justice**.
+The **recognition** came suddenly. The **deputy** filing the **lawsuit** was Thomas's former business partner, someone who'd been **hungry** for control. The **lawsuit** was revenge, dressed up as justice.
 
-Marcus **presented** his findings to the council. The **wire** transfers, the **symbol**s, the **timeline** – everything pointed to a **frame**-up. The **approval** for Thomas's **arrest** was **withdrawn**.
+Marcus presented his findings to the council. The **wire** transfers, the symbols, the timeline – everything pointed to a frame-up. The **approval** for Thomas's **arrest** was withdrawn.
 
-Later, Sheriff **Rose** **smiled** at him. "You **detected** what others **missed**. That's the mark of a **good** officer – not just **following** orders, but **seeking** **truth**."
+Later, Sheriff **Rose** smiled at him. "You detected what others missed. That's the mark of a good officer – not just following orders, but seeking truth."
 
-"I almost **didn't**," Marcus **admitted**. "The **pressure** was **intense**. I **wanted** **approval** from my **superiors**."
+"I almost didn't," Marcus admitted. "The pressure was **intense**. I wanted **approval** from my superiors."
 
-"**Independence** of **thought** matters more," **Rose** said. "Yes, we have **hierarchy**, but **blind** **obedience** can **destroy** **justice**."
+"**Independence** of thought matters more," **Rose** said. "Yes, we have hierarchy, but blind obedience can destroy justice."
 
-Thomas was **freed**, the **lawsuit** **dismissed**. The **real** culprit was **arrested** instead. The town **celebrated**, and Marcus **earned** **recognition** for his **integrity**.
+Thomas was freed, the **lawsuit** dismissed. The real culprit was arrested instead. The town celebrated, and Marcus earned **recognition** for his integrity.
 
-But the experience left Marcus **thoughtful**. He'd learned that **visible** evidence could **deceive**, that **psychological** **pressure** could **cloud** **judgment**, and that **independence** of **mind** was a **deputy**'s **greatest** **asset**.
+But the experience left Marcus thoughtful. He'd learned that **visible** evidence could deceive, that **psychological** pressure could cloud judgment, and that **independence** of mind was a **deputy**'s greatest asset.
 
-He walked through the **lane** behind the courthouse, where a **ghost** of the town's **history** seemed to **linger**. Not an **evil** **ghost**, but a **reminder** – that **justice** requires **courage** to **question**, **wisdom** to **detect** **truth**, and **strength** to **resist** **pressure**.
+He walked through the **lane** behind the courthouse, where a **ghost** of the town's history seemed to linger. Not an **evil** **ghost**, but a reminder – that justice requires courage to question, wisdom to **detect** truth, and strength to resist pressure.
 
-Sheriff **Rose** joined him. "**Forgive** yourself the **doubts**," she said. "They're **signs** of a **good** **conscience**."
+Sheriff **Rose** joined him. "**Forgive** yourself the doubts," she said. "They're signs of a good conscience."
 
-"I will," Marcus **promised**. "And I'll **never** **forget** this **lesson**."
+"I will," Marcus promised. "And I'll never forget this lesson."
 
-The rain **stopped**. The **lane** was **quiet**. And Marcus **understood** that being a **deputy** wasn't about **approval** or **rank** – it was about **restoring** **justice**, **detecting** **truth**, and **maintaining** **independence** even when **pressure** was **intense**.
+The rain stopped. The **lane** was quiet. And Marcus understood that being a **deputy** wasn't about **approval** or rank – it was about restoring justice, detecting truth, and maintaining **independence** even when pressure was **intense**.
 
-The **symbol**s on Thomas's wall weren't **evil** markers. They were **reminders** of **values** – **diversity**, **independence**, and the **courage** to **stand** **alone** when **necessary**. Marcus had **honored** those **values** today, and in doing so, had **truly** **become** a **deputy** worthy of the **badge** he wore.
+The symbols on Thomas's wall weren't **evil** markers. They were reminders of values – **diversity**, **independence**, and the courage to stand alone when necessary. Marcus had honored those values today, and in doing so, had truly become a **deputy** worthy of the badge he wore.
 
 ---
 

@@ -2,85 +2,85 @@
 
 ## 📖 Reading Passage: The Twin Artists
 
-The **green** park was filled with the sound of children's laughter. Two **twin** sisters, Emma and Lily, sat on **another** bench, watching the scene **ahead** of them. They were **rather** different **in** personality, but they shared one thing: a deep love for art.
+The **green** park was filled with the sound of children's laughter. Two **twin** sisters, Emma and Lily, sat on **another** bench, watching the scene **ahead** of them. They were **rather** different in personality, but they shared one thing: a deep love for art.
 
 Emma wore **pink** paint-stained **pants**, while Lily preferred a more **formal** dress. "I **wonder** if we'll ever **justify** our decision to quit our jobs," Emma said, her **mood** uncertain.
 
 "Don't **doubt** yourself," Lily replied. "The art **gallery** opening is just **ahead**. We need to **exercise** patience."
 
-Their journey had been **dramatic**. Both sisters had worked **in** a corporate office, doing **math** calculations and creating **presentations**. The work paid well, but it lacked meaning. One day, they saw a **protest** outside their building. Workers were angry about unfair treatment. The scene **shocked** them both.
+Their journey had been **dramatic**. Both sisters had worked in a corporate office, doing math calculations and creating presentations. The work paid well, but it lacked meaning. One day, they saw a **protest** outside their building. Workers were angry about unfair treatment. The scene shocked them both.
 
 "We can't **justify** spending our lives like this," Emma had said. "We need to **favor** our dreams over **settlement** for mediocrity."
 
-That decision led them here. They had used their **savings** to open a small art **gallery**. The **prospect** of success was uncertain, but they were determined. **Potentially**, they could create something beautiful.
+That decision led them here. They had used their savings to open a small art **gallery**. The **prospect** of success was uncertain, but they were determined. **Potentially**, they could create something beautiful.
 
-The **gallery** was located **in** an old building that once housed a **textile** factory. The walls were **dirty** from years of neglect. Emma had to **bend** down frequently to clean the floors, while Lily climbed ladders to **rid** the ceiling of dust.
+The **gallery** was located in an old building that once housed a textile factory. The walls were **dirty** from years of neglect. Emma had to **bend** down frequently to clean the floors, while Lily climbed ladders to **rid** the ceiling of **dust**.
 
 "This **dust** is everywhere!" Emma complained, her voice filled with mock **anger**. But she was smiling. The **tension** she'd felt at her old job was gone. Now, even **dirty** work felt purposeful.
 
-They decided their first exhibition would **favor** local **artists** who **rarely** got recognition. One was Marcus, a **teen** with incredible talent. **Another** was Mrs. Chen, whose paintings captured the **mood** of the neighborhood. There was also Ahmed, whose work explored his **Arab** heritage through vibrant colors.
+They decided their first exhibition would **favor** local artists who rarely got recognition. One was Marcus, a **teen** with incredible talent. **Another** was Mrs. Chen, whose paintings captured the **mood** of the neighborhood. There was also Ahmed, whose work explored his **Arab** heritage through vibrant colors.
 
-"We need to **enhance** the space," Lily said, looking around the **gallery**. "The **light** **in** here is too harsh. We should **slide** some **curtains** to create a softer atmosphere."
+"We need to **enhance** the space," Lily said, looking around the **gallery**. "The **light** in here is too harsh. We should **slide** some curtains to create a softer atmosphere."
 
 Emma nodded. "And let's **ring** out to local media. We need to **justify** why people should come. **Virtually** no one knows we exist yet."
 
-They worked tirelessly. Emma would often **slide** between rooms, arranging paintings with careful attention to **criteria** like color balance and **theme**. Lily handled the business side, though she would sometimes **wonder** if they had enough money. The **prospect** of failure **lurked** **ahead**, but they refused to let **doubt** stop them.
+They worked tirelessly. Emma would often **slide** between rooms, arranging paintings with careful attention to **criteria** like color balance and theme. Lily handled the business side, though she would sometimes **wonder** if they had enough money. The **prospect** of failure lurked **ahead**, but they refused to let **doubt** stop them.
 
-One afternoon, a **peer** from their old office visited. "You two are crazy," she said, though her **tone** held admiration **rather** than criticism. "You gave up **settlement** and security for this **prospect**?"
+One afternoon, a **peer** from their old office visited. "You two are crazy," she said, though her tone held admiration **rather** than criticism. "You gave up **settlement** and security for this **prospect**?"
 
-"We gave up **settlement** for **possibility**," Lily corrected. "There's a difference."
+"We gave up **settlement** for possibility," Lily corrected. "There's a difference."
 
-The **opening** night approached. The sisters felt a mix of **excitement** and **anxiety**. Emma's **mood** would **swing** from confidence to **panic**. "What if no one comes? What if they hate the art?"
+The opening night approached. The sisters felt a mix of excitement and **anxiety**. Emma's **mood** would swing from confidence to panic. "What if no one comes? What if they hate the art?"
 
-"Stop it," Lily said **firmly**. "We've **exercised** every option. We've done our best. That's all we can **justify**."
+"Stop it," Lily said firmly. "We've exercised every option. We've done our best. That's all we can **justify**."
 
-The night arrived. The **gallery** was transformed. Soft **light** **illuminated** the paintings. A **jazz** **music** played softly. The twins wore matching **pink** and **green** accessories – a nod to their childhood when they dressed **identically**.
+The night arrived. The **gallery** was transformed. Soft **light** illuminated the paintings. A jazz music played softly. The twins wore matching **pink** and **green** accessories – a nod to their childhood when they dressed identically.
 
-**Virtually** immediately, people began arriving. Marcus's parents came, their faces beaming with pride. Mrs. Chen brought her entire **family**. Ahmed invited members of the **Arab** community. Soon, the **gallery** was full.
+**Virtually** immediately, people began arriving. Marcus's parents came, their faces beaming with pride. Mrs. Chen brought her entire family. Ahmed invited members of the **Arab** community. Soon, the **gallery** was full.
 
-One guest was a critic from a major art **publication**. Emma's **throat** went **dry** with **tension** as she watched him **examine** each piece. Would he **appreciate** their **criteria** for selection? Or would he **criticize** their **judgment**?
+One guest was a critic from a major art publication. Emma's **throat** went dry with **tension** as she watched him examine each piece. Would he appreciate their **criteria** for selection? Or would he criticize their judgment?
 
-The critic spent a long time **in** front of Marcus's painting – a **dramatic** **scene** showing a **park** at **dawn**. Then he **moved** to Mrs. Chen's work, which showed children playing **in** the **mud**, their **pants** **dirty** but their **faces** full of **joy**.
+The critic spent a long time in front of Marcus's painting – a **dramatic** scene showing a park at dawn. Then he moved to Mrs. Chen's work, which showed children playing in the mud, their **pants** **dirty** but their faces full of **joy**.
 
-Finally, he approached the twins. "This is **remarkable**," he said. "You've **enhanced** these artists' work by giving them proper context. The **settlement** of pieces creates a **narrative**. **Virtually** every painting **speaks** to **another**."
+Finally, he approached the twins. "This is remarkable," he said. "You've enhanced these artists' work by giving them proper context. The **settlement** of pieces creates a narrative. **Virtually** every painting speaks to **another**."
 
-Emma felt her **mood** lift. The **tension** **in** her shoulders released. All the **doubt**, all the **anxiety** – it was worth it.
+Emma felt her **mood** lift. The **tension** in her shoulders released. All the **doubt**, all the **anxiety** – it was worth it.
 
-"The **implication** of this exhibition," the critic **continued**, "is that art doesn't need to be **formal** or follow strict **criteria**. It needs to be honest. You two have **illustrated** that **beautifully**."
+"The **implication** of this exhibition," the critic continued, "is that art doesn't need to be **formal** or follow strict **criteria**. It needs to be honest. You two have illustrated that beautifully."
 
-As the **evening** **progressed**, people **mingled**, **discussed** the art, and shared their **impressions**. A young woman stood **in** front of Ahmed's painting, tears **streaming** down her face. "This reminds me of my **aunt's** house," she said. "The colors, the **mood** – it's like being **lost** **in** a memory."
+As the evening progressed, people mingled, discussed the art, and shared their impressions. A young woman stood in front of Ahmed's painting, tears streaming down her face. "This reminds me of my **aunt**'s house," she said. "The colors, the **mood** – it's like being **lost** in a memory."
 
-The twins watched their **gallery** come to life. Artists **talked** with visitors. **Strangers** became friends through **shared** appreciation of beauty. The **peak** of the **evening** came when Marcus sold his first painting. The **teen** could hardly **speak**, he was so **moved**.
+The twins watched their **gallery** come to life. Artists talked with visitors. Strangers became friends through shared appreciation of beauty. The **peak** of the evening came when Marcus sold his first painting. The **teen** could hardly speak, he was so moved.
 
-"We did it," Emma whispered to her **twin**. "We **actually** did it."
+"We did it," Emma whispered to her **twin**. "We actually did it."
 
-"**Mm-hmm**," Lily agreed, her eyes **glistening**. "We **favored** our dreams, and look what happened."
+"Mm-hmm," Lily agreed, her eyes glistening. "We favored our dreams, and look what happened."
 
-But the **evening** also **revealed** challenges **ahead**. The **gallery** needed **regular** exhibitions to survive. They needed to **enhance** their **marketing**. The **settlement** they'd found was **temporary** – they had to keep **pushing**.
+But the evening also revealed challenges **ahead**. The **gallery** needed regular exhibitions to survive. They needed to **enhance** their marketing. The **settlement** they'd found was temporary – they had to keep pushing.
 
-A **stranger** approached them. "I own the building next door," he said. "I've been watching your **progress**. I want to **propose** a partnership. We could **knock** down the wall between our spaces, create something much **larger**."
+A **stranger** approached them. "I own the building next door," he said. "I've been watching your progress. I want to propose a partnership. We could knock down the wall between our spaces, create something much larger."
 
-The **implication** was enormous. But so was the **risk**. Emma and Lily looked at each other, that **twin** **understanding** passing between them without words.
+The **implication** was enormous. But so was the risk. Emma and Lily looked at each other, that **twin** understanding passing between them without words.
 
-"We'll need to think about it," Lily said **carefully**. "The **prospect** is exciting, but we need to **exercise** caution."
+"We'll need to think about it," Lily said carefully. "The **prospect** is exciting, but we need to **exercise** caution."
 
-As guests left, many stopped to **congratulate** the **twins**. One **elderly** woman took Emma's **hand**. "When I was young, I wanted to be a painter," she said. "But I let **doubt** stop me. I **settled** for **settlement**. Don't **ever** make that mistake. Keep **pushing** **ahead**, no matter what challenges you face."
+As guests left, many stopped to congratulate the twins. One elderly woman took Emma's hand. "When I was young, I wanted to be a painter," she said. "But I let **doubt** stop me. I settled for **settlement**. Don't ever make that mistake. Keep pushing **ahead**, no matter what challenges you face."
 
-The twins **cleaned** up **virtually** **in** silence, both **lost** **in** thought. The **dust** had settled, **literally** and **figuratively**. They had taken a huge **risk**, and it had **paid** off.
+The twins cleaned up **virtually** in silence, both **lost** in thought. The **dust** had settled, literally and figuratively. They had taken a huge risk, and it had paid off.
 
-"You know what **struck** me?" Emma said as they **locked** the **door**. "That critic said we **enhanced** the artists' work. But **really**, they **enhanced** **our** lives. We gave them space, they gave us **purpose**."
+"You know what struck me?" Emma said as they locked the door. "That critic said we enhanced the artists' work. But really, they enhanced our lives. We gave them space, they gave us purpose."
 
-Lily smiled. "That's the **beauty** of it. **Virtually** everyone **benefits** when we **favor** creativity over **conformity**."
+Lily smiled. "That's the beauty of it. **Virtually** everyone benefits when we **favor** creativity over conformity."
 
-They walked through the **park** where they'd sat months earlier, full of **doubt**. Now, that **bench** **ahead** represented something different – not **anxiety** about the **future**, but **excitement** for **possibilities**.
+They walked through the park where they'd sat months earlier, full of **doubt**. Now, that bench **ahead** represented something different – not **anxiety** about the future, but excitement for possibilities.
 
-"We're **rather** lucky," Emma said, **linking** arms with her **twin**.
+"We're **rather** lucky," Emma said, linking arms with her **twin**.
 
-"**Mm-hmm**," Lily agreed. "And we **enhanced** that **luck** by being **brave** enough to **try**."
+"Mm-hmm," Lily agreed. "And we enhanced that luck by being brave enough to try."
 
-The **green** **park** was quiet now, **empty** except for the two sisters. The **moon** cast a soft **light** on the **path** **ahead**. There would be challenges, **certainly**. More **doubt**, more **tension**, more hard work. But they had proven something to themselves: that **settlement** for less than you deserve is the **real** **risk**, and that **favor**ing your dreams, even when the **prospect** seems **uncertain**, can lead to **joy** **virtually** beyond **imagination**.
+The **green** park was quiet now, empty except for the two sisters. The moon cast a soft **light** on the path **ahead**. There would be challenges, certainly. More **doubt**, more **tension**, more hard work. But they had proven something to themselves: that **settlement** for less than you deserve is the real risk, and that favoring your dreams, even when the **prospect** seems uncertain, can lead to **joy** **virtually** beyond imagination.
 
-Their **twin** hearts beat **in** **harmony**, ready for whatever lay **ahead**.
+Their **twin** hearts beat in harmony, ready for whatever lay **ahead**.
 
 ---
 

@@ -2,71 +2,71 @@
 
 ## 📖 Reading Passage: The Magical Library Adventure
 
-**Just** **when** **I** thought **this** was going **to** be **another** boring Saturday, **something** magical happened. **I** was walking **up** **the** main street **when** **I** noticed **a** small, old-fashioned bookstore **that** **I** had **never** seen before. "**Look**!" **I** said **to** **my** friend Lily. "**There**'s **a** new shop!" 
+**Just** **when** I thought this was going to be another boring Saturday, something magical happened. I was walking **up** the main street **when** I noticed a small, old-fashioned bookstore that I had never seen before. "**Look**!" I said to my friend Lily. "**There**'s a **new** shop!" 
 
-**She** looked **up** **from** **her** phone **and** raised **an** eyebrow. "**Well**, **I** don't think **it's** new. **Look** **how** old **that** door is." 
+She looked **up** **from** **her** phone and raised an eyebrow. "**Well**, I don't **think** it's **new**. **Look** **how** old that door is." 
 
-**As** **we** walked closer, **the** door creaked open **by** itself. "**Do** **you** want **to** go **in**?" **I** asked, **my** heart beating faster. 
+**As** we walked closer, the door creaked open by itself. "Do you **want** to go in?" I asked, my heart beating faster. 
 
-"**Of** course!" **Lily** said **with** excitement. "**I** **want** **to** see **what**'s **inside**."
+"Of course!" Lily said with excitement. "I **want** to **see** what's inside."
 
-**When** **we** stepped **into** **the** shop, **time** seemed **to** stand still. **The** air was filled **with** **the** sweet smell **of** old books **and** something **else** - something like cinnamon **and** starlight. **An** elderly man **with** **a** long white beard looked **up** **from** **his** desk **and** smiled.
+**When** we stepped **into** the shop, **time** seemed to stand still. The air was filled with the sweet smell of old books and something else - something **like** cinnamon and starlight. An elderly **man** with a long white beard looked **up** **from** his desk and smiled.
 
-"**Welcome**, young **people**," **he** said warmly. "**I** was wondering **when** **you** would **find** **my** little shop."
+"Welcome, young **people**," he said warmly. "I was wondering **when** you would **find** my little shop."
 
-"**How** did **you** know **we** were coming?" **Lily** asked, **her** eyes wide **with** wonder.
+"**How** did you know we were coming?" Lily asked, **her** eyes wide with wonder.
 
-**The** old man chuckled. "**Because** **some** **things** are meant **to** be. **Now**, **which** book **are** **you** looking **for** today?"
+The old **man** chuckled. "**Because** **some** things are meant to be. **Now**, **which** book are you looking for today?"
 
-**I** looked around **the** shop. **There** were books **everywhere** - **on** shelves, **on** tables, even **floating** **in** mid-air. "**I** don't know **which** one **to** choose," **I** admitted. "**Could** **you** help **us**?"
+I looked around the shop. **There** were books everywhere - on shelves, on tables, even floating in mid-air. "I don't know **which** **one** to choose," I admitted. "**Could** you help us?"
 
-**He** nodded **and** walked **out** **from** behind **his** desk. "**Of** course. **Come** **with** me." 
+He nodded and walked **out** **from** behind his desk. "Of course. **Come** with me." 
 
-**As** **we** followed **him** **through** **the** narrow aisles, **he** told **us** about **the** books. "**This** one," **he** said, pointing **to** **a** glowing blue book, "**can** show **you** **any** place **in** **the** world. **And** **this** one," **he** added, touching **a** silver-covered volume, "**can** tell **you** **the** future."
+**As** we followed **him** through the narrow aisles, he told us about the books. "This **one**," he said, pointing to a glowing blue book, "can show you any place in the world. And this **one**," he added, touching a silver-covered volume, "can **tell** you the future."
 
-**Lily** reached **out** **to** touch **the** silver book, **but** **the** man gently stopped **her**. "**Not** yet, **my** dear. **First**, **you** need **to** understand **that** knowledge is **a** powerful **thing**."
+Lily reached **out** to touch the silver book, but the **man** gently stopped **her**. "Not yet, my dear. **First**, you need to understand that knowledge is a powerful **thing**."
 
-**He** led **us** **to** **a** quiet corner **where** **two** comfortable chairs sat **by** **a** warm fireplace. "**Sit** down," **he** said. "**I** want **to** tell **you** **a** story."
+He led us to a quiet corner where **two** comfortable chairs sat by a warm fireplace. "Sit down," he said. "I **want** to **tell** you a story."
 
-**We** sat **down** **and** listened **as** **he** began **his** tale. "**Many** years ago, **when** **I** was **just** **a** young **man** like **you**, **I** found **this** shop **just** **like** **you** did today."
+We sat down and listened **as** he began his tale. "Many years ago, **when** I was **just** a young **man** **like** you, I found this shop **just** **like** you did today."
 
-**I** looked **at** **him** more closely. **His** eyes were bright **with** memory, **and** for **a** moment, **I** could see **the** young **man** **he** must have been.
+I looked at **him** **more** closely. His eyes were bright with memory, and for a moment, I **could** **see** the young **man** he must have been.
 
-"**Back** then," **he** continued, "**I** was looking **for** answers, **just** like **everyone** else. **I** wanted **to** know **which** path **to** take, **which** choices **to** make."
+"Back **then**," he continued, "I was looking for answers, **just** **like** everyone else. I wanted to know **which** path to **take**, **which** choices to make."
 
-"**Did** **you** find **them**?" **Lily** asked eagerly.
+"Did you **find** **them**?" Lily asked eagerly.
 
-**The** old man smiled. "**I** found something **better**. **I** found **that** **the** best answers **come** **from** **within** **you**. **These** books" - **he** gestured around **the** shop - "**they** don't **give** **you** answers. **They** help **you** find **your** own."
+The old **man** smiled. "I found something better. I found that the best answers **come** **from** within you. **These** books" - he gestured around the shop - "they don't **give** you answers. They help you **find** your own."
 
-**Just** then, **the** clock **on** **the** wall chimed **three** times. "**Oh**!" **the** old man exclaimed. "**It's** later than **I** thought. **You** two should **be** heading home."
+**Just** **then**, the clock on the wall chimed three times. "Oh!" the old **man** exclaimed. "It's later **than** I thought. You **two** should be heading home."
 
-"**But** **we** haven't chosen **any** books," **I** said, feeling disappointed.
+"But we haven't chosen any books," I said, feeling disappointed.
 
-**He** chuckled again. "**Who** said **you** were leaving empty-handed?" **He** walked **to** **a** small shelf **and** took **out** **two** small, leather-bound books. "**One** for each **of** **you**."
+He chuckled again. "Who said you were leaving empty-handed?" He walked to a small shelf and took **out** **two** small, leather-bound books. "**One** for each of you."
 
-**Lily** opened **her** book. **The** pages were blank. "**It's** empty," **she** said, confused.
+Lily opened **her** book. The pages were blank. "It's empty," she said, confused.
 
-"**Not** empty," **the** old man corrected gently. "**It's** waiting **for** **your** story. **Use** it **to** write **down** **your** dreams, **your** adventures, **your** discoveries."
+"Not empty," the old **man** corrected gently. "It's waiting for your story. **Use** it to write down your dreams, your adventures, your discoveries."
 
-**I** looked **at** **my** book. **It** felt warm **to** **the** touch, **as** if **it** was alive. "**Thank** **you**," **I** said sincerely. "**This** is **the** best gift **anyone** has ever given **me**."
+I looked at my book. It felt warm to the touch, **as** if it was alive. "Thank you," I said sincerely. "This is the best gift anyone has ever given me."
 
-**The** old man's eyes twinkled. "**Remember** what **I** told **you**. **The** magic isn't **in** **the** books - it's **in** **you**. **Now**, **come** **back** anytime **you** want. **My** door is always open **for** those who seek knowledge."
+The old **man**'s eyes twinkled. "Remember what I told you. The magic isn't in the books - it's in you. **Now**, **come** back anytime you **want**. My door is always open for those who seek knowledge."
 
-**As** **we** walked **out** **of** **the** shop **and** back **into** **the** bright sunlight, **I** felt different somehow. "**That** was amazing," **Lily** said, skipping **as** **we** walked. "**More** amazing than **any** video game **or** movie."
+**As** we walked **out** of the shop and back **into** the bright sunlight, I felt different somehow. "That was amazing," Lily said, skipping **as** we walked. "**More** amazing **than** any video game or movie."
 
-**I** agreed. **For** **the** first **time** **in** **a** long **time**, **I** felt like **anything** was possible. "**When** do **you** think **we** should go back?"
+I agreed. For the **first** **time** in a long **time**, I felt **like** anything was possible. "**When** do you **think** we should go back?"
 
-**She** thought **for** **a** moment. "**How** about tomorrow? **I** want **to** start writing **in** **my** book tonight."
+She thought for a moment. "**How** about tomorrow? I **want** to start writing in my book tonight."
 
-**And** so **we** did. **That** night, **I** sat **at** **my** desk **with** **my** special book **and** wrote about **our** adventure. **The** words seemed **to** flow **onto** **the** page **as** if **by** magic. **When** **I** was finished, **I** read **what** **I** had written.
+And so we did. That night, I sat at my desk with my special book and wrote about **our** adventure. The words seemed to flow onto the page **as** if by magic. **When** I was finished, I read what I had written.
 
-**It** was **more** than **just** **a** story **about** **a** magical bookstore. **It** was **a** story **about** friendship, **about** curiosity, **and** about **the** magic **that** exists **in** everyday life **if** **you** know **how** to look **for** it.
+It was **more** **than** **just** a story about a magical bookstore. It was a story about friendship, about curiosity, and about the magic that exists in everyday life if you know **how** to **look** for it.
 
-**The** next **day**, **when** **I** met **Lily** at **the** park, **she** was holding **her** book tightly **in** **her** hands. "**Guess** what?" **she** said excitedly. "**I** wrote **in** **my** book last night, **and** this morning, **there** was **a** new page!"
+The next **day**, **when** I met Lily at the park, she was holding **her** book tightly in **her** hands. "Guess what?" she said excitedly. "I wrote in my book last night, and this morning, **there** was a **new** page!"
 
-**I** looked **at** **her** book. **Sure** enough, **there** was **a** page **that** hadn't been there **before**. **On** **it** was **a** map **-** **a** map showing **the** way **to** **another** magical place.
+I looked at **her** book. Sure enough, **there** was a page that hadn't been **there** before. On it was a map - a map showing the **way** to another magical place.
 
-**Well**, **that** is **how** **our** real adventures began. **Because** **once** **you** open **your** heart **to** magic, **you** find **that** **the** world is full **of** wonders, **big** **and** small. **And** sometimes, **the** greatest adventures start **with** **just** **one** small step **into** **the** unknown.
+**Well**, that is **how** **our** real adventures began. **Because** once you open your heart to magic, you **find** that the world is full of wonders, big and small. And sometimes, the greatest adventures start with **just** **one** small step **into** the unknown.
 
 ---
 

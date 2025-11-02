@@ -2,79 +2,79 @@
 
 ## 📖 Reading Passage: The Mail from the Past
 
-Dr. Sarah Chen sat in her office at the **factory** museum, reading through old **mail** from the **prior** century. The **enormous** collection of letters **particularly** caught her attention. As a **christian** historian, she felt it was her duty to **preserve** these documents. There was **rarely** such a complete archive anywhere **else**.
+Dr. Sarah Chen sat in her office at the **factory** museum, reading through old **mail** from the **prior** century. The **enormous** collection of letters **particularly** caught her attention. As a **christian** historian, she felt it was her duty to **preserve** these documents. There was **rarely** such a complete archive anywhere else.
 
-The **settlement** had been built near a **stream**, where workers once labored **in** terrible conditions. Many were treated like **slaves**, with **little** **participation** **in** decisions about their own lives. The **provision** of basic **health** care was **virtually** non-existent. It was a time that demanded **accurate** **insight** **into** human suffering.
+The **settlement** had been built near a **stream**, where workers once labored in terrible conditions. Many were treated like slaves, with little **participation** in decisions about their own lives. The **provision** of basic health care was **virtually** non-existent. It was a time that demanded **accurate** **insight** into human suffering.
 
-Sarah's **teen** assistant, Marcus, entered carrying more boxes. "I found these **in** the storage **tower**," he said. "There's a **clip** with some old photos attached."
+Sarah's **teen** assistant, Marcus, entered carrying more boxes. "I found these in the storage **tower**," he said. "There's a **clip** with some old photos attached."
 
-"**Wonderful**!" Sarah exclaimed. She had been trying to **resolve** the mystery of the **factory** workers' daily lives. These materials would help **justify** the museum's new **curriculum** about labor history.
+"Wonderful!" Sarah exclaimed. She had been trying to **resolve** the mystery of the **factory** workers' daily lives. These materials would help **justify** the museum's new **curriculum** about labor history.
 
-She opened the first letter. The handwriting was shaky. "My **dear** sister," it began. "I **wonder** if you **doubt** I'm still alive. The conditions here are **dirty** and **dangerous**. The **enormous** machines **never** stop. We work from morning **until** night without proper **rest**."
+She opened the first letter. The handwriting was shaky. "My dear sister," it began. "I **wonder** if you **doubt** I'm still alive. The conditions here are **dirty** and dangerous. The **enormous** machines never stop. We work from morning until night without proper rest."
 
-Sarah felt a **tension** **in** her **throat**. She **could** **imagine** the writer's **mood** – exhausted, frightened, but determined to **communicate** his situation. The letter **continued**, describing how workers would gather by the **stream** after **retirement** **each** day, sharing whatever **food** they had.
+Sarah felt a **tension** in her **throat**. She could imagine the writer's **mood** – exhausted, frightened, but determined to **communicate** his situation. The letter continued, describing how workers would gather by the **stream** after **retirement** each day, sharing whatever food they had.
 
-Marcus pointed to another document. "This looks like a **joint** **petition**. They were trying to **strike** for better **conditions**."
+Marcus pointed to another document. "This looks like a **joint** petition. They were trying to **strike** for better conditions."
 
-"**Exactly**," Sarah said. "And look at this **twitter** – sorry, I mean this **note** – about how they planned to **organize** secretly. If management found out, they would **impose** **harsh** penalties. Some workers were even **accused** of **assault** when they **protested**."
+"Exactly," Sarah said. "And look at this **twitter** – sorry, I mean this note – about how they planned to organize secretly. If management found out, they would **impose** harsh penalties. Some workers were even accused of **assault** when they protested."
 
-The **provision** of **evidence** was **increasing** their understanding. Sarah began to **estimate** that **approximately** fifty workers had **participated** **in** the **protest** movement. She needed to **monitor** the situation's development through these documents carefully.
+The **provision** of evidence was **increasing** their understanding. Sarah began to **estimate** that approximately fifty workers had participated in the **protest** movement. She needed to **monitor** the situation's development through these documents carefully.
 
-One letter described a terrible **accident**. A young man's **jacket** got caught **in** a machine. The **factory** had **no** **proper** **safety** measures. Workers **lived** **in** constant fear. The company would **rarely** **communicate** with the families **afterward**, **leaving** them to **wonder** about their **loved** ones' **fate**.
+One letter described a terrible accident. A young man's **jacket** got caught in a machine. The **factory** had no proper safety measures. Workers lived in constant fear. The company would **rarely** **communicate** with the families afterward, leaving them to **wonder** about their loved ones' fate.
 
-"This is the **origin** of many labor laws," Sarah explained to Marcus. "These people's suffering **led** to **reforms**. But we must **preserve** their stories **accurately**, not **twist** them to fit modern **criteria**."
+"This is the origin of many labor laws," Sarah explained to Marcus. "These people's suffering led to reforms. But we must **preserve** their stories accurately, not twist them to fit modern criteria."
 
-She found a document about the **settlement** between workers and owners after the **strike**. The **terms** seemed **minimal** by today's **standards**, but they were **significant** for that time. Workers gained the **right** to **rest** periods and slightly better **pay**. The **provision** of basic medical care was **finally** included.
+She found a document about the **settlement** between workers and owners after the **strike**. The terms seemed minimal by today's standards, but they were significant for that time. Workers gained the right to rest periods and slightly better pay. The **provision** of basic medical care was finally included.
 
-Marcus held up an old photograph. "Look at their faces. So much **anger** and **determination**."
+Marcus held up an old photograph. "Look at their faces. So much anger and determination."
 
-"**And** hope," Sarah added. "Despite everything, they **rarely** gave up. That's what I want visitors to **understand**."
+"And hope," Sarah added. "Despite everything, they **rarely** gave up. That's what I want visitors to understand."
 
-The **curriculum** she was developing would **cross** **multiple** disciplines – history, economics, ethics. She wanted students to **vary** their **perspectives**, to see these workers not as **victims** but as **activists** who fought for **justice**.
+The **curriculum** she was developing would **cross** multiple disciplines – history, economics, ethics. She wanted students to **vary** their perspectives, to see these workers not as victims but as activists who fought for justice.
 
-An **investigator's** report caught her eye. It described conditions **in** **graphic** detail. The **dust** from the machines filled workers' lungs. The **noise** was **deafening**. Some workers would **lose** their **hearing** over time. Others developed serious **illness** from the **toxic** materials they handled.
+An **investigator**'s report caught her eye. It described conditions in graphic detail. The dust from the machines filled workers' lungs. The noise was deafening. Some workers would lose their hearing over time. Others developed serious illness from the toxic materials they handled.
 
-"We need to **communicate** this **effectively**," Sarah said. "The museum **gallery** should make visitors feel what these people **experienced**."
+"We need to **communicate** this **effectively**," Sarah said. "The museum **gallery** should make visitors feel what these people experienced."
 
-She thought about the **increasing** **tension** between **preserving** history and making it accessible. Too much detail might **shock** visitors. Too **little** would **fail** to **honor** the workers' **sacrifice**.
+She thought about the **increasing** **tension** between preserving history and making it accessible. Too much detail might shock visitors. Too little would fail to honor the workers' sacrifice.
 
-A letter from a **teen** worker **particularly** moved her. He wrote: "I **doubt** I'll live to see better days, but I **hope** my **daughter** will. We **strike** not for ourselves but for the **future**."
+A letter from a **teen** worker **particularly** moved her. He wrote: "I **doubt** I'll live to see better days, but I hope my daughter will. We **strike** not for ourselves but for the future."
 
-"That's the **insight** we need to **preserve**," Sarah said. "Their **activism** was about **hope** and **change**."
+"That's the **insight** we need to **preserve**," Sarah said. "Their activism was about hope and change."
 
-Marcus found a **license** document showing the **factory** was finally **forced** to improve conditions after the **government** **imposed** new **regulations**. The **settlement** took years of **negotiation** and **sacrifice**.
+Marcus found a license document showing the **factory** was finally forced to improve conditions after the government imposed new regulations. The **settlement** took years of negotiation and sacrifice.
 
-"The **virus** of **injustice** was **finally** being addressed," Sarah noted. "Though **virtually** a century **later**, we're **still** learning from their **courage**."
+"The **virus** of injustice was finally being addressed," Sarah noted. "Though **virtually** a century later, we're still learning from their courage."
 
-She discovered a **joint** letter signed by workers of **different** **backgrounds** – immigrants, locals, men, women. It proved that the movement **crossed** **racial** and cultural **lines**. **Participation** was **open** to all who **suffered** under the same conditions.
+She discovered a **joint** letter signed by workers of different backgrounds – immigrants, locals, men, women. It proved that the movement crossed racial and cultural lines. **Participation** was open to all who suffered under the same conditions.
 
-"This **challenges** the **prior** **understanding**," Marcus observed. "I thought labor movements were **divided**."
+"This challenges the **prior** understanding," Marcus observed. "I thought labor movements were divided."
 
-"That's a **common** **misconception**," Sarah replied. "These documents show **accurate** history. We must **preserve** this **truth**."
+"That's a common misconception," Sarah replied. "These documents show **accurate** history. We must **preserve** this truth."
 
-The **mail** **continued** to **reveal** stories. One woman described hiding her **teen** son from the **factory** **recruiters**. She wrote: "I'd **rather** he be **hungry** than **dead**. The **factory** **kills** more **boys** than war."
+The **mail** continued to reveal stories. One woman described hiding her **teen** son from the **factory** recruiters. She wrote: "I'd rather he be hungry than dead. The **factory** kills more boys than war."
 
-Sarah's eyes filled with **tears**. "**Virtually** every family had stories of loss. Yet they **remained** **hopeful**, believing **in** the **possibility** of **change**."
+Sarah's eyes filled with tears. "**Virtually** every family had stories of loss. Yet they remained hopeful, believing in the possibility of change."
 
-She found records of the **strike's** aftermath. Some leaders were **imprisoned**. The company tried to **justify** its **harsh** response by **claiming** workers were **dangerous** **radicals**. But public **opinion** slowly **shifted** as the **truth** emerged.
+She found records of the **strike**'s aftermath. Some leaders were imprisoned. The company tried to **justify** its harsh response by claiming workers were dangerous radicals. But public opinion slowly shifted as the truth emerged.
 
-"The **settlement** was **partial**," Sarah explained. "But it was a **beginning**. It showed that **ordinary** people **could** **impose** **change** on **powerful** **institutions**."
+"The **settlement** was partial," Sarah explained. "But it was a beginning. It showed that **ordinary** people could **impose** change on powerful institutions."
 
-An **elderly** **volunteer** at the museum approached them. "My **grandfather** worked **in** this **factory**," she said. "He **rarely** **spoke** of those times, but when he did, he always said: '**Never** **forget** what we **fought** for.'"
+An elderly volunteer at the museum approached them. "My grandfather worked in this **factory**," she said. "He **rarely** spoke of those times, but when he did, he always said: 'Never forget what we fought for.'"
 
-Sarah nodded. "That's **exactly** why we're doing this. To **preserve** not just the **pain** but the **courage**, not just the **suffering** but the **hope**."
+Sarah nodded. "That's exactly why we're doing this. To **preserve** not just the pain but the courage, not just the suffering but the hope."
 
-She began organizing the **mail** into **categories** for the new **exhibit**. Each letter would be displayed with **context** and **explanation**. The **gallery** would include **interactive** elements to help visitors **understand** the **conditions** workers faced.
+She began organizing the **mail** into categories for the new exhibit. Each letter would be displayed with context and explanation. The **gallery** would include interactive elements to help visitors understand the conditions workers faced.
 
-Marcus asked: "Do you **doubt** people will want to see such **difficult** **history**?"
+Marcus asked: "Do you **doubt** people will want to see such difficult history?"
 
-"I **rarely** **doubt** the **importance** of **truth**," Sarah replied. "People need to see **accurate** history, even when it's **uncomfortable**. These workers **deserve** to be **remembered**."
+"I **rarely** **doubt** the importance of truth," Sarah replied. "People need to see **accurate** history, even when it's uncomfortable. These workers deserve to be remembered."
 
-The **increasing** stack of **documents** told a story of **resilience**. Workers who faced **enormous** **challenges** **rarely** gave up hope. They **participated** **in** creating a better **future**, even though they **rarely** lived to see the full **results** of their **efforts**.
+The **increasing** stack of documents told a story of resilience. Workers who faced **enormous** challenges **rarely** gave up hope. They participated in creating a better future, even though they **rarely** lived to see the full results of their efforts.
 
-As the sun set, casting **light** through the **tower** windows, Sarah felt grateful. These letters, this **mail** from the past, was more than **history**. It was a **reminder** that **ordinary** people **could** create **extraordinary** **change** when they worked **together** with **courage** and **determination**.
+As the sun set, casting light through the **tower** windows, Sarah felt grateful. These letters, this **mail** from the past, was more than history. It was a reminder that **ordinary** people could create extraordinary change when they worked together with courage and determination.
 
-The **settlement** the workers achieved was **imperfect**. But it was **theirs**. And their **story**, **preserved** through these letters, would **continue** to **inspire** **generations** to **come**.
+The **settlement** the workers achieved was imperfect. But it was theirs. And their story, preserved through these letters, would continue to inspire generations to come.
 
 ---
 

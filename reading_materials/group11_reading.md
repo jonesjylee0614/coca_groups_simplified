@@ -2,65 +2,65 @@
 
 ## 📖 Reading Passage: Finding Your Way
 
-Jake **felt** lost. **After** graduating from **college**, he **couldn't** **seem** to **find** his **place** in the **world**. **During** these difficult **days**, he would **often** **tell** **himself** that **things** would **get** **better**, but the **words** felt **empty**. He **lived** in a small **apartment** in the **city**, **working** part-time **jobs** that barely paid the bills.
+Jake felt lost. **After** graduating from **college**, he couldn't **seem** to **find** his **place** in the **world**. **During** these difficult days, he would often **tell** **himself** that **things** would get **better**, but the words felt empty. He lived in a **small** apartment in the **city**, working part-**time** jobs that barely paid the bills.
 
-"You need to **start** **thinking** about your **future**," his **mother** told him **over** the **phone**. "**Maybe** you should **move** back **home** for a while. We **miss** you."
+"You need to **start** thinking about your **future**," his **mother** told him **over** the **phone**. "**Maybe** you should **move** back home for a while. We miss you."
 
-Jake **thought** about it, but **something** **inside** him **wanted** to **keep** trying. "I **feel** like I'm **close** to **finding** **something**," he replied. "I just need a little **more** **time**."
+Jake thought about it, but **something** **inside** him wanted to **keep** trying. "I **feel** like I'm **close** to finding **something**," he replied. "I just need a little more **time**."
 
-**After** hanging up, Jake sat at his **window**, **looking** **outside**. The **city** **lights** were **beginning** to **appear** as the **sun** set. He **thought** about all the people **around** him – everyone **seemed** to **have** their **lives** **figured** out. **During** **moments** like these, he **felt** very **small** and insignificant.
+**After** hanging up, Jake sat at his **window**, looking **outside**. The **city** lights were beginning to appear as the **sun** set. He thought about all the people **around** him – everyone seemed to have their lives figured out. **During** moments like these, he felt very **small** and insignificant.
 
-His **roommate**, David, came **home** **carrying** a **bag** of groceries. "You **look** **down**," David observed. "Still **thinking** about **job** **stuff**?"
+His roommate, David, came home carrying a bag of groceries. "You **look** down," David observed. "Still thinking about **job** stuff?"
 
-"**Yeah**," Jake admitted. "I **can't** **seem** to **find** anything that **feels** right. **Maybe** I **should** have **studied** **something** **different** in **college**. **Maybe** I'm just not **good** enough."
+"Yeah," Jake admitted. "I can't **seem** to **find** anything that feels **right**. **Maybe** I should have studied **something** **different** in **college**. **Maybe** I'm just not good enough."
 
-David put down his **bag** and sat **across** from Jake. "You **know**, I **felt** the **same** **way** **after** graduation. But then I **realized** **something**: **finding** your **place** isn't about being **perfect**. It's about **trying** **different** **things** until **something** **feels** right."
+David put down his bag and sat **across** from Jake. "You know, I felt the same **way** **after** graduation. But then I realized **something**: finding your **place** isn't about being perfect. It's about trying **different** **things** until **something** feels **right**."
 
-"But **during** this **time**, I'm not **making** **money**. I **feel** like I'm **letting** everyone **down**," Jake said.
+"But **during** this **time**, I'm not making money. I **feel** like I'm letting everyone down," Jake said.
 
-"**Listen**," David replied. "Life isn't a **race**. **After** you **finish** **school**, there's no **set** **path** you **have** to **follow**. You need to **give** **yourself** **time** to **figure** **things** out."
+"Listen," David replied. "**Life** isn't a race. **After** you finish school, there's no set path you have to follow. You need to **give** yourself **time** to figure **things** out."
 
-The next **morning**, Jake **decided** to **start** **looking** at **things** **differently**. **During** his **walk** to **work**, he **began** **noticing** **things** he'd never **paid** **attention** to **before** – a **bakery** with **beautiful** **pastries**, a **bookstore** where people **seemed** **happy** **browsing**, an **art** **gallery** displaying **local** **artists'** **work**.
+The next morning, Jake decided to **start** looking at **things** differently. **During** his **walk** to **work**, he began noticing **things** he'd never paid attention to **before** – a bakery with beautiful pastries, a bookstore where people seemed happy browsing, an art gallery displaying local artists' **work**.
 
-"**Maybe**," Jake **thought** to **himself**, "I've been **looking** for the **wrong** **things**. **Maybe** I need to **find** **something** that **actually** **makes** me **feel** **alive**."
+"**Maybe**," Jake thought to **himself**, "I've been looking for the **wrong** **things**. **Maybe** I need to **find** **something** that actually makes me **feel** alive."
 
-**After** his shift **ended**, Jake **started** **walking** **around** the **neighborhood**. He **found** **himself** **outside** a **community** **center** that **offered** various **classes**. One **poster** caught his **attention**: "**Photography** for **Beginners** – **Start** **Seeing** the **World** **Differently**."
+**After** his shift ended, Jake started walking **around** the neighborhood. He found **himself** **outside** a community center that offered various classes. One poster caught his attention: "Photography for Beginners – **Start** Seeing the **World** Differently."
 
-**Something** about those **words** resonated with him. He **felt** a **spark** of **interest** he hadn't **experienced** in **months**. **Maybe** this was what he needed – not a **perfect** **career**, but **something** that **made** him **feel** connected to the **world** **again**.
+**Something** about those words resonated with him. He felt a spark of interest he hadn't experienced in months. **Maybe** this was what he needed – not a perfect career, but **something** that made him **feel** connected to the **world** again.
 
-Jake **signed** up for the **class**. **During** the **first** **session**, the **instructor**, Ms. **Chen**, **spoke** about **photography** as a **way** of **seeing**. "When you **look** **through** a **lens**," she **explained**, "you **start** **noticing** **things** you've **walked** **past** a **thousand** **times**. You **begin** to **see** the **beauty** in **ordinary** **things**."
+Jake signed up for the class. **During** the first session, the instructor, Ms. Chen, spoke about photography as a **way** of seeing. "When you **look** **through** a lens," she explained, "you **start** noticing **things** you've walked past a thousand times. You **begin** to see the beauty in ordinary **things**."
 
-**After** **class**, Jake **started** **walking** **around** with his **borrowed** camera. **During** these **walks**, he **felt** **different** – **more** **present**, **more** **aware**. He **took** **pictures** of **morning** **light** **filtering** **through** **trees**, of people **waiting** at **bus** **stops**, of **children** **playing** in **parks**.
+**After** class, Jake started walking **around** with his borrowed camera. **During** these walks, he felt **different** – more present, more aware. He took pictures of morning **light** filtering **through** trees, of people waiting at bus stops, of children playing in parks.
 
-"You **seem** **happier**," David **commented** one **evening**. "What **changed**?"
+"You **seem** happier," David commented one evening. "What changed?"
 
-"I **found** **something** that **feels** **meaningful**," Jake **replied**. "**During** my **photography** **walks**, I **feel** **alive**. I **start** to **see** the **city** **differently**. **Maybe** I **can't** **make** a **career** of it **yet**, but it **gives** me **something** to **look** **forward** to."
+"I found **something** that feels meaningful," Jake replied. "**During** my photography walks, I **feel** alive. I **start** to see the **city** differently. **Maybe** I can't make a career of it yet, but it gives me **something** to **look** forward to."
 
-**After** a **few** **weeks**, Ms. **Chen** **asked** Jake if he'd **consider** **helping** with a **community** **project** – **documenting** the **neighborhood's** **changing** **faces**. "You **have** an **eye** for **capturing** **authentic** **moments**," she told him. "**During** this **project**, you'll **work** with **local** **residents**, **telling** their **stories** **through** **images**."
+**After** a few weeks, Ms. Chen asked Jake if he'd consider helping with a community project – documenting the neighborhood's changing faces. "You have an eye for capturing authentic moments," she told him. "**During** this project, you'll **work** with local residents, telling their stories **through** images."
 
-Jake **felt** **nervous** but **excited**. **Maybe** this **wasn't** the **career** **path** he'd **imagined**, but it **felt** **right**. **During** the **next** **month**, he **worked** on the **project**, **interviewing** residents, **taking** **pictures**, **learning** their **stories**.
+Jake felt nervous but excited. **Maybe** this wasn't the career path he'd imagined, but it felt **right**. **During** the next month, he worked on the project, interviewing residents, taking pictures, learning their stories.
 
-One **afternoon**, Jake **met** an **elderly** **woman** named Mrs. **Rodriguez**. She'd **lived** in the **neighborhood** for **fifty** **years**. "**After** all this **time**," she told him, "I **still** **find** new **things** to **love** about this **place**. You just need to **keep** **looking**."
+One afternoon, Jake met an elderly woman named Mrs. Rodriguez. She'd lived in the neighborhood for fifty years. "**After** all this **time**," she told him, "I still **find** new **things** to love about this **place**. You just need to **keep** looking."
 
-Her **words** **struck** Jake **deeply**. **Maybe** that was what he'd been **missing** – the **willingness** to **keep** **looking**, to **keep** **trying**, even **when** **things** **felt** **uncertain**.
+Her words struck Jake deeply. **Maybe** that was what he'd been missing – the willingness to **keep** looking, to **keep** trying, even when **things** felt uncertain.
 
-**During** the **project**'s **final** **exhibition**, Jake's **photographs** were **displayed** alongside **others**. He **felt** **proud** **seeing** his **work** **appreciated** by the **community**. His **mother** came to the **opening**, tears in her **eyes**.
+**During** the project's final exhibition, Jake's photographs were displayed alongside others. He felt proud seeing his **work** appreciated by the community. His **mother** came to the opening, tears in her eyes.
 
-"I was **wrong** to **push** you," she said. "You **needed** **time** to **find** your **way**. **After** **seeing** this, I **understand** what you were **looking** for."
+"I was **wrong** to push you," she said. "You needed **time** to **find** your **way**. **After** seeing this, I understand what you were looking for."
 
-**After** the **exhibition**, **opportunities** **began** to **appear**. A **local** **magazine** **asked** Jake to **contribute** **photographs**. A **small** **business** **hired** him to **document** their **opening**. **Things** **were** **starting** to **come** **together**, not **perfectly**, but **genuinely**.
+**After** the exhibition, opportunities began to appear. A local magazine asked Jake to contribute photographs. A **small** business hired him to document their opening. **Things** were starting to come together, not perfectly, but genuinely.
 
-"**During** those **dark** **months**," Jake **reflected** one **evening**, "I **felt** completely lost. But **maybe** that **feeling** was **necessary**. **Maybe** I **needed** to **feel** lost **before** I could **find** **something** **real**."
+"**During** those dark months," Jake reflected one evening, "I felt completely lost. But **maybe** that feeling was necessary. **Maybe** I needed to **feel** lost **before** I could **find** **something** real."
 
-David **smiled**. "You **found** more than a **career**. You **found** a **way** of **seeing** and **being** in the **world** that **feels** **authentic** to you."
+David smiled. "You found more than a career. You found a **way** of seeing and being in the **world** that feels authentic to you."
 
-Jake **looked** at his **latest** **photographs** – **images** of the **city** he'd **lived** in but never **truly** **seen** **until** **now**. **After** all the **uncertainty**, he'd **discovered** **something** **important**: **sometimes** you don't **find** your **place** by **looking** for it **directly**. **Sometimes** you **find** it by **staying** **open**, by **trying** new **things**, by **letting** **yourself** **feel** lost **until** **something** **feels** found.
+Jake looked at his latest photographs – images of the **city** he'd lived in but never truly seen until now. **After** all the uncertainty, he'd discovered **something** important: sometimes you don't **find** your **place** by looking for it directly. Sometimes you **find** it by staying open, by trying new **things**, by letting yourself **feel** lost until **something** feels found.
 
-His **phone** **rang** – Ms. **Chen** calling with news about another **project**. Jake **answered**, **feeling** **grateful** for the **journey** that had **brought** him **here**. He **couldn't** **tell** where this **path** would **lead**, but for the **first** **time** in a long **while**, he **felt** **okay** with not **knowing**.
+His **phone** rang – Ms. Chen calling with news about another project. Jake answered, feeling grateful for the journey that had brought him here. He couldn't **tell** where this path would lead, but for the first **time** in a long while, he felt okay with not knowing.
 
-**After** all, **finding** your **way** **isn't** about **having** all the **answers**. It's about **being** **willing** to **keep** **walking**, even **when** the **path** **ahead** isn't **clear**. It's about **looking** at the **world** with **fresh** **eyes**, **during** every **moment**, **finding** **beauty** and **meaning** in **places** you **never** **expected**.
+**After** all, finding your **way** isn't about having all the answers. It's about being willing to **keep** walking, even when the path ahead isn't clear. It's about looking at the **world** with fresh eyes, **during** every **moment**, finding beauty and meaning in places you never expected.
 
-And **maybe**, Jake **thought**, that was **enough**.
+And **maybe**, Jake thought, that was enough.
 
 ---
 

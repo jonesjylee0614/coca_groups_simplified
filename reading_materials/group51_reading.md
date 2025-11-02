@@ -2,13 +2,13 @@
 
 ## 📖 Reading Passage: The Desert Festival
 
-The **desert** landscape stretched out before them, **approximately** fifty miles of **sand** and **iron**-red rocks. Maria, a young **designer** from the **republic**, had **volunteered** to organize a cultural **festival** in this remote area. Her **intention** was simple: to **embrace** **racial** diversity and promote **transportation** between isolated communities. **Planning** this event was a **fundamental** challenge, but she was ready to **track** every detail.
+The **desert** landscape stretched out before them, **approximately** fifty miles of **sand** and **iron**-red rocks. Maria, a young **designer** from the **republic**, had volunteered to organize a cultural **festival** in this remote area. Her **intention** was simple: to **embrace** **racial** diversity and promote **transportation** between isolated communities. **Planning** this event was a **fundamental** challenge, but she was ready to **track** every detail.
 
-"This is **awesome**!" said Carlos, her **boyfriend**, as they drove through the heat. The **smoke** from distant fires rose in the distance. They were heading to meet the **prince** of a local tribe, a **general** figure of respect in the **leading** community.
+"This is **awesome**!" said Carlos, her **boyfriend**, as they drove through the heat. The **smoke** from distant fires rose in the distance. They were heading to meet the **prince** of a local tribe, a **general** figure of **respect** in the **leading** community.
 
-Maria had done her **evaluation** of the **scenario**. The **target** was clear: bring together people from **opposite** backgrounds. Some would **perceive** this as impossible. "**Widely** different cultures can't mix," people would say. But Maria **strongly** believed **otherwise**. She wanted to prove that art could **attach** people to one another, that a shared **occasion** could **secure** peace.
+Maria had done her **evaluation** of the **scenario**. The **target** was clear: bring together people from **opposite** backgrounds. Some would **perceive** this as impossible. "**Widely** different cultures can't mix," people would say. But Maria **strongly** believed otherwise. She wanted to prove that art could **attach** people to one another, that a shared **occasion** could **secure** peace.
 
-They arrived at the settlement where the planning committee was meeting. An old woman wearing a traditional **cap** sat at the entrance. "Welcome," she said. "We've been expecting you. Please, come **elsewhere** to the main tent."
+They arrived at the settlement where the **planning** committee was meeting. An old woman wearing a traditional **cap** sat at the entrance. "Welcome," she said. "We've been expecting you. Please, come **elsewhere** to the main tent."
 
 Inside, **approximately** twenty people gathered. Maria noticed the **mode** of discussion was formal yet warm. She began to **pose** questions about local traditions, about what they wanted to showcase. One man mentioned his **illness** had prevented him from participating last year, but now he was ready to contribute.
 
@@ -22,27 +22,27 @@ The **leading** elder nodded. "But we must also **respect** the quiet time in th
 
 "Of course," Maria agreed. "We'll **track** the schedule carefully. **Planning** is everything."
 
-Over the next weeks, Maria worked tirelessly. The **festival** began to take shape. She designed posters with a **black** and gold color **scheme**, representing the **desert** at night. The **transportation** problem was solved when a local **trade** company offered buses. Artists from the **republic** and **Iraqi** regions confirmed their participation.
+Over the next weeks, Maria worked tirelessly. The **festival** began to take shape. She designed posters with a **black** and gold color scheme, representing the **desert** at night. The **transportation** problem was solved when a local **trade** company offered buses. Artists from the **republic** and Iraqi regions confirmed their participation.
 
 But then, a crisis emerged. A dust storm destroyed half the setup. People began to **yell** in frustration. Some wanted to **retire** from the project. The **mechanism** they had built seemed broken.
 
-"We can't give up now," Maria said **strongly**. "This **festival** is more important than we think. It's about showing that despite our **illness**es, our struggles, our **opposite** views, we can create something beautiful together."
+"We can't give up now," Maria said **strongly**. "This **festival** is more important than we think. It's about showing that despite our illnesses, our struggles, our **opposite** views, we can create something beautiful together."
 
-Her **boyfriend** Carlos stood beside her. "She's right. We've come too far. Let's **embrace** this challenge like we **embraced** the idea in the first place."
+Her **boyfriend** Carlos stood beside her. "She's right. We've come too far. Let's **embrace** this challenge like we embraced the idea in the first place."
 
-The words resonated. People began to work again. They found **sand** wasn't just an enemy – it could be used in **sand** art installations. The **iron** frames that had fallen were redesigned into sculptures. What seemed like a disaster became a **fundamental** part of the festival's **theme**.
+The words resonated. People began to work again. They found **sand** wasn't just an enemy – it could be used in **sand** art installations. The **iron** frames that had fallen were redesigned into sculptures. What seemed like a disaster became a **fundamental** part of the **festival**'s theme.
 
-On opening day, **approximately** three thousand people arrived. The **evaluation** was overwhelmingly positive. Children played with **pot**s made by local artisans. **Spanish** dancers performed alongside traditional **tribal** music. A **photographer** captured moments that would **attach** to people's memories forever.
+On opening day, **approximately** three thousand people arrived. The **evaluation** was overwhelmingly positive. Children played with pots made by local artisans. **Spanish** dancers performed alongside traditional tribal music. A photographer captured moments that would **attach** to people's memories forever.
 
-The **prince** gave a speech. "This **festival** **poses** a question to all of us: can we **embrace** our differences? Today, we've answered yes. This young **designer** had an **intention** that seemed simple, but her **planning** and **respect** for all cultures has created something **incredible**."
+The **prince** gave a speech. "This **festival** poses a question to all of us: can we **embrace** our differences? Today, we've answered yes. This young **designer** had an **intention** that seemed simple, but her **planning** and **respect** for all cultures has created something **incredible**."
 
-Maria stood on the stage, looking out at the diverse crowd. People from **widely** different backgrounds stood together. She thought about her **assumption**s at the beginning – how she worried about **racial** tensions, about the **target** being too ambitious. But here they were, proving that **consideration** and **respect** could **secure** harmony.
+Maria stood on the stage, looking out at the diverse crowd. People from **widely** different backgrounds stood together. She thought about her assumptions at the beginning – how she worried about **racial** tensions, about the **target** being too ambitious. But here they were, proving that **consideration** and **respect** could **secure** harmony.
 
 A **volunteer** approached her. "You know, I've lived in this **desert** my whole life. I thought I knew everything about it. But this **festival** has shown me a different **mode** of seeing things. We're not **opposite** – we're complementary."
 
 Maria smiled. The **scenario** she had imagined months ago had become reality. The **transportation** of ideas and culture was happening naturally. People were trading stories as much as goods.
 
-As the sun set over the **sand**, casting **iron**-red shadows, the **festival** reached its **peak**. Music filled the air. The **smoke** from cooking fires rose up, carrying the scent of shared meals. This **occasion** would be remembered **widely**.
+As the sun set over the **sand**, casting **iron**-red shadows, the **festival** reached its peak. Music filled the air. The **smoke** from cooking fires rose up, carrying the scent of shared meals. This **occasion** would be remembered **widely**.
 
 Later, Maria sat with Carlos under the stars. "Do you think they'll want to do this again?" he asked.
 
@@ -50,13 +50,13 @@ Later, Maria sat with Carlos under the stars. "Do you think they'll want to do t
 
 The **desert** **festival** became a symbol. It proved that **fundamental** change happens when people choose **consideration** over conflict, when they **respect** differences rather than fear them, when they work toward a shared **target** with clear **intention**.
 
-Maria's **evaluation** of the event was professional, but her heart held something more – the knowledge that she had helped create a **mechanism** for peace. The **planning** had been exhausting, the challenges **incredible**, but the **outcome** was **awesome** in the truest sense of the word.
+Maria's **evaluation** of the event was professional, but her heart held something more – the knowledge that she had helped create a **mechanism** for peace. The **planning** had been exhausting, the challenges **incredible**, but the outcome was **awesome** in the truest sense of the word.
 
-The **festival** would **continue** annually, but that first year would always hold special significance. It was when **opposite** sides chose to meet in the middle, when **racial** barriers began to dissolve, when a simple **volunteer** with a vision showed that **approximately** anything is possible with dedication and **respect**.
+The **festival** would continue annually, but that first year would always hold special significance. It was when **opposite** sides chose to meet in the middle, when **racial** barriers began to dissolve, when a simple **volunteer** with a vision showed that **approximately** anything is possible with dedication and **respect**.
 
-As they drove away from the **desert**, Maria looked back at the **smoke** still rising from the celebration fires. She had **embraced** an **impossible** task and made it real. The **phrase** her grandmother once told her echoed in her mind: "Dream big, plan well, **respect** all."
+As they drove away from the **desert**, Maria looked back at the **smoke** still rising from the celebration fires. She had embraced an impossible task and made it real. The **phrase** her grandmother once told her echoed in her mind: "Dream big, plan well, **respect** all."
 
-The **Spanish** music faded into the distance, but its echo remained. The **desert** **festival** had **attached** people to a new way of thinking. And that, Maria knew, was the most **incredible** achievement of all.
+The **Spanish** music faded into the distance, but its echo remained. The **desert** **festival** had attached people to a new way of thinking. And that, Maria knew, was the most **incredible** achievement of all.
 
 ---
 

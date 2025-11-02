@@ -2,55 +2,55 @@
 
 ## 📖 Reading Passage: The Community Garden
 
-**Once** upon a time, there was a small **community** where people rarely **spoke** to each other. **Everything** had **changed** four **hours** **ago** when **someone** suggested creating a **community** garden. It was a simple idea, **however**, it **led** to something **much** more meaningful.
+**Once** upon a time, there was a small **community** where people rarely spoke to each other. **Everything** had changed **four** hours **ago** when **someone** suggested creating a **community** garden. It was a simple idea, **however**, it led to something **much** more meaningful.
 
-The **party** that **created** this plan **included** **members** from all backgrounds. There was Mr. **Black**, a retired teacher, Sarah, a young **girl** who loved nature, and Tom, a **father** of two. They would **often** **meet** to discuss how to **allow** the garden to grow and **continue** developing.
+The **party** that created this plan included members from all backgrounds. There was Mr. **Black**, a retired teacher, Sarah, a young **girl** who loved nature, and Tom, a **father** of two. They would **often** meet to discuss how to **allow** the garden to grow and **continue** developing.
 
-"We need to work **together**," Sarah said **at** the first meeting. "**Only** then can we **create** something beautiful."
+"We need to work **together**," Sarah said at the first meeting. "**Only** then can we **create** something beautiful."
 
-Mr. Black **sat** **around** the table, looking **at** everyone. "I **remember** when I was a **boy**, my **father** taught me an important **lesson**. He said we should **follow** our dreams **until** the **end**."
+Mr. **Black** sat **around** the table, looking at everyone. "I **remember** when I was a **boy**, my **father** taught me an important lesson. He said we should **follow** our dreams **until** the **end**."
 
-Tom nodded. "That's the **reason** I'm here. I want my children to **learn** that **community** matters **more** than anything **else**."
+Tom nodded. "That's the **reason** I'm here. I want my children to **learn** that **community** matters more than anything else."
 
-The **news** spread quickly through the **national** **media**. People from other towns began to **watch** their progress. **Social** **information** about the project appeared **online**, and soon **members** from neighboring communities wanted to join.
+The **news** spread quickly through the **national** media. People from other towns began to **watch** their progress. **Social** **information** about the project appeared online, and soon members from neighboring communities wanted to join.
 
-**At** **least** fifty volunteers showed up on the first day. They worked from early **morning** **until** late **evening**, transforming an empty **lot** into rows of vegetable beds. **Already**, they could see the potential.
+At **least** fifty volunteers showed up on the first day. They worked from early morning **until** late evening, transforming an empty lot into rows of vegetable beds. **Already**, they could see the potential.
 
-Every **hour** brought new challenges. **However**, **no one** wanted to **stop**. They **stood** **together**, facing each problem as it came. When they needed a water **line**, the **local** hardware store donated supplies. When they needed advice, experienced gardeners came to help.
+Every **hour** brought new challenges. **However**, no one wanted to stop. They stood **together**, facing each problem as it came. When they needed a water **line**, the local hardware store donated supplies. When they needed advice, experienced gardeners came to help.
 
-A **minute** didn't pass without **someone** working. The **young** and old worked **side** by **side**. Parents brought their children to **help**. **At** the **end** of each day, they would **sit** **together** and share stories.
+A **minute** didn't pass without **someone** working. The young and old worked side by side. Parents brought their children to help. At the **end** of each day, they would **sit** **together** and share stories.
 
-"This has **changed** **everything** for me," said Mrs. Chen, an elderly **woman**. "I thought I had no **reason** to leave my **house** anymore. Now I **come** here every day."
+"This has changed **everything** for me," said Mrs. Chen, an elderly woman. "I thought I had no **reason** to leave my house anymore. Now I come here every day."
 
-The garden became **more** than just a place to grow vegetables. It became a space where people could **speak** freely, where relationships could grow, and where the **community** could **stand** strong **together**.
+The garden became more than just a place to grow vegetables. It became a space where people could **speak** freely, where relationships could grow, and where the **community** could **stand** strong **together**.
 
-**Four** months **ago**, this empty lot meant **nothing**. Now it was the **heart** of the **community**. People would **watch** vegetables grow while getting to **know** their neighbors. Children would **learn** about nature while playing **together**. The elderly would **sit** in the shade and **remember** better times while making new memories.
+**Four** months **ago**, this empty lot meant nothing. Now it was the heart of the **community**. People would **watch** vegetables grow while getting to know their neighbors. Children would **learn** about nature while playing **together**. The elderly would **sit** in the shade and **remember** better times while making new memories.
 
-The **party** **at** the **end** of the **season** celebrated their success. They had **won** **more** than just fresh vegetables – they had **won** back their sense of **community**. The **body** of volunteers had grown from ten to over a hundred **members**.
+The **party** at the **end** of the season celebrated their success. They had won more than just fresh vegetables – they had won back their sense of **community**. The **body** of volunteers had grown from ten to over a hundred members.
 
-Mr. Black **spoke** **at** the celebration. "We **set** out to **create** a garden," he said. "**However**, we **created** something **much** **more** important – connections between people."
+Mr. **Black** spoke at the celebration. "We **set** out to **create** a garden," he said. "**However**, we created something **much** more important – connections between people."
 
-The **health** benefits were obvious. People were eating **better**, moving **more**, and feeling happier. But the **social** benefits were even **greater**. People who had lived **side** by **side** for years were **now** friends.
+The **health** benefits were obvious. People were eating better, moving more, and feeling happier. But the **social** benefits were even greater. People who had lived side by side for years were now friends.
 
-"**Remember** this **moment**," Sarah told the children who were playing **around** her. "**Remember** that when we work **together**, we can **change** **everything**."
+"**Remember** this moment," Sarah told the children who were playing **around** her. "**Remember** that when we work **together**, we can **change** **everything**."
 
-The success of the garden **led** to other **community** projects. A **book** **club** started meeting **at** the garden. A **music** group began performing there on weekends. The space had become a **center** for **community** life.
+The success of the garden led to other **community** projects. A book club started meeting at the garden. A music group began performing there on weekends. The space had become a center for **community** life.
 
-Tom **watched** his children **playing** in the garden and smiled. "This is the **reason** I moved to this **community**," he thought. "Not just for a **house**, but for a **place** where people **care** about each other."
+Tom watched his children playing in the garden and smiled. "This is the **reason** I moved to this **community**," he thought. "Not just for a house, but for a place where people care about each other."
 
-**At** **least** **once** a week, new **members** would join. The garden **continued** to **grow**, not just in size but in importance. It had become a symbol of what people could **achieve** when they worked **together**.
+At **least** **once** a week, new members would join. The garden continued to grow, not just in size but in importance. It had become a symbol of what people could achieve when they worked **together**.
 
-**Until** that **moment**, many residents had felt isolated. Now they had a **reason** to **leave** their homes, to **speak** with neighbors, to **stand** **together** for something meaningful. The garden had **changed** **everything**.
+**Until** that moment, many residents had felt isolated. Now they had a **reason** to leave their homes, to **speak** with neighbors, to **stand** **together** for something meaningful. The garden had changed **everything**.
 
-**Once** the **snow** began to **fall**, they would **sit** **around** fires, planning for the next **season**. They would **remember** the challenges they had faced and the victories they had **won**. And they would **speak** about how **much** their lives had **changed** because **someone** had suggested a simple idea **four** months **ago**.
+**Once** the snow began to fall, they would **sit** **around** fires, planning for the next season. They would **remember** the challenges they had faced and the victories they had won. And they would **speak** about how **much** their lives had changed because **someone** had suggested a simple idea **four** months **ago**.
 
-The **community** garden taught them all an important **lesson**: that **only** by working **together** could they **create** real **change**. That small acts, **continued** over time, **led** to big results. And that **every** **member** of a **community** has something valuable to **contribute**.
+The **community** garden taught them all an important lesson: that **only** by working **together** could they **create** real **change**. That small acts, continued over time, led to big results. And that every **member** of a **community** has something valuable to contribute.
 
-**At** the **end** of the year, the **community** **party** was bigger than ever. As people **stood** **together**, **watching** the sunset over their garden, they knew they had **created** something that would **continue** for years to come.
+At the **end** of the year, the **community** **party** was bigger than ever. As people stood **together**, watching the sunset over their garden, they knew they had created something that would **continue** for years to come.
 
-Mr. Black looked **around** **at** all the faces – young and old, new **members** and founding **ones** – and felt proud. "We didn't just **create** a garden," he said. "We **created** a **community**."
+Mr. **Black** looked **around** at all the faces – young and old, new members and founding ones – and felt proud. "We didn't just **create** a garden," he said. "We created a **community**."
 
-And **everyone** agreed.
+And everyone agreed.
 
 ---
 

@@ -2,67 +2,67 @@
 
 ## 📖 Reading Passage: A Journey Home
 
-**Whether** we realize it or not, our childhood **home** shapes **who** we become. This is the **history** of a **boy** named David and his **father**, and how a simple **walk** **around** their neighborhood **changed** everything.
+**Whether** we realize it or not, our childhood **home** shapes who we become. This is the **history** of a **boy** named David and his **father**, and how a simple **walk** around their neighborhood changed everything.
 
-David was **almost** **five** years old when his family decided to move to a new **university** town. His **father** was a **research** professor **at** the **public** **university**, studying **political** science and **history**. **Before** they left, they took one final **walk** through their old neighborhood.
+David was **almost** five years old when his family decided to move to a new **university** town. His **father** was a **research** professor at the **public** **university**, studying **political** science and **history**. **Before** they left, they took one final **walk** through their old neighborhood.
 
-"We should **spend** some time here **before** we **leave**," his **father** said that **morning**. "We might not **come** back for years."
+"We should **spend** some time here **before** we leave," his **father** said that **morning**. "We might not come back for years."
 
-The **moment** they stepped out the **door**, memories came flooding back. **Everything** looked **different** yet **familiar**. The old **white** **house** where Mrs. Chen sold fresh **food** still **stood** at the **corner**. The small **park** **where** David learned to **walk** seemed **much** smaller now.
+The **moment** they stepped out the **door**, memories came flooding back. Everything looked different yet familiar. The old **white** **house** where Mrs. Chen sold fresh **food** still stood at the corner. The small park where David learned to **walk** seemed much smaller now.
 
-"This **walk** will **help** us **remember**," his **father** added, his voice **quiet** but firm. **"Both** **of** us need this."
+"This **walk** will help us remember," his **father** added, his voice quiet but firm. "**Both** of us need this."
 
-They walked **off** the main **street** into quieter roads. **Several** neighbors came out to say goodbye. Mr. **White**, who lived in the **house** next **door**, **walked** with them for **a** while.
+They walked off the main **street** into quieter roads. **Several** neighbors came out to say goodbye. Mr. **White**, who lived in the **house** next **door**, walked with them for a while.
 
-"Your **father** was **the** best neighbor we could **ask** for," Mr. **White** said. "He would **often** **help** **everyone** in the **community**. When my wife was sick, he would **buy** **food** and bring it to our **house**."
+"Your **father** was the best neighbor we could ask for," Mr. **White** said. "He would **often** help everyone in the community. When my wife was sick, he would **buy** **food** and bring it to our **house**."
 
-David looked up **at** his **father**, **seeing** him in a new **light**. He hadn't known **about** all these **acts** **of** kindness.
+David looked up at his **father**, seeing him in a new light. He hadn't known about all these acts of kindness.
 
-**At** the local **food** market, the owner gave them **free** vegetables. "I **remember** when you **opened** your first **office** here," she said to David's **father**. "You helped my **son** **get** into **university**. I'll **never** forget that."
+At the local **food** market, the owner gave them **free** vegetables. "I remember when you opened your first **office** here," she said to David's **father**. "You helped my **son** get into **university**. I'll never forget that."
 
-The **morning** turned into afternoon. They **walked** past the old **court** building, the **public** library, and the **center** where David's **father** used to **send** his **research** papers. **Each** place held memories.
+The **morning** turned into afternoon. They walked past the old **court** building, the **public** library, and the **center** where David's **father** used to **send** his **research** papers. Each place held memories.
 
-"**Whether** we **leave** or **stay**, these memories will **remain** with us," his **father** **explained**. "**History** isn't just about **national** events. It's **also** about personal moments, **family** **history**, and the **little** things that **make** us **who** we **are**."
+"**Whether** we leave or **stay**, these memories will **remain** with us," his **father** explained. "**History** isn't just about **national** events. It's also about personal moments, family **history**, and the **little** things that make us who we are."
 
-They **sat** down **at** a small **café** where his **father** had spent countless **hours** writing his **research**. The **waiter**, an elderly man, still **remembered** them.
+They sat down at a small café where his **father** had spent countless hours writing his **research**. The waiter, an elderly man, still remembered them.
 
-"The **university** professor!" he **exclaimed**. "I **heard** you're **moving**. That's a **big** **change**."
+"The **university** professor!" he exclaimed. "I heard you're moving. That's a big change."
 
-"Yes," David's **father** replied. "**But** **change** is **part** **of** **life**. We need to **grow**, to **learn** new things. This new position will **allow** me to do **better** **research**."
+"Yes," David's **father** replied. "But change is part of life. We need to **grow**, to learn new things. This new position will allow me to do **better** **research**."
 
-David listened carefully. His **father** rarely **spoke** so **openly** **about** his **work** and **decisions**. The **waiter** brought them **food** and they **sat** **together**, **watching** people **walk** by.
+David listened carefully. His **father** rarely spoke so openly about his work and decisions. The waiter brought them **food** and they sat together, watching people **walk** by.
 
-**"Both** **of** you **look** sad," the **waiter** observed. "**But** you **also** **look** ready for your next adventure."
+"**Both** of you look sad," the waiter observed. "But you also look ready for your next adventure."
 
-**"You're** right," David's **father** said. "We're sad to **leave**, **but** we're **also** excited. The new **university** has **better** **resources** for my **research**. David will have **access** to **excellent** schools. **Within** a year, we'll probably **feel** **at** **home** there too."
+"You're right," David's **father** said. "We're sad to leave, but we're also excited. The new **university** has **better** resources for my **research**. David will have access to excellent schools. **Within** a year, we'll **probably** feel at **home** there too."
 
-As they **walked** **home** that afternoon, David **considered** his **father**'s **words**. **Whether** they stayed or left, home wasn't just a place – it was the people, the memories, and the **history** they created **together**.
+As they walked **home** that afternoon, David considered his **father**'s words. **Whether** they stayed or left, **home** wasn't just a place – it was the people, the memories, and the **history** they created together.
 
-**Before** sunset, they **returned** to their **house** one last time. The moving **company** would **come** the next **morning**. **Everything** was already packed in **boxes**.
+**Before** sunset, they returned to their **house** one last time. The moving company would come the next **morning**. Everything was **already** packed in boxes.
 
-David's **father** **opened** the **back** **door** and they **stood** in the small **garden**. "I **planted** this tree when you were born," his **father** said, pointing to a young **oak**. "**Within** **five** years, it will be tall and strong. **Within** ten years, it will provide **shade** for the **family** that **moves** here **after** us."
+David's **father** opened the back **door** and they stood in the small garden. "I planted this tree when you were born," his **father** said, pointing to a young oak. "**Within** five years, it will be tall and **strong**. **Within** ten years, it will provide shade for the family that moves here after us."
 
-"Will we **come** back to **see** it?" David asked.
+"Will we come back to see it?" David asked.
 
-"**Of** course," his **father** **answered**. "**Whether** it's next year or in **five** years, we'll **return**. This will always be **part** **of** our **history**."
+"Of **course**," his **father** answered. "**Whether** it's next year or in five years, we'll return. This will always be part of our **history**."
 
-That **moment** taught David an important **lesson** about **change** and **continuity**. His **father** wasn't just a **university** professor studying **history** – he was **creating** **history** with every **decision**, every **action**, every **moment** spent with his **son**.
+That **moment** taught David an important lesson about change and continuity. His **father** wasn't just a **university** professor studying **history** – he was creating **history** with every decision, every action, every **moment** spent with his **son**.
 
-**The** next **morning**, as they **left** for the last time, David looked **back** **at** the **white** **house**. **Several** neighbors had gathered to say goodbye. Mrs. Chen waved from her **food** **stand**. Mr. **White** **stood** by his **door**. The **waiter** from the **café** had even come, bringing fresh **bread** for their journey.
+The next **morning**, as they left for the last time, David looked back at the **white** **house**. **Several** neighbors had gathered to say goodbye. Mrs. Chen waved from her **food** stand. Mr. **White** stood by his **door**. The waiter from the café had even come, bringing fresh bread for their journey.
 
-"**Remember** this," David's **father** said as they drove **away**. "**Remember** how people came **together** to say goodbye. That's what **community** means. **Whether** we're here or **far** **away**, these **relationships** will **remain**."
+"Remember this," David's **father** said as they drove away. "Remember how people came together to say goodbye. That's what community means. **Whether** we're here or far away, these relationships will **remain**."
 
-David watched the neighborhood **disappear** in the **rear** mirror. He thought **about** all the **moments** they had **shared**, all the **walks** they had taken, all the **food** they had eaten **together**. His **father** was right – **whether** physical or in **memory**, **home** would always be with them.
+David watched the neighborhood disappear in the rear mirror. He thought about all the moments they had shared, all the walks they had taken, all the **food** they had eaten together. His **father** was right – **whether** physical or in memory, **home** would always be with them.
 
-Years **later**, when David became a **university** student **himself**, he would often **remember** that **morning** **walk**. His **father** had taught him that **history** isn't just found in **books** – it's created through the **small** **decisions** we **make**, the **relationships** we **build**, and the **moments** we **spend** with the people we **love**.
+Years **later**, when David became a **university** student himself, he would **often** remember that **morning** **walk**. His **father** had taught him that **history** isn't just found in books – it's created through the small decisions we make, the relationships we build, and the moments we **spend** with the people we love.
 
-**Whether** we **stay** in one place or **move** **around**, **whether** we **keep** old traditions or **create** new ones, **whether** we **look** **back** or forward – it's all **part** **of** our personal **history**. And that **history** shapes **who** we become.
+**Whether** we **stay** in one place or move around, **whether** we keep old traditions or create new ones, **whether** we look back or forward – it's all part of our personal **history**. And that **history** shapes who we become.
 
-**Both** David and his **father** knew that leaving didn't mean forgetting. **Within** their **hearts**, that **small** neighborhood, those kind neighbors, and those **morning** **walks** would **remain** **forever**.
+**Both** David and his **father** knew that leaving didn't mean forgetting. **Within** their hearts, that small neighborhood, those kind neighbors, and those **morning** walks would **remain** forever.
 
-As their **car** drove toward the new **university** town, David realized something important: **home** isn't just a **white** **house** **at** the **corner** **of** a **street**. **Home** is **wherever** we carry our **memories**, our **love**, and our **history**.
+As their **car** drove toward the new **university** town, David realized something important: **home** isn't just a **white** **house** at the corner of a **street**. **Home** is wherever we carry our memories, our love, and our **history**.
 
-And **whether** we **realize** it or not, we're always **adding** to that **history**, one **moment**, one **walk**, one **goodbye** **at** a time.
+And **whether** we realize it or not, we're always adding to that **history**, one **moment**, one **walk**, one goodbye at a time.
 
 ---
 

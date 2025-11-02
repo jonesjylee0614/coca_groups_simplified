@@ -2,85 +2,85 @@
 
 ## 📖 Reading Passage: The Market Decision
 
-Sarah stood **behind** the **local** **market** stall, trying to **decide** what to do. The morning **air** was **fresh**, and **although** business had been slow, she refused to give up. Her small **food** stand had been her family's main source of income for years, and she valued every customer who **passed** by.
+Sarah stood behind the **local** **market** stall, trying to **decide** what to do. The morning **air** was fresh, and **although** business had been slow, she refused to give up. Her small **food** stand had been her family's main source of income for years, and she valued every customer who passed by.
 
-"**According** to the **report**, the **national** economy is struggling," her husband Tom said that **morning**. "Maybe we should **cut** our prices to **attract** more people."
+"**According** to the **report**, the **national** economy is struggling," her husband Tom said that morning. "Maybe we should **cut** our prices to attract more people."
 
-Sarah **listened** carefully. She knew Tom was right. The **local** **community** had **changed**. New supermarkets had **opened**, **forcing** many small businesses to close. **Sometimes** she wondered if they could **control** the situation, or if larger **forces** would **drive** them out **of** business.
+Sarah listened carefully. She knew Tom was right. The **local** community had changed. New supermarkets had opened, forcing many small businesses to close. Sometimes she wondered if they could **control** the situation, or if larger forces would **drive** them out of business.
 
-"I **agree** that we need to **change** our approach," Sarah replied. "But I don't **think** lowering prices is the **answer**. We need to **offer** something the big stores can't – personal **care** and **quality** **food**."
+"I **agree** that we need to change our approach," Sarah replied. "But I don't think lowering prices is the answer. We need to **offer** something the big stores can't – personal care and quality **food**."
 
-Their **decision** wasn't **easy**. They had a **wife** and husband team, **working** **together** to **support** their **baby** daughter Emma. Money was tight, and every **decision** **mattered**. One **wrong** move could mean losing **everything**.
+Their **decision** wasn't easy. They had a **wife** and husband team, working together to **support** their **baby** daughter Emma. Money was tight, and every **decision** mattered. One **wrong** move could mean losing everything.
 
-"Let's **listen** to what our customers **want**," Sarah suggested. "We should **ask** them **for** **feedback**. **According** to my observations, people **value** fresh, **local** produce. That's our **strength**."
+"Let's **listen** to what our customers want," Sarah suggested. "We should ask them for feedback. **According** to my observations, people **value** fresh, **local** produce. That's our strength."
 
-Tom nodded. "You're right. We need to **base** our **decisions** on **facts**, not **fear**. Let me **check** the **sales** **data** from last month."
+Tom nodded. "You're right. We need to **base** our decisions on facts, not fear. Let me check the sales **data** from last month."
 
-As they reviewed the numbers, a pattern emerged. **Although** **overall** sales had **fallen**, certain items **remained** **strong**. **Local**ly grown vegetables, **fresh** fruits, and homemade bread **continued** to **sell** well. Customers were willing to **pay** **more** **for** **quality**.
+As they reviewed the numbers, a pattern emerged. **Although** overall sales had fallen, certain items remained **strong**. Locally grown vegetables, fresh fruits, and homemade bread continued to **sell** well. Customers were willing to pay more for quality.
 
-"**This** is **interesting**," Tom said. "The **report** shows that our **regular** customers **appreciate** our **personal** **service**. **Sometimes** they **come** here not just **for** **food**, but **for** the **connection**."
+"This is interesting," Tom said. "The **report** shows that our regular customers appreciate our personal service. Sometimes they come here not just for **food**, but for the connection."
 
-Sarah smiled. "That's what I've been trying to **explain**. A **market** isn't just about buying and selling. It's about **relationships**."
+Sarah smiled. "That's what I've been trying to explain. A **market** isn't just about buying and selling. It's about relationships."
 
-**Behind** their stall, other vendors faced similar challenges. Mrs. Chen, who sold **fresh** fish, had **already** **decided** to close her **business**. "I can't **compete** with the supermarkets," she told Sarah. "They **sell** fish at **lower** prices. I have **no** **choice** but to **quit**."
+Behind their stall, other vendors faced similar challenges. Mrs. Chen, who sold fresh fish, had already decided to close her business. "I can't compete with the supermarkets," she told Sarah. "They **sell** fish at lower prices. I have no choice but to quit."
 
-"Don't give up yet," Sarah urged. "We can **work** **together**. If we **support** each other, we can **reach** more customers. Let's **create** a **community** **market** **association**."
+"Don't give up yet," Sarah urged. "We can work together. If we **support** each other, we can **reach** more customers. Let's create a community **market** association."
 
-The idea began to take shape. Sarah **called** a meeting with all the **local** vendors. "**Although** we face **difficulties**," she told them, "we have something valuable – we **know** our customers. We **understand** their needs. The supermarkets can't **offer** that **personal** **touch**."
+The idea began to take shape. Sarah called a meeting with all the **local** vendors. "**Although** we face difficulties," she told them, "we have something valuable – we know our customers. We understand their needs. The supermarkets can't **offer** that personal touch."
 
-One vendor raised a **concern**. "But how can we **control** our costs? The **rate** **of** **inflation** is **rising**. **Everything** is getting **more** **expensive**."
+One vendor raised a concern. "But how can we **control** our costs? The **rate** of inflation is rising. Everything is getting more expensive."
 
-"We need to be **smart**," Tom **explained**. "Let's **cut** unnecessary expenses and **focus** on what we do **best**. We should also **agree** on **standards** **for** **quality**. If we all **offer** **high**-**quality** products, customers will **choose** us over supermarkets."
+"We need to be smart," Tom explained. "Let's **cut** unnecessary expenses and focus on what we do best. We should also **agree** on standards for quality. If we all **offer** high-quality products, customers will choose us over supermarkets."
 
-**According** to the **local** **news**, many small **businesses** were struggling. The **government** had **announced** new **policies** to **support** **local** enterprises, but the **help** seemed **slow** to **arrive**. Sarah knew they couldn't **wait** **for** outside **support** – they had to **act** now.
+**According** to the **local** **news**, many small businesses were struggling. The government had announced new policies to **support** **local** enterprises, but the help seemed slow to arrive. Sarah knew they couldn't wait for outside **support** – they had to act now.
 
-She **decided** to **reach** out to the **community** directly. "We're going to **listen** to our customers," she **announced** at the next vendors' meeting. "Let's **ask** them what they **want**. Let's **receive** their **suggestions** and **adapt**."
+She decided to **reach** out to the community directly. "We're going to **listen** to our customers," she announced at the next vendors' meeting. "Let's ask them what they want. Let's **receive** their suggestions and adapt."
 
-The **response** was **immediate**. Customers **appreciated** being **asked** **for** their opinions. They wanted **fresher** produce, **better** **variety**, and **convenient** **operating** **hours**. **Sometimes** they also wanted **cooking** **advice** and **recipe** ideas.
+The response was immediate. Customers appreciated being asked for their opinions. They wanted fresher produce, better variety, and convenient operating hours. Sometimes they also wanted cooking advice and recipe ideas.
 
-"We can do this," Sarah said **enthusiastically**. "Let's **create** **cooking** **demonstrations**. Let's **offer** **samples**. Let's **show** people why **local** **food** is **worth** the **extra** cost."
+"We can do this," Sarah said enthusiastically. "Let's create cooking demonstrations. Let's **offer** samples. Let's show people why **local** **food** is worth the extra cost."
 
-Tom was **initially** **hesitant**. "Will this **work**? We're **already** **working** long **hours**. How can we **add** **more** **activities**?"
+Tom was initially hesitant. "Will this work? We're already working long hours. How can we add more activities?"
 
-"**Sometimes** you have to **invest** **time** to **gain** **long**-**term** **benefits**," Sarah **reasoned**. "If we **pass** on this **opportunity**, we might **lose** our **business** **anyway**. Let's **try** something **different**."
+"Sometimes you have to invest time to gain long-term benefits," Sarah reasoned. "If we **pass** on this opportunity, we might lose our business anyway. Let's try something different."
 
-**Although** implementing these changes **required** **effort**, the results were **encouraging**. **More** customers began to visit the **market**. They came not just to **buy** **food**, but to **experience** the **atmosphere** – the **friendly** vendors, the **fresh** **air**, the **sense** **of** **community**.
+**Although** implementing these changes required effort, the results were encouraging. More customers began to visit the **market**. They came not just to **buy** **food**, but to experience the atmosphere – the friendly vendors, the fresh **air**, the sense of community.
 
-"**This** is why I **love** shopping here," one **regular** customer told Sarah. "The supermarket is **convenient**, but it has **no** **soul**. Here, you **listen** to us. You **care** about **quality**. You're not just selling – you're **serving** the **community**."
+"This is why I love shopping here," one regular customer told Sarah. "The supermarket is convenient, but it has no soul. Here, you **listen** to us. You care about quality. You're not just selling – you're serving the community."
 
-The **local** **media** took **notice**. A **reporter** came to **interview** Sarah about her **efforts** to **revitalize** the **market**. "What's your **secret**?" the **reporter** asked.
+The **local** media took notice. A reporter came to interview Sarah about her efforts to revitalize the **market**. "What's your secret?" the reporter asked.
 
-"There's **no** **secret**," Sarah replied. "We simply **listen**, **adapt**, and **offer** **value**. We **base** our **decisions** on what customers **need**, not just what's **convenient** **for** us."
+"There's no secret," Sarah replied. "We simply **listen**, adapt, and **offer** **value**. We **base** our decisions on what customers need, not just what's convenient for us."
 
-The **interview** was **published** in the **local** **newspaper**, and more people **learned** about the **market**. **Although** challenges **remained**, Sarah felt **hopeful**. They had made the right **decision** – not to **compete** on **price** alone, but to **offer** something **unique**.
+The interview was published in the **local** newspaper, and more people learned about the **market**. **Although** challenges remained, Sarah felt hopeful. They had made the right **decision** – not to compete on price alone, but to **offer** something unique.
 
-**Sometimes**, when Sarah looked **around** the bustling **market**, she would **remember** those difficult early days. The **worry**, the **uncertainty**, the **fear** **of** **failure**. But she also **remembered** her **decision** to **fight** **for** what she believed in.
+Sometimes, when Sarah looked around the bustling **market**, she would remember those difficult early days. The worry, the uncertainty, the fear of failure. But she also remembered her **decision** to fight for what she believed in.
 
-"We didn't just **save** our **business**," she told Tom one evening. "We **helped** **save** the **whole** **community** **market**. We showed that **small** **businesses** can **survive** if they **work** **together** and **listen** to their customers."
+"We didn't just save our business," she told Tom one evening. "We helped save the whole community **market**. We showed that small businesses can survive if they work together and **listen** to their customers."
 
-Tom put his arm **around** her. "You were right. **Sometimes** the best **decision** isn't the **easy** one. **Sometimes** you have to **take** a **risk**."
+Tom put his arm around her. "You were right. Sometimes the best **decision** isn't the easy one. Sometimes you have to take a risk."
 
-Their **baby** daughter Emma was now two years old. Sarah hoped that **when** Emma grew up, the **market** would **still** be there – a **vibrant** **place** where people could **buy** **fresh** **food**, **meet** neighbors, and feel **connected** to their **community**.
+Their **baby** daughter Emma was now two years old. Sarah hoped that when Emma grew up, the **market** would still be there – a vibrant place where people could **buy** fresh **food**, meet neighbors, and feel connected to their community.
 
-"The **value** **of** what we do goes **beyond** **money**," Sarah reflected. "We're **providing** more than **food**. We're **offering** a **place** where people **belong**, where **relationships** **matter**, where **quality** **counts**."
+"The **value** of what we do goes beyond money," Sarah reflected. "We're providing more than **food**. We're offering a place where people belong, where relationships matter, where quality counts."
 
-**According** to the latest **reports**, the **market**'s **revenue** had **increased** by thirty percent. Other **communities** were now **asking** Sarah **for** **advice** on how to **revitalize** their own **markets**.
+**According** to the latest reports, the **market**'s revenue had increased by thirty percent. Other communities were now asking Sarah for advice on how to revitalize their own markets.
 
-"What would you **suggest**?" one **community** leader asked.
+"What would you **suggest**?" one community leader asked.
 
-"**Listen** to your people," Sarah replied. "**Understand** their needs. Don't just **follow** trends – **create** **value**. **Although** it's **tempting** to **cut** corners, **quality** always wins in the **end**. **Base** your **decisions** on what's right, not just what's **profitable**."
+"**Listen** to your people," Sarah replied. "Understand their needs. Don't just follow trends – create **value**. **Although** it's tempting to **cut** corners, quality always wins in the end. **Base** your decisions on what's right, not just what's profitable."
 
-The **success** **of** the **market** taught Sarah an important **lesson**: that **when** you **face** **difficulties**, the right **decision** isn't always **obvious**. **Sometimes** you need to **listen** carefully, **think** deeply, and have the **courage** to **choose** a **difficult** path. But **when** you **act** with **integrity** and **focus** on **serving** others, good things can happen.
+The success of the **market** taught Sarah an important lesson: that when you face difficulties, the right **decision** isn't always obvious. Sometimes you need to **listen** carefully, think deeply, and have the courage to choose a difficult path. But when you act with integrity and focus on serving others, good things can happen.
 
-As Sarah locked up her stall that evening, she felt **grateful**. The **decision** to **fight** **for** the **market** had been **difficult**, but it had been **worth** it. She had **learned** that **small** **actions** can have **big** **effects**, that **communities** are **stronger** **when** they **work** **together**, and that **listening** is sometimes the most **powerful** **tool** **of** all.
+As Sarah locked up her stall that evening, she felt grateful. The **decision** to fight for the **market** had been difficult, but it had been worth it. She had learned that small actions can have big effects, that communities are stronger when they work together, and that listening is sometimes the most powerful tool of all.
 
-The **market** would **continue** to **face** challenges. There would be **more** **difficult** **decisions** ahead. But Sarah knew that as **long** as they **remained** **committed** to their **values** – **quality**, **community**, and **service** – they would **find** a way **forward**.
+The **market** would continue to face challenges. There would be more difficult decisions ahead. But Sarah knew that as long as they remained committed to their values – quality, community, and service – they would find a way forward.
 
-"**Thanks** **for** believing in this," Tom said as they walked **home**.
+"**Thanks** for believing in this," Tom said as they walked home.
 
-Sarah squeezed his **hand**. "**Thanks** **for** **supporting** me. We made this **decision** **together**, and we'll **face** whatever comes next **together** too."
+Sarah squeezed his hand. "**Thanks** for supporting me. We made this **decision** together, and we'll face whatever comes next together too."
 
-**Behind** them, the **market** **lights** **slowly** went out. But the **connections** they had built, the **relationships** they had nurtured, and the **community** they had **strengthened** would **continue** to **shine**, **guiding** them through whatever challenges lay ahead.
+Behind them, the **market** lights slowly went out. But the connections they had built, the relationships they had nurtured, and the community they had strengthened would continue to shine, guiding them through whatever challenges lay ahead.
 
 ---
 
