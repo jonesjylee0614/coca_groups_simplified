@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for word in blast corrupt compassion scratch verify offender inherit strive downtown chunk appreciation canvas punch short-term proceedings magical loyal aah desperately throne brutal spite propaganda irony soda projection dutch parental disabled collector re-election disappointment comic aid happily steep fancy counter listener whip public drawer heck developmental ideal ash socially courtroom stamp solo)",
+      "Bash(do if grep -q \"\\*\\*$word\\*\\*\" /mnt/d/WorkSpace/teach/coca_groups_simplified/group98_reading.md)",
+      "Bash(then echo \"✓ $word\")",
+      "Bash(else echo \"✗ MISSING: $word\")",
+      "Bash(fi)",
+      "Bash(done)",
+      "Bash(do if grep -qi \"\\*\\*$word\\*\\*\" /mnt/d/WorkSpace/teach/coca_groups_simplified/group98_reading.md)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
