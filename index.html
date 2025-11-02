@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COCA 5000 高频词学习系统</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>COCA 5000 高频词学习系统</h1>
+            <p class="subtitle">American English Corpus - 5000 Most Common Words</p>
+        </header>
+
+        <section class="stats-section">
+            <div class="stat-card">
+                <div class="stat-number" id="totalGroups">100</div>
+                <div class="stat-label">总组数</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="completedGroups">0</div>
+                <div class="stat-label">已完成</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="totalWords">5000</div>
+                <div class="stat-label">总词汇量</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="progressPercent">0%</div>
+                <div class="stat-label">完成度</div>
+            </div>
+        </section>
+
+        <section class="search-section">
+            <div class="search-box">
+                <input type="number"
+                       id="groupSearch"
+                       placeholder="输入组号 (1-100) 直接跳转"
+                       min="1"
+                       max="100">
+                <button onclick="jumpToGroup()">GO</button>
+            </div>
+        </section>
+
+        <section class="groups-section">
+            <h2>学习分组</h2>
+            <div class="groups-container" id="groupsContainer">
+                <!-- Groups will be dynamically generated here -->
+            </div>
+        </section>
+
+        <footer class="footer">
+            <p>基于 COCA (Corpus of Contemporary American English) 语料库</p>
+            <p>每组50个高频词 | 共100组 | 5000个核心词汇</p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+    <script>
+        // Initialize homepage
+        initHomepage();
+    </script>
+</body>
+</html>

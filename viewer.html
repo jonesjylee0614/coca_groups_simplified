@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Group Learning - COCA 5000</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body class="viewer-body">
+    <div class="viewer-header">
+        <div class="header-left">
+            <a href="index.html" class="back-btn">← 返回首页</a>
+            <h2 id="groupTitle">Group 1</h2>
+        </div>
+        <div class="header-right">
+            <button class="tool-btn" onclick="toggleBoldWords()" title="切换单词高亮">
+                <span id="boldToggleIcon">👁️</span> 高亮
+            </button>
+            <button class="tool-btn" onclick="adjustFontSize(-1)" title="减小字体">A-</button>
+            <button class="tool-btn" onclick="adjustFontSize(1)" title="增大字体">A+</button>
+            <button class="tool-btn" onclick="toggleComplete()" id="completeBtn">
+                <span id="completeIcon">☐</span> 完成
+            </button>
+        </div>
+    </div>
+
+    <div class="viewer-container">
+        <!-- Left Panel: English Reading -->
+        <div class="left-panel" id="leftPanel">
+            <div class="panel-header">
+                <h3>📖 English Reading</h3>
+            </div>
+            <div class="reading-content" id="readingContent">
+                <!-- English content will be loaded here -->
+            </div>
+        </div>
+
+        <!-- Right Panel: Learning Materials -->
+        <div class="right-panel">
+            <div class="tabs">
+                <button class="tab-btn active" onclick="switchTab('translation')">中文翻译</button>
+                <button class="tab-btn" onclick="switchTab('vocabulary')">词汇讲解</button>
+                <button class="tab-btn" onclick="switchTab('sentences')">句子分析</button>
+                <button class="tab-btn" onclick="switchTab('memory')">记忆技巧</button>
+                <button class="tab-btn" onclick="switchTab('practice')">练习建议</button>
+                <button class="tab-btn" onclick="switchTab('notes')">我的笔记</button>
+            </div>
+
+            <div class="tab-content">
+                <div id="translation" class="tab-pane active">
+                    <!-- Translation content -->
+                </div>
+                <div id="vocabulary" class="tab-pane">
+                    <!-- Vocabulary content -->
+                </div>
+                <div id="sentences" class="tab-pane">
+                    <!-- Sentence analysis content -->
+                </div>
+                <div id="memory" class="tab-pane">
+                    <!-- Memory techniques content -->
+                </div>
+                <div id="practice" class="tab-pane">
+                    <!-- Practice suggestions content -->
+                </div>
+                <div id="notes" class="tab-pane">
+                    <div class="notes-container">
+                        <h3>📝 我的学习笔记</h3>
+                        <textarea id="userNotes"
+                                  placeholder="在这里记录你的学习心得、问题和想法..."
+                                  rows="15"></textarea>
+                        <button class="save-notes-btn" onclick="saveNotes()">保存笔记</button>
+                        <div id="notesSaveStatus"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="viewer-footer">
+        <button class="nav-btn" onclick="navigateGroup(-1)" id="prevBtn">
+            ← 上一组
+        </button>
+        <div class="progress-info">
+            <span id="currentProgress">Group 1 / 100</span>
+        </div>
+        <button class="nav-btn" onclick="navigateGroup(1)" id="nextBtn">
+            下一组 →
+        </button>
+    </div>
+
+    <script src="app.js"></script>
+    <script>
+        // Initialize viewer
+        initViewer();
+    </script>
+</body>
+</html>

@@ -7,7 +7,9 @@
       "Bash(else echo \"✗ MISSING: $word\")",
       "Bash(fi)",
       "Bash(done)",
-      "Bash(do if grep -qi \"\\*\\*$word\\*\\*\" /mnt/d/WorkSpace/teach/coca_groups_simplified/group98_reading.md)"
+      "Bash(do if grep -qi \"\\*\\*$word\\*\\*\" /mnt/d/WorkSpace/teach/coca_groups_simplified/group98_reading.md)",
+      "Bash(curl:*)",
+      "Bash(pkill:*)"
     ],
     "deny": [],
     "ask": []
