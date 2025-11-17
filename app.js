@@ -36,9 +36,10 @@ const STORAGE_KEYS = {
     THEME: 'coca_theme'
 };
 
-const TAB_ORDER = ['translation', 'vocabulary', 'sentences', 'memory', 'practice', 'notes'];
+const TAB_ORDER = ['summary', 'translation', 'vocabulary', 'sentences', 'memory', 'practice', 'notes'];
 
 const TAB_EMPTY_MESSAGES = {
+    summary: '本组暂无文章概要，请先阅读原文理解大意。',
     translation: '本组暂未提供翻译，先专注阅读原文。',
     vocabulary: '暂无词汇讲解，尝试自己总结关键词。',
     sentences: '本组以整体理解为主，没有额外句子分析。',
@@ -171,21 +172,61 @@ function getUrlParameter(name) {
     return urlParams.get(name);
 }
 
-// 加载Markdown文件
-async function loadMarkdown(groupNum, book = null) {
-    try {
-        const bookConfig = BOOK_CONFIGS[book || currentBook];
-        const filePath = `${bookConfig.directory}/${bookConfig.filePrefix}${groupNum}${bookConfig.fileSuffix}`;
-        const response = await fetch(filePath);
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
+// 验证组号参数
+function validateGroupNumber(value, totalGroups) {
+    const num = parseInt(value);
+    if (isNaN(num) || num < 1) return 1;
+    if (num > totalGroups) return totalGroups;
+    return num;
+}
+
+// 验证书籍参数
+function validateBookParameter(value) {
+    return BOOK_CONFIGS.hasOwnProperty(value) ? value : 'book1';
+}
+
+// 工具函数:延迟
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+// 显示错误消息
+function showErrorMessage(message, type = 'error') {
+    showToast(message, type);
+}
+
+// 加载Markdown文件（带重试机制）
+async function loadMarkdown(groupNum, book = null, retryCount = 3) {
+    const bookConfig = BOOK_CONFIGS[book || currentBook];
+    const filePath = `${bookConfig.directory}/${bookConfig.filePrefix}${groupNum}${bookConfig.fileSuffix}`;
+
+    for (let i = 0; i < retryCount; i++) {
+        try {
+            const response = await fetch(filePath);
+
+            if (!response.ok) {
+                if (response.status === 404) {
+                    showErrorMessage('文件不存在，该组内容可能尚未准备');
+                    return null;
+                }
+                throw new Error(`HTTP ${response.status}`);
+            }
+
+            return await response.text();
+        } catch (error) {
+            console.error(`加载失败 (尝试 ${i + 1}/${retryCount}):`, error);
+
+            if (i === retryCount - 1) {
+                showErrorMessage('加载失败，请检查网络连接或刷新页面重试');
+                return null;
+            }
+
+            // 指数退避
+            await sleep(1000 * Math.pow(2, i));
         }
-        const text = await response.text();
-        return text;
-    } catch (error) {
-        console.error('Error loading markdown:', error);
-        return null;
     }
+
+    return null;
 }
 
 // 解析Markdown内容为不同区块
@@ -438,17 +479,15 @@ let boldVisible = true;
 let focusMode = false;
 
 async function initViewer() {
-    // 获取当前组号和book
+    // 获取当前组号和book，并验证参数
     const bookParam = getUrlParameter('book');
-    currentBook = bookParam || getCurrentBook();
-    currentGroup = parseInt(getUrlParameter('group')) || 1;
+    currentBook = validateBookParameter(bookParam || getCurrentBook());
 
     const bookConfig = BOOK_CONFIGS[currentBook];
     const totalGroups = bookConfig.totalGroups;
 
-    // 确保组号在有效范围内
-    if (currentGroup < 1) currentGroup = 1;
-    if (currentGroup > totalGroups) currentGroup = totalGroups;
+    const groupParam = getUrlParameter('group');
+    currentGroup = validateGroupNumber(groupParam, totalGroups);
 
     // 加载保存的设置
     loadViewerSettings();
@@ -461,6 +500,9 @@ async function initViewer() {
 
     // 加载用户笔记
     loadUserNotes();
+
+    // 设置笔记自动保存
+    setupAutoSaveNotes();
 
     // 添加键盘快捷键
     setupKeyboardShortcuts();
@@ -543,6 +585,7 @@ async function loadGroupContent(groupNum) {
 
     // 渲染各个部分
     renderReading(sections.reading, sections.readingTitle);
+    renderSummary(sections.summary, sections.summaryTitle);
     renderTranslation(sections.translation, sections.translationTitle);
     renderVocabulary(sections.vocabulary, sections.vocabularyTitle);
     renderSentences(sections.sentences, sections.sentencesTitle);
@@ -569,6 +612,10 @@ function renderReading(content, heading = '') {
 
     bodyHtml = addInlineTooltips(bodyHtml);
     readingContent.innerHTML = `${heading ? `<div class="reading-heading">${heading}</div>` : ''}${bodyHtml}`;
+}
+
+function renderSummary(content, heading = '') {
+    renderSection('summary', content, heading);
 }
 
 function renderTranslation(content, heading = '') {
@@ -763,28 +810,61 @@ function loadUserNotes() {
     document.getElementById('userNotes').value = notes;
 }
 
-function saveNotes() {
+function saveNotes(silent = false) {
     const notes = document.getElementById('userNotes').value;
     const key = STORAGE_KEYS.USER_NOTES + currentBook + '_' + currentGroup;
     localStorage.setItem(key, notes);
 
-    const status = document.getElementById('notesSaveStatus');
-    status.textContent = '笔记已保存 ✓';
+    if (!silent) {
+        const status = document.getElementById('notesSaveStatus');
+        status.textContent = '笔记已保存 ✓';
 
-    setTimeout(() => {
-        status.textContent = '';
-    }, 2000);
+        setTimeout(() => {
+            status.textContent = '';
+        }, 2000);
+    }
 }
 
-function showToast(message) {
+// 自动保存笔记的定时器
+let autoSaveTimer = null;
+
+// 设置笔记自动保存
+function setupAutoSaveNotes() {
+    const notesTextarea = document.getElementById('userNotes');
+    if (!notesTextarea) return;
+
+    // 输入时自动保存（防抖）
+    notesTextarea.addEventListener('input', () => {
+        clearTimeout(autoSaveTimer);
+        autoSaveTimer = setTimeout(() => {
+            saveNotes(true); // 静默保存，不显示提示
+        }, 2000);
+    });
+
+    // 页面卸载前保存
+    window.addEventListener('beforeunload', () => {
+        saveNotes(true);
+    });
+}
+
+function showToast(message, type = 'success') {
     // 创建toast元素
     const toast = document.createElement('div');
     toast.textContent = message;
+
+    // 根据类型设置背景色
+    const colors = {
+        success: '#10b981',
+        error: '#ef4444',
+        warning: '#f59e0b',
+        info: '#3b82f6'
+    };
+
     toast.style.cssText = `
         position: fixed;
         top: 80px;
         right: 20px;
-        background: #10b981;
+        background: ${colors[type] || colors.success};
         color: white;
         padding: 15px 25px;
         border-radius: 8px;
@@ -798,7 +878,9 @@ function showToast(message) {
     setTimeout(() => {
         toast.style.animation = 'slideOut 0.3s ease';
         setTimeout(() => {
-            document.body.removeChild(toast);
+            if (document.body.contains(toast)) {
+                document.body.removeChild(toast);
+            }
         }, 300);
     }, 2000);
 }
