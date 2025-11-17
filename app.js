@@ -34,7 +34,9 @@ const STORAGE_KEYS = {
     CURRENT_BOOK: 'coca_current_book',
     FOCUS_MODE: 'coca_focus_mode',
     THEME: 'coca_theme',
-    VOCABULARY_BOOK: 'coca_vocabulary_book'
+    VOCABULARY_BOOK: 'coca_vocabulary_book',
+    SEARCH_CACHE: 'coca_search_cache',
+    SEARCH_HISTORY: 'coca_search_history'
 };
 
 const TAB_ORDER = ['summary', 'translation', 'vocabulary', 'sentences', 'memory', 'practice', 'notes'];
@@ -549,6 +551,9 @@ async function initViewer() {
 
     // 设置生词本功能
     setupVocabularyBookFeature();
+
+    // 高亮搜索词（如果是从搜索结果跳转过来）
+    highlightSearchTermInViewer();
 
     // 添加键盘快捷键
     setupKeyboardShortcuts();
@@ -1500,6 +1505,537 @@ function getErrorLogs() {
 function clearErrorLogs() {
     localStorage.removeItem('coca_error_logs');
     showToast('错误日志已清除', 'info');
+}
+
+// ========================================
+// 全局搜索功能 (P2-1)
+// ========================================
+
+// 搜索缓存（用于存储已加载的文章内容）
+let searchContentCache = new Map();
+let isSearchCacheLoaded = false;
+
+// 获取搜索历史
+function getSearchHistory() {
+    try {
+        const history = localStorage.getItem(STORAGE_KEYS.SEARCH_HISTORY);
+        return history ? JSON.parse(history) : [];
+    } catch (e) {
+        console.error('获取搜索历史失败:', e);
+        return [];
+    }
+}
+
+// 保存搜索历史
+function saveSearchHistory(query) {
+    if (!query || query.trim().length === 0) return;
+
+    try {
+        let history = getSearchHistory();
+        // 移除重复项
+        history = history.filter(item => item.query !== query);
+        // 添加到开头
+        history.unshift({
+            query: query,
+            timestamp: new Date().toISOString()
+        });
+        // 只保留最近 20 条
+        if (history.length > 20) {
+            history = history.slice(0, 20);
+        }
+        localStorage.setItem(STORAGE_KEYS.SEARCH_HISTORY, JSON.stringify(history));
+    } catch (e) {
+        console.error('保存搜索历史失败:', e);
+    }
+}
+
+// 清除搜索历史
+function clearSearchHistory() {
+    localStorage.removeItem(STORAGE_KEYS.SEARCH_HISTORY);
+    showToast('搜索历史已清除', 'info');
+    renderSearchHistory();
+}
+
+// 加载所有内容到搜索缓存
+async function loadSearchCache(book = null) {
+    const bookConfig = BOOK_CONFIGS[book || currentBook];
+    const totalGroups = bookConfig.totalGroups;
+
+    showToast('正在加载搜索索引...', 'info');
+
+    let loadedCount = 0;
+    const batchSize = 5; // 每次加载5个文件
+
+    for (let i = 1; i <= totalGroups; i += batchSize) {
+        const promises = [];
+        for (let j = 0; j < batchSize && (i + j) <= totalGroups; j++) {
+            const groupNum = i + j;
+            const cacheKey = `${book || currentBook}_${groupNum}`;
+
+            // 如果已经缓存，跳过
+            if (searchContentCache.has(cacheKey)) {
+                loadedCount++;
+                continue;
+            }
+
+            promises.push(
+                loadMarkdown(groupNum, book || currentBook, 1)
+                    .then(content => {
+                        if (content) {
+                            searchContentCache.set(cacheKey, {
+                                groupNum: groupNum,
+                                content: content,
+                                book: book || currentBook
+                            });
+                            loadedCount++;
+                        }
+                    })
+                    .catch(err => {
+                        console.error(`加载 Group ${groupNum} 失败:`, err);
+                    })
+            );
+        }
+
+        await Promise.all(promises);
+
+        // 显示进度
+        if (i % 20 === 1) {
+            showToast(`已加载 ${loadedCount}/${totalGroups} 组...`, 'info');
+        }
+    }
+
+    isSearchCacheLoaded = true;
+    showToast(`搜索索引加载完成 (${loadedCount}/${totalGroups})`, 'success');
+    return loadedCount;
+}
+
+// 执行搜索
+function performSearch(query, options = {}) {
+    if (!query || query.trim().length === 0) {
+        showToast('请输入搜索内容', 'warning');
+        return [];
+    }
+
+    const {
+        caseSensitive = false,
+        useRegex = false,
+        fuzzy = false,
+        book = currentBook
+    } = options;
+
+    const results = [];
+    const bookConfig = BOOK_CONFIGS[book];
+
+    try {
+        // 创建搜索模式
+        let pattern;
+        if (useRegex) {
+            try {
+                pattern = new RegExp(query, caseSensitive ? 'g' : 'gi');
+            } catch (e) {
+                showToast('正则表达式格式错误', 'error');
+                return [];
+            }
+        } else if (fuzzy) {
+            // 模糊搜索：将查询词转换为正则
+            const fuzzyPattern = query.split('').join('.*');
+            pattern = new RegExp(fuzzyPattern, caseSensitive ? 'g' : 'gi');
+        } else {
+            // 普通搜索
+            const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            pattern = new RegExp(escapedQuery, caseSensitive ? 'g' : 'gi');
+        }
+
+        // 搜索缓存中的内容
+        for (const [cacheKey, data] of searchContentCache.entries()) {
+            if (!cacheKey.startsWith(book + '_')) continue;
+
+            const content = data.content;
+            const matches = content.match(pattern);
+
+            if (matches && matches.length > 0) {
+                // 提取上下文
+                const contexts = extractContexts(content, pattern, 3);
+
+                results.push({
+                    groupNum: data.groupNum,
+                    book: data.book,
+                    matchCount: matches.length,
+                    contexts: contexts,
+                    matches: [...new Set(matches)] // 去重
+                });
+            }
+        }
+
+        // 按匹配数量排序
+        results.sort((a, b) => b.matchCount - a.matchCount);
+
+        // 保存搜索历史
+        saveSearchHistory(query);
+
+        return results;
+
+    } catch (error) {
+        console.error('搜索出错:', error);
+        showToast('搜索过程中发生错误', 'error');
+        return [];
+    }
+}
+
+// 提取上下文片段
+function extractContexts(content, pattern, maxContexts = 3) {
+    const contexts = [];
+    const lines = content.split('\n');
+    let foundCount = 0;
+
+    for (let i = 0; i < lines.length && foundCount < maxContexts; i++) {
+        const line = lines[i];
+        if (pattern.test(line)) {
+            // 重置 lastIndex（因为使用了全局匹配）
+            pattern.lastIndex = 0;
+
+            // 获取上下文（前后各一行）
+            const start = Math.max(0, i - 1);
+            const end = Math.min(lines.length, i + 2);
+            const contextLines = lines.slice(start, end);
+
+            contexts.push({
+                lineNumber: i + 1,
+                context: contextLines.join(' ').trim().substring(0, 200) // 限制长度
+            });
+
+            foundCount++;
+        }
+    }
+
+    return contexts;
+}
+
+// 打开搜索模态框
+function openSearchModal() {
+    // 检查是否已存在模态框
+    let modal = document.getElementById('searchModal');
+    if (modal) {
+        modal.style.display = 'flex';
+        document.getElementById('searchInput').focus();
+        return;
+    }
+
+    // 创建搜索模态框
+    modal = document.createElement('div');
+    modal.id = 'searchModal';
+    modal.className = 'search-modal';
+    modal.innerHTML = `
+        <div class="search-modal-content">
+            <div class="search-modal-header">
+                <h2>🔍 全局搜索</h2>
+                <button class="close-btn" onclick="closeSearchModal()">&times;</button>
+            </div>
+
+            <div class="search-input-container">
+                <input type="text"
+                       id="searchInput"
+                       class="search-input"
+                       placeholder="输入单词或短语..."
+                       autocomplete="off">
+                <button class="search-btn" onclick="executeSearch()">搜索</button>
+            </div>
+
+            <div class="search-options">
+                <label>
+                    <input type="checkbox" id="searchCaseSensitive"> 区分大小写
+                </label>
+                <label>
+                    <input type="checkbox" id="searchRegex"> 正则表达式
+                </label>
+                <label>
+                    <input type="checkbox" id="searchFuzzy"> 模糊匹配
+                </label>
+                <label>
+                    <select id="searchBook">
+                        <option value="book1">Book 1 (原版)</option>
+                        <option value="book2">Book 2 (重排版)</option>
+                    </select>
+                </label>
+            </div>
+
+            <div class="search-history-section">
+                <div class="search-history-header">
+                    <span>搜索历史</span>
+                    <button class="clear-history-btn" onclick="clearSearchHistory()">清除</button>
+                </div>
+                <div id="searchHistoryList" class="search-history-list"></div>
+            </div>
+
+            <div class="search-stats" id="searchStats"></div>
+
+            <div class="search-results" id="searchResults">
+                <div class="search-placeholder">
+                    输入关键词开始搜索，支持单词、短语和正则表达式
+                </div>
+            </div>
+        </div>
+    `;
+
+    document.body.appendChild(modal);
+
+    // 设置当前书籍
+    document.getElementById('searchBook').value = currentBook;
+
+    // 绑定回车键搜索
+    const searchInput = document.getElementById('searchInput');
+    searchInput.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') {
+            executeSearch();
+        }
+    });
+
+    // 点击模态框外部关闭
+    modal.addEventListener('click', (e) => {
+        if (e.target === modal) {
+            closeSearchModal();
+        }
+    });
+
+    // 渲染搜索历史
+    renderSearchHistory();
+
+    // 聚焦输入框
+    searchInput.focus();
+
+    // 检查是否需要加载搜索缓存
+    const selectedBook = document.getElementById('searchBook').value;
+    const bookConfig = BOOK_CONFIGS[selectedBook];
+    const cacheKey = `${selectedBook}_1`;
+
+    if (!searchContentCache.has(cacheKey)) {
+        const statsDiv = document.getElementById('searchStats');
+        statsDiv.innerHTML = `
+            <div class="search-info">
+                <span>⚠️ 首次搜索需要加载索引，请稍候...</span>
+                <button class="load-cache-btn" onclick="loadSearchCacheManually()">立即加载</button>
+            </div>
+        `;
+    }
+}
+
+// 手动加载搜索缓存
+async function loadSearchCacheManually() {
+    const selectedBook = document.getElementById('searchBook').value;
+    await loadSearchCache(selectedBook);
+
+    const statsDiv = document.getElementById('searchStats');
+    statsDiv.innerHTML = '<div class="search-info">✅ 索引已加载，可以开始搜索</div>';
+}
+
+// 关闭搜索模态框
+function closeSearchModal() {
+    const modal = document.getElementById('searchModal');
+    if (modal) {
+        modal.style.display = 'none';
+    }
+}
+
+// 渲染搜索历史
+function renderSearchHistory() {
+    const historyList = document.getElementById('searchHistoryList');
+    if (!historyList) return;
+
+    const history = getSearchHistory();
+
+    if (history.length === 0) {
+        historyList.innerHTML = '<div class="empty-history">暂无搜索历史</div>';
+        return;
+    }
+
+    historyList.innerHTML = history.map(item => `
+        <div class="history-item" onclick="searchFromHistory('${escapeHtml(item.query)}')">
+            <span class="history-query">${escapeHtml(item.query)}</span>
+            <span class="history-time">${formatSearchTime(item.timestamp)}</span>
+        </div>
+    `).join('');
+}
+
+// 从历史记录搜索
+function searchFromHistory(query) {
+    document.getElementById('searchInput').value = query;
+    executeSearch();
+}
+
+// 执行搜索
+async function executeSearch() {
+    const query = document.getElementById('searchInput').value.trim();
+    if (!query) {
+        showToast('请输入搜索内容', 'warning');
+        return;
+    }
+
+    const caseSensitive = document.getElementById('searchCaseSensitive').checked;
+    const useRegex = document.getElementById('searchRegex').checked;
+    const fuzzy = document.getElementById('searchFuzzy').checked;
+    const selectedBook = document.getElementById('searchBook').value;
+
+    // 检查是否需要加载缓存
+    const cacheKey = `${selectedBook}_1`;
+    if (!searchContentCache.has(cacheKey)) {
+        await loadSearchCache(selectedBook);
+    }
+
+    // 执行搜索
+    showToast('正在搜索...', 'info');
+
+    const results = performSearch(query, {
+        caseSensitive,
+        useRegex,
+        fuzzy,
+        book: selectedBook
+    });
+
+    // 显示结果
+    displaySearchResults(results, query);
+
+    // 更新搜索历史显示
+    renderSearchHistory();
+}
+
+// 显示搜索结果
+function displaySearchResults(results, query) {
+    const resultsDiv = document.getElementById('searchResults');
+    const statsDiv = document.getElementById('searchStats');
+
+    if (!results || results.length === 0) {
+        statsDiv.innerHTML = `<div class="search-info">未找到匹配结果</div>`;
+        resultsDiv.innerHTML = `
+            <div class="no-results">
+                <p>😔 未找到 "${escapeHtml(query)}" 的相关内容</p>
+                <p class="search-tip">提示：尝试使用模糊匹配或更改搜索词</p>
+            </div>
+        `;
+        return;
+    }
+
+    // 统计信息
+    const totalMatches = results.reduce((sum, r) => sum + r.matchCount, 0);
+    statsDiv.innerHTML = `
+        <div class="search-info">
+            找到 <strong>${results.length}</strong> 个分组，共 <strong>${totalMatches}</strong> 处匹配
+        </div>
+    `;
+
+    // 渲染结果
+    resultsDiv.innerHTML = results.map((result, index) => {
+        const bookConfig = BOOK_CONFIGS[result.book];
+        return `
+            <div class="search-result-item">
+                <div class="result-header">
+                    <span class="result-group">
+                        📚 ${bookConfig.name} - Group ${result.groupNum}
+                    </span>
+                    <span class="result-count">${result.matchCount} 处匹配</span>
+                    <button class="result-goto-btn" onclick="gotoSearchResult(${result.groupNum}, '${result.book}')">
+                        前往 →
+                    </button>
+                </div>
+                <div class="result-contexts">
+                    ${result.contexts.map(ctx => `
+                        <div class="result-context">
+                            <span class="context-line">Line ${ctx.lineNumber}:</span>
+                            <span class="context-text">${highlightSearchTerm(ctx.context, query)}</span>
+                        </div>
+                    `).join('')}
+                </div>
+                ${result.matches.length > 0 ? `
+                    <div class="result-matches">
+                        匹配词: ${result.matches.slice(0, 5).map(m => `<code>${escapeHtml(m)}</code>`).join(', ')}
+                        ${result.matches.length > 5 ? `<span>... 等 ${result.matches.length} 个</span>` : ''}
+                    </div>
+                ` : ''}
+            </div>
+        `;
+    }).join('');
+}
+
+// 跳转到搜索结果
+function gotoSearchResult(groupNum, book) {
+    // 保存搜索词到 sessionStorage，以便在 viewer 页面高亮显示
+    const query = document.getElementById('searchInput').value.trim();
+    sessionStorage.setItem('searchHighlight', query);
+
+    // 跳转到对应页面
+    window.location.href = `viewer.html?group=${groupNum}&book=${book}`;
+}
+
+// 高亮搜索词
+function highlightSearchTerm(text, query) {
+    if (!query) return escapeHtml(text);
+
+    try {
+        const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        const regex = new RegExp(`(${escapedQuery})`, 'gi');
+        return escapeHtml(text).replace(regex, '<mark>$1</mark>');
+    } catch (e) {
+        return escapeHtml(text);
+    }
+}
+
+// HTML 转义
+function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+}
+
+// 格式化搜索时间
+function formatSearchTime(timestamp) {
+    const date = new Date(timestamp);
+    const now = new Date();
+    const diff = now - date;
+
+    if (diff < 60000) return '刚刚';
+    if (diff < 3600000) return `${Math.floor(diff / 60000)} 分钟前`;
+    if (diff < 86400000) return `${Math.floor(diff / 3600000)} 小时前`;
+    if (diff < 604800000) return `${Math.floor(diff / 86400000)} 天前`;
+
+    return date.toLocaleDateString('zh-CN');
+}
+
+// 在 viewer 页面高亮搜索词
+function highlightSearchTermInViewer() {
+    const searchTerm = sessionStorage.getItem('searchHighlight');
+    if (!searchTerm) return;
+
+    const readingContent = document.getElementById('readingContent');
+    if (!readingContent) return;
+
+    try {
+        const escapedTerm = searchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        const regex = new RegExp(`(${escapedTerm})`, 'gi');
+
+        // 递归高亮文本节点
+        function highlightNode(node) {
+            if (node.nodeType === Node.TEXT_NODE) {
+                const text = node.textContent;
+                if (regex.test(text)) {
+                    const span = document.createElement('span');
+                    span.innerHTML = text.replace(regex, '<mark class="search-highlight">$1</mark>');
+                    node.parentNode.replaceChild(span, node);
+                }
+            } else if (node.nodeType === Node.ELEMENT_NODE && node.tagName !== 'SCRIPT' && node.tagName !== 'STYLE') {
+                Array.from(node.childNodes).forEach(highlightNode);
+            }
+        }
+
+        highlightNode(readingContent);
+
+        // 清除搜索高亮标记
+        sessionStorage.removeItem('searchHighlight');
+
+        // 显示提示
+        showToast(`已高亮显示 "${searchTerm}"`, 'info');
+
+    } catch (e) {
+        console.error('高亮搜索词失败:', e);
+    }
 }
 
 // ========================================
