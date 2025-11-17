@@ -14,8 +14,16 @@
             <h2 id="groupTitle">Group 1</h2>
         </div>
         <div class="header-right">
+            <div class="theme-switcher compact">
+                <button class="theme-btn" data-theme="light" onclick="setTheme('light')" title="明亮模式">☀️</button>
+                <button class="theme-btn" data-theme="dark" onclick="setTheme('dark')" title="暗黑模式">🌙</button>
+                <button class="theme-btn" data-theme="paper" onclick="setTheme('paper')" title="纸质书模式">📖</button>
+            </div>
             <button class="tool-btn" onclick="toggleBoldWords()" title="切换单词高亮">
                 <span id="boldToggleIcon">👁️</span> 高亮
+            </button>
+            <button class="tool-btn" onclick="toggleFocusMode()" title="切换专注模式" id="focusBtn">
+                <span id="focusIcon">🎯</span> 专注
             </button>
             <button class="tool-btn" onclick="adjustFontSize(-1)" title="减小字体">A-</button>
             <button class="tool-btn" onclick="adjustFontSize(1)" title="增大字体">A+</button>
@@ -29,7 +37,11 @@
         <!-- Left Panel: English Reading -->
         <div class="left-panel" id="leftPanel">
             <div class="panel-header">
-                <h3>📖 English Reading</h3>
+                <div>
+                    <h3>📖 English Reading</h3>
+                    <p class="panel-subtitle" id="readingMeta">沉浸式阅读 · 50 词 / 组</p>
+                </div>
+                <div class="reading-pulse" aria-hidden="true"></div>
             </div>
             <div class="reading-content" id="readingContent">
                 <!-- English content will be loaded here -->
@@ -39,12 +51,12 @@
         <!-- Right Panel: Learning Materials -->
         <div class="right-panel">
             <div class="tabs">
-                <button class="tab-btn active" onclick="switchTab('translation')">中文翻译</button>
-                <button class="tab-btn" onclick="switchTab('vocabulary')">词汇讲解</button>
-                <button class="tab-btn" onclick="switchTab('sentences')">句子分析</button>
-                <button class="tab-btn" onclick="switchTab('memory')">记忆技巧</button>
-                <button class="tab-btn" onclick="switchTab('practice')">练习建议</button>
-                <button class="tab-btn" onclick="switchTab('notes')">我的笔记</button>
+                <button class="tab-btn active" data-tab="translation" onclick="switchTab('translation', this)">中文翻译</button>
+                <button class="tab-btn" data-tab="vocabulary" onclick="switchTab('vocabulary', this)">词汇讲解</button>
+                <button class="tab-btn" data-tab="sentences" onclick="switchTab('sentences', this)">句子分析</button>
+                <button class="tab-btn" data-tab="memory" onclick="switchTab('memory', this)">语法 · 记忆</button>
+                <button class="tab-btn" data-tab="practice" onclick="switchTab('practice', this)">练习建议</button>
+                <button class="tab-btn" data-tab="notes" onclick="switchTab('notes', this)">我的笔记</button>
             </div>
 
             <div class="tab-content">

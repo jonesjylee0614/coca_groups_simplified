@@ -11,6 +11,21 @@
         <header class="header">
             <h1>COCA 5000 高频词学习系统</h1>
             <p class="subtitle">American English Corpus - 5000 Most Common Words</p>
+            <div class="theme-switcher">
+                <button class="theme-btn" data-theme="light" onclick="setTheme('light')" title="明亮模式">☀️ 明亮</button>
+                <button class="theme-btn" data-theme="dark" onclick="setTheme('dark')" title="暗黑模式">🌙 暗黑</button>
+                <button class="theme-btn" data-theme="paper" onclick="setTheme('paper')" title="纸质书模式">📖 纸质书</button>
+            </div>
+            
+            <!-- Book Selection -->
+            <div class="book-selector">
+                <button class="book-btn active" onclick="switchBook('book1')" id="book1Btn">
+                    📚 Book 1 (原版)
+                </button>
+                <button class="book-btn" onclick="switchBook('book2')" id="book2Btn">
+                    📖 Book 2 (重排版)
+                </button>
+            </div>
         </header>
 
         <section class="stats-section">
@@ -36,11 +51,12 @@
             <div class="search-box">
                 <input type="number"
                        id="groupSearch"
-                       placeholder="输入组号 (1-100) 直接跳转"
+                       placeholder="输入组号 (1-200) 直接跳转"
                        min="1"
-                       max="100">
+                       max="200">
                 <button onclick="jumpToGroup()">GO</button>
             </div>
+            <p class="search-hint" id="searchHint">当前选择：Book 1 (1-100组)</p>
         </section>
 
         <section class="groups-section">
@@ -52,7 +68,7 @@
 
         <footer class="footer">
             <p>基于 COCA (Corpus of Contemporary American English) 语料库</p>
-            <p>每组50个高频词 | 共100组 | 5000个核心词汇</p>
+            <p id="footerText">每组50个高频词 | 共100组 | 5000个核心词汇</p>
         </footer>
     </div>
 
