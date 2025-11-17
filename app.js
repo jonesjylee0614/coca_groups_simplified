@@ -33,7 +33,8 @@ const STORAGE_KEYS = {
     BOLD_VISIBLE: 'coca_bold_visible',
     CURRENT_BOOK: 'coca_current_book',
     FOCUS_MODE: 'coca_focus_mode',
-    THEME: 'coca_theme'
+    THEME: 'coca_theme',
+    VOCABULARY_BOOK: 'coca_vocabulary_book'
 };
 
 const TAB_ORDER = ['summary', 'translation', 'vocabulary', 'sentences', 'memory', 'practice', 'notes'];
@@ -229,9 +230,40 @@ async function loadMarkdown(groupNum, book = null, retryCount = 3) {
     return null;
 }
 
-// 解析Markdown内容为不同区块
+// Markdown 解析缓存
+const markdownCache = new Map();
+const MAX_CACHE_SIZE = 50;
+
+// 解析Markdown内容为不同区块（带缓存）
 function parseMarkdownSections(markdown, bookKey = currentBook) {
-    const sections = {
+    if (!markdown) return getEmptySections();
+
+    // 生成缓存键
+    const cacheKey = `${bookKey}_${markdown.substring(0, 100)}`;
+
+    // 检查缓存
+    if (markdownCache.has(cacheKey)) {
+        return markdownCache.get(cacheKey);
+    }
+
+    // 解析内容
+    const sections = parseMarkdownContent(markdown, bookKey);
+
+    // 保存到缓存
+    markdownCache.set(cacheKey, sections);
+
+    // 限制缓存大小
+    if (markdownCache.size > MAX_CACHE_SIZE) {
+        const firstKey = markdownCache.keys().next().value;
+        markdownCache.delete(firstKey);
+    }
+
+    return sections;
+}
+
+// 获取空的sections对象
+function getEmptySections() {
+    return {
         title: '',
         reading: '',
         readingTitle: '',
@@ -248,6 +280,11 @@ function parseMarkdownSections(markdown, bookKey = currentBook) {
         practice: '',
         practiceTitle: ''
     };
+}
+
+// 实际的Markdown解析逻辑
+function parseMarkdownContent(markdown, bookKey = currentBook) {
+    const sections = getEmptySections();
 
     if (!markdown) return sections;
 
@@ -509,6 +546,9 @@ async function initViewer() {
 
     // 设置笔记自动保存
     setupAutoSaveNotes();
+
+    // 设置生词本功能
+    setupVocabularyBookFeature();
 
     // 添加键盘快捷键
     setupKeyboardShortcuts();
@@ -998,6 +1038,339 @@ function adjustSpeechRate(delta) {
     showToast(`朗读速度: ${speechRate.toFixed(1)}x`, 'info');
 }
 
+// ========================================
+// 生词本功能
+// ========================================
+
+// 获取生词本
+function getVocabularyBook() {
+    const stored = localStorage.getItem(STORAGE_KEYS.VOCABULARY_BOOK);
+    return stored ? JSON.parse(stored) : [];
+}
+
+// 保存生词本
+function saveVocabularyBook(vocabulary) {
+    localStorage.setItem(STORAGE_KEYS.VOCABULARY_BOOK, JSON.stringify(vocabulary));
+}
+
+// 添加单词到生词本
+function addToVocabularyBook(word, groupNum, context = '') {
+    const vocabulary = getVocabularyBook();
+
+    // 检查是否已存在
+    const exists = vocabulary.find(item => item.word.toLowerCase() === word.toLowerCase());
+    if (exists) {
+        showToast('该单词已在生词本中', 'warning');
+        return false;
+    }
+
+    const newWord = {
+        word: word,
+        groupNum: groupNum,
+        book: currentBook,
+        context: context,
+        addedDate: new Date().toISOString(),
+        reviewCount: 0,
+        mastered: false,
+        lastReviewDate: null
+    };
+
+    vocabulary.push(newWord);
+    saveVocabularyBook(vocabulary);
+    showToast(`已添加"${word}"到生词本`, 'success');
+    return true;
+}
+
+// 从生词本移除单词
+function removeFromVocabularyBook(word) {
+    let vocabulary = getVocabularyBook();
+    const initialLength = vocabulary.length;
+
+    vocabulary = vocabulary.filter(item => item.word.toLowerCase() !== word.toLowerCase());
+
+    if (vocabulary.length < initialLength) {
+        saveVocabularyBook(vocabulary);
+        showToast(`已从生词本移除"${word}"`, 'info');
+        return true;
+    }
+
+    return false;
+}
+
+// 检查单词是否在生词本中
+function isInVocabularyBook(word) {
+    const vocabulary = getVocabularyBook();
+    return vocabulary.some(item => item.word.toLowerCase() === word.toLowerCase());
+}
+
+// 更新单词复习信息
+function updateWordReview(word) {
+    const vocabulary = getVocabularyBook();
+    const wordItem = vocabulary.find(item => item.word.toLowerCase() === word.toLowerCase());
+
+    if (wordItem) {
+        wordItem.reviewCount++;
+        wordItem.lastReviewDate = new Date().toISOString();
+        saveVocabularyBook(vocabulary);
+    }
+}
+
+// 标记单词为已掌握
+function markWordMastered(word, mastered = true) {
+    const vocabulary = getVocabularyBook();
+    const wordItem = vocabulary.find(item => item.word.toLowerCase() === word.toLowerCase());
+
+    if (wordItem) {
+        wordItem.mastered = mastered;
+        saveVocabularyBook(vocabulary);
+        showToast(`"${word}" 已标记为${mastered ? '已掌握' : '未掌握'}`, 'success');
+    }
+}
+
+// 为文章中的加粗单词添加生词本功能
+function setupVocabularyBookFeature() {
+    const readingContent = document.getElementById('readingContent');
+    if (!readingContent) return;
+
+    // 为所有加粗单词添加点击事件
+    readingContent.addEventListener('click', (e) => {
+        const target = e.target;
+        if (target.tagName === 'STRONG') {
+            const word = target.textContent.trim();
+            toggleWordInVocabularyBook(word);
+        }
+    });
+
+    // 更新已在生词本中的单词样式
+    updateVocabularyHighlight();
+}
+
+// 切换单词在生词本中的状态
+function toggleWordInVocabularyBook(word) {
+    if (isInVocabularyBook(word)) {
+        removeFromVocabularyBook(word);
+    } else {
+        addToVocabularyBook(word, currentGroup);
+    }
+    updateVocabularyHighlight();
+}
+
+// 更新生词本单词的高亮样式
+function updateVocabularyHighlight() {
+    const readingContent = document.getElementById('readingContent');
+    if (!readingContent) return;
+
+    const strongElements = readingContent.querySelectorAll('strong');
+    strongElements.forEach(el => {
+        const word = el.textContent.trim();
+        if (isInVocabularyBook(word)) {
+            el.classList.add('in-vocabulary-book');
+            el.title = '点击从生词本移除';
+        } else {
+            el.classList.remove('in-vocabulary-book');
+            el.title = '点击添加到生词本';
+        }
+    });
+}
+
+// 打开生词本界面
+function openVocabularyBook() {
+    const vocabulary = getVocabularyBook();
+
+    if (vocabulary.length === 0) {
+        showToast('生词本是空的，点击文章中的加粗单词来添加生词', 'info');
+        return;
+    }
+
+    // 创建模态框
+    const modal = document.createElement('div');
+    modal.className = 'vocab-modal';
+    modal.innerHTML = `
+        <div class="vocab-modal-content">
+            <div class="vocab-modal-header">
+                <h2>📚 我的生词本</h2>
+                <span class="vocab-close" onclick="closeVocabularyBook()">&times;</span>
+            </div>
+            <div class="vocab-stats">
+                <span>总计: ${vocabulary.length} 个</span>
+                <span>已掌握: ${vocabulary.filter(v => v.mastered).length} 个</span>
+                <span>待复习: ${vocabulary.filter(v => !v.mastered).length} 个</span>
+            </div>
+            <div class="vocab-filters">
+                <button onclick="filterVocabulary('all')" class="filter-btn active" data-filter="all">全部</button>
+                <button onclick="filterVocabulary('unmastered')" class="filter-btn" data-filter="unmastered">待复习</button>
+                <button onclick="filterVocabulary('mastered')" class="filter-btn" data-filter="mastered">已掌握</button>
+            </div>
+            <div class="vocab-list" id="vocabList">
+                ${renderVocabularyList(vocabulary)}
+            </div>
+            <div class="vocab-actions">
+                <button onclick="exportVocabulary()" class="action-btn">📥 导出</button>
+                <button onclick="clearVocabularyBook()" class="action-btn danger">🗑️ 清空</button>
+            </div>
+        </div>
+    `;
+
+    document.body.appendChild(modal);
+
+    // 点击模态框外部关闭
+    modal.addEventListener('click', (e) => {
+        if (e.target === modal) {
+            closeVocabularyBook();
+        }
+    });
+}
+
+// 关闭生词本界面
+function closeVocabularyBook() {
+    const modal = document.querySelector('.vocab-modal');
+    if (modal) {
+        modal.remove();
+    }
+}
+
+// 渲染生词列表
+function renderVocabularyList(vocabulary, filter = 'all') {
+    let filtered = vocabulary;
+
+    if (filter === 'unmastered') {
+        filtered = vocabulary.filter(v => !v.mastered);
+    } else if (filter === 'mastered') {
+        filtered = vocabulary.filter(v => v.mastered);
+    }
+
+    if (filtered.length === 0) {
+        return '<div class="empty-vocab">暂无单词</div>';
+    }
+
+    return filtered.map(item => `
+        <div class="vocab-item ${item.mastered ? 'mastered' : ''}">
+            <div class="vocab-word">${item.word}</div>
+            <div class="vocab-info">
+                <span class="vocab-group">Group ${item.groupNum}</span>
+                <span class="vocab-date">${new Date(item.addedDate).toLocaleDateString()}</span>
+                <span class="vocab-review">复习 ${item.reviewCount} 次</span>
+            </div>
+            <div class="vocab-buttons">
+                <button onclick="toggleMastered('${item.word}')" class="vocab-btn-sm">
+                    ${item.mastered ? '✓' : '☆'}
+                </button>
+                <button onclick="removeVocabWord('${item.word}')" class="vocab-btn-sm danger">×</button>
+            </div>
+        </div>
+    `).join('');
+}
+
+// 过滤生词
+function filterVocabulary(filter) {
+    const vocabulary = getVocabularyBook();
+    const vocabList = document.getElementById('vocabList');
+
+    if (vocabList) {
+        vocabList.innerHTML = renderVocabularyList(vocabulary, filter);
+    }
+
+    // 更新按钮状态
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.getAttribute('data-filter') === filter);
+    });
+}
+
+// 切换掌握状态
+function toggleMastered(word) {
+    const vocabulary = getVocabularyBook();
+    const item = vocabulary.find(v => v.word.toLowerCase() === word.toLowerCase());
+
+    if (item) {
+        item.mastered = !item.mastered;
+        saveVocabularyBook(vocabulary);
+
+        // 重新渲染
+        const activeFilter = document.querySelector('.filter-btn.active');
+        const filter = activeFilter ? activeFilter.getAttribute('data-filter') : 'all';
+        filterVocabulary(filter);
+
+        showToast(`${word} 已标记为${item.mastered ? '已掌握' : '未掌握'}`, 'success');
+    }
+}
+
+// 从生词本移除单词(在模态框中)
+function removeVocabWord(word) {
+    if (confirm(`确定要从生词本移除 "${word}" 吗？`)) {
+        removeFromVocabularyBook(word);
+
+        // 重新渲染
+        const activeFilter = document.querySelector('.filter-btn.active');
+        const filter = activeFilter ? activeFilter.getAttribute('data-filter') : 'all';
+        const vocabulary = getVocabularyBook();
+
+        const vocabList = document.getElementById('vocabList');
+        if (vocabList) {
+            vocabList.innerHTML = renderVocabularyList(vocabulary, filter);
+        }
+
+        // 更新统计
+        const stats = document.querySelector('.vocab-stats');
+        if (stats) {
+            stats.innerHTML = `
+                <span>总计: ${vocabulary.length} 个</span>
+                <span>已掌握: ${vocabulary.filter(v => v.mastered).length} 个</span>
+                <span>待复习: ${vocabulary.filter(v => !v.mastered).length} 个</span>
+            `;
+        }
+
+        if (vocabulary.length === 0) {
+            closeVocabularyBook();
+        }
+    }
+}
+
+// 导出生词本
+function exportVocabulary() {
+    const vocabulary = getVocabularyBook();
+
+    if (vocabulary.length === 0) {
+        showToast('生词本是空的', 'warning');
+        return;
+    }
+
+    // 生成文本格式
+    let text = '# COCA 5000 生词本\n\n';
+    text += `导出时间: ${new Date().toLocaleString()}\n`;
+    text += `总计: ${vocabulary.length} 个单词\n\n`;
+
+    text += '---\n\n';
+
+    vocabulary.forEach((item, index) => {
+        text += `${index + 1}. **${item.word}**\n`;
+        text += `   - 来源: Group ${item.groupNum} (${item.book})\n`;
+        text += `   - 添加日期: ${new Date(item.addedDate).toLocaleDateString()}\n`;
+        text += `   - 复习次数: ${item.reviewCount}\n`;
+        text += `   - 状态: ${item.mastered ? '已掌握' : '待复习'}\n`;
+        text += '\n';
+    });
+
+    // 下载文件
+    const blob = new Blob([text], { type: 'text/plain;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `COCA生词本_${new Date().toISOString().split('T')[0]}.txt`;
+    a.click();
+    URL.revokeObjectURL(url);
+
+    showToast('生词本已导出', 'success');
+}
+
+// 清空生词本
+function clearVocabularyBook() {
+    if (confirm('确定要清空整个生词本吗？此操作不可恢复！')) {
+        localStorage.removeItem(STORAGE_KEYS.VOCABULARY_BOOK);
+        closeVocabularyBook();
+        showToast('生词本已清空', 'info');
+    }
+}
+
 function setupKeyboardShortcuts() {
     document.addEventListener('keydown', (e) => {
         // 如果正在输入，不触发快捷键
@@ -1041,6 +1414,92 @@ function setupKeyboardShortcuts() {
                 break;
         }
     });
+}
+
+// ========================================
+// 全局错误边界
+// ========================================
+
+// 全局错误处理
+if (typeof window !== 'undefined') {
+    window.addEventListener('error', (event) => {
+        console.error('全局错误:', event.error);
+
+        // 显示用户友好的错误消息
+        showToast('发生了意外错误，请刷新页面重试', 'error');
+
+        // 可选：发送错误到日志服务
+        logError({
+            message: event.error?.message || '未知错误',
+            stack: event.error?.stack,
+            url: window.location.href,
+            timestamp: new Date().toISOString()
+        });
+
+        // 阻止默认错误处理
+        event.preventDefault();
+    });
+
+    // 处理未捕获的 Promise 拒绝
+    window.addEventListener('unhandledrejection', (event) => {
+        console.error('未处理的 Promise 拒绝:', event.reason);
+
+        showToast('数据加载失败，请重试', 'error');
+
+        logError({
+            message: event.reason?.message || '未处理的 Promise 拒绝',
+            stack: event.reason?.stack,
+            url: window.location.href,
+            timestamp: new Date().toISOString(),
+            type: 'unhandledrejection'
+        });
+
+        // 阻止默认处理
+        event.preventDefault();
+    });
+}
+
+// 错误日志记录（可扩展到发送到服务器）
+function logError(errorInfo) {
+    // 保存到 localStorage 用于调试
+    try {
+        const errors = JSON.parse(localStorage.getItem('coca_error_logs') || '[]');
+        errors.push(errorInfo);
+
+        // 只保留最近 50 条错误日志
+        if (errors.length > 50) {
+            errors.shift();
+        }
+
+        localStorage.setItem('coca_error_logs', JSON.stringify(errors));
+    } catch (e) {
+        console.error('无法记录错误:', e);
+    }
+
+    // 在开发环境中打印详细信息
+    if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+        console.group('错误详情');
+        console.log('消息:', errorInfo.message);
+        console.log('堆栈:', errorInfo.stack);
+        console.log('URL:', errorInfo.url);
+        console.log('时间:', errorInfo.timestamp);
+        console.groupEnd();
+    }
+}
+
+// 获取错误日志
+function getErrorLogs() {
+    try {
+        return JSON.parse(localStorage.getItem('coca_error_logs') || '[]');
+    } catch (e) {
+        return [];
+    }
+}
+
+// 清除错误日志
+function clearErrorLogs() {
+    localStorage.removeItem('coca_error_logs');
+    showToast('错误日志已清除', 'info');
 }
 
 // ========================================
