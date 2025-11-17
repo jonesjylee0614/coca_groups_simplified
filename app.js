@@ -478,6 +478,12 @@ let currentFontSize = 16;
 let boldVisible = true;
 let focusMode = false;
 
+// 语音合成相关
+let speechSynthesis = window.speechSynthesis;
+let currentUtterance = null;
+let isSpeaking = false;
+let speechRate = 1.0;
+
 async function initViewer() {
     // 获取当前组号和book，并验证参数
     const bookParam = getUrlParameter('book');
@@ -885,6 +891,113 @@ function showToast(message, type = 'success') {
     }, 2000);
 }
 
+// ========================================
+// 语音朗读功能
+// ========================================
+
+// 切换朗读状态
+function toggleSpeech() {
+    if (!speechSynthesis) {
+        showToast('您的浏览器不支持语音合成功能', 'warning');
+        return;
+    }
+
+    if (isSpeaking) {
+        stopSpeech();
+    } else {
+        startSpeech();
+    }
+}
+
+// 开始朗读
+function startSpeech() {
+    const readingContent = document.getElementById('readingContent');
+    if (!readingContent) return;
+
+    // 获取纯文本内容
+    let text = readingContent.innerText;
+
+    // 移除标题等非正文内容
+    text = text.replace(/^.*Reading.*\n/i, '');
+    text = text.trim();
+
+    if (!text) {
+        showToast('没有可朗读的内容', 'warning');
+        return;
+    }
+
+    // 创建语音合成对象
+    currentUtterance = new SpeechSynthesisUtterance(text);
+    currentUtterance.lang = 'en-US';
+    currentUtterance.rate = speechRate;
+    currentUtterance.pitch = 1.0;
+    currentUtterance.volume = 1.0;
+
+    // 设置事件监听
+    currentUtterance.onstart = () => {
+        isSpeaking = true;
+        updateSpeechButton();
+    };
+
+    currentUtterance.onend = () => {
+        isSpeaking = false;
+        updateSpeechButton();
+        showToast('朗读完成', 'success');
+    };
+
+    currentUtterance.onerror = (event) => {
+        console.error('语音合成错误:', event);
+        isSpeaking = false;
+        updateSpeechButton();
+        showToast('朗读出错，请重试', 'error');
+    };
+
+    // 开始朗读
+    speechSynthesis.speak(currentUtterance);
+    showToast('开始朗读...', 'info');
+}
+
+// 停止朗读
+function stopSpeech() {
+    if (speechSynthesis) {
+        speechSynthesis.cancel();
+        isSpeaking = false;
+        updateSpeechButton();
+        showToast('已停止朗读', 'info');
+    }
+}
+
+// 更新朗读按钮状态
+function updateSpeechButton() {
+    const speechBtn = document.getElementById('speechBtn');
+    const speechIcon = document.getElementById('speechIcon');
+
+    if (speechBtn && speechIcon) {
+        if (isSpeaking) {
+            speechBtn.classList.add('active');
+            speechIcon.textContent = '⏸️';
+            speechBtn.title = '停止朗读';
+        } else {
+            speechBtn.classList.remove('active');
+            speechIcon.textContent = '🔊';
+            speechBtn.title = '朗读文章';
+        }
+    }
+}
+
+// 调整朗读速度
+function adjustSpeechRate(delta) {
+    speechRate += delta;
+    speechRate = Math.max(0.5, Math.min(2.0, speechRate));
+
+    if (isSpeaking) {
+        stopSpeech();
+        setTimeout(startSpeech, 100);
+    }
+
+    showToast(`朗读速度: ${speechRate.toFixed(1)}x`, 'info');
+}
+
 function setupKeyboardShortcuts() {
     document.addEventListener('keydown', (e) => {
         // 如果正在输入，不触发快捷键
@@ -913,6 +1026,18 @@ function setupKeyboardShortcuts() {
             case 'h':
             case 'H':
                 toggleBoldWords();
+                break;
+            case ' ':
+                // 空格键控制朗读
+                if (!e.target.matches('input, textarea')) {
+                    e.preventDefault();
+                    toggleSpeech();
+                }
+                break;
+            case 's':
+            case 'S':
+                // S键开始/停止朗读
+                toggleSpeech();
                 break;
         }
     });
