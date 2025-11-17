@@ -27,6 +27,9 @@
             </button>
             <button class="tool-btn" onclick="adjustFontSize(-1)" title="减小字体">A-</button>
             <button class="tool-btn" onclick="adjustFontSize(1)" title="增大字体">A+</button>
+            <button class="tool-btn" onclick="toggleSpeech()" id="speechBtn" title="朗读文章">
+                <span id="speechIcon">🔊</span> 朗读
+            </button>
             <button class="tool-btn" onclick="toggleComplete()" id="completeBtn">
                 <span id="completeIcon">☐</span> 完成
             </button>
@@ -51,7 +54,8 @@
         <!-- Right Panel: Learning Materials -->
         <div class="right-panel">
             <div class="tabs">
-                <button class="tab-btn active" data-tab="translation" onclick="switchTab('translation', this)">中文翻译</button>
+                <button class="tab-btn active" data-tab="summary" onclick="switchTab('summary', this)">文章概要</button>
+                <button class="tab-btn" data-tab="translation" onclick="switchTab('translation', this)">中文翻译</button>
                 <button class="tab-btn" data-tab="vocabulary" onclick="switchTab('vocabulary', this)">词汇讲解</button>
                 <button class="tab-btn" data-tab="sentences" onclick="switchTab('sentences', this)">句子分析</button>
                 <button class="tab-btn" data-tab="memory" onclick="switchTab('memory', this)">语法 · 记忆</button>
@@ -60,7 +64,10 @@
             </div>
 
             <div class="tab-content">
-                <div id="translation" class="tab-pane active">
+                <div id="summary" class="tab-pane active">
+                    <!-- Summary content -->
+                </div>
+                <div id="translation" class="tab-pane">
                     <!-- Translation content -->
                 </div>
                 <div id="vocabulary" class="tab-pane">
