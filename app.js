@@ -36,7 +36,9 @@ const STORAGE_KEYS = {
     THEME: 'coca_theme',
     VOCABULARY_BOOK: 'coca_vocabulary_book',
     SEARCH_CACHE: 'coca_search_cache',
-    SEARCH_HISTORY: 'coca_search_history'
+    SEARCH_HISTORY: 'coca_search_history',
+    LEARNING_STATS: 'coca_learning_stats',
+    STUDY_SESSIONS: 'coca_study_sessions'
 };
 
 const TAB_ORDER = ['summary', 'translation', 'vocabulary', 'sentences', 'memory', 'practice', 'notes'];
@@ -2036,6 +2038,502 @@ function highlightSearchTermInViewer() {
     } catch (e) {
         console.error('高亮搜索词失败:', e);
     }
+}
+
+// ========================================
+// 学习统计功能 (P2-2)
+// ========================================
+
+// Chart.js 实例存储
+let progressChart = null;
+let dailyVocabChart = null;
+let studyTimeChart = null;
+
+// 学习会话跟踪
+let currentSessionStartTime = null;
+let isSessionActive = false;
+
+// 获取学习统计数据
+function getLearningStats() {
+    try {
+        const stats = localStorage.getItem(STORAGE_KEYS.LEARNING_STATS);
+        return stats ? JSON.parse(stats) : {
+            totalStudyTime: 0, // 总学习时长（分钟）
+            dailyVocabulary: {}, // { "2025-11-17": 50, ... }
+            dailyStudyTime: {}, // { "2025-11-17": 30, ... }
+            completionDates: {}, // { "book1_1": "2025-11-17", ... }
+            lastUpdateDate: null
+        };
+    } catch (e) {
+        console.error('获取学习统计失败:', e);
+        return {
+            totalStudyTime: 0,
+            dailyVocabulary: {},
+            dailyStudyTime: {},
+            completionDates: {},
+            lastUpdateDate: null
+        };
+    }
+}
+
+// 保存学习统计数据
+function saveLearningStats(stats) {
+    try {
+        stats.lastUpdateDate = new Date().toISOString();
+        localStorage.setItem(STORAGE_KEYS.LEARNING_STATS, JSON.stringify(stats));
+    } catch (e) {
+        console.error('保存学习统计失败:', e);
+    }
+}
+
+// 开始学习会话
+function startStudySession() {
+    if (!isSessionActive) {
+        currentSessionStartTime = Date.now();
+        isSessionActive = true;
+    }
+}
+
+// 结束学习会话并记录时长
+function endStudySession() {
+    if (isSessionActive && currentSessionStartTime) {
+        const duration = Math.floor((Date.now() - currentSessionStartTime) / 1000 / 60); // 分钟
+        if (duration > 0) {
+            recordStudyTime(duration);
+        }
+        currentSessionStartTime = null;
+        isSessionActive = false;
+    }
+}
+
+// 记录学习时长
+function recordStudyTime(minutes) {
+    const stats = getLearningStats();
+    const today = getTodayDateString();
+
+    stats.totalStudyTime += minutes;
+    stats.dailyStudyTime[today] = (stats.dailyStudyTime[today] || 0) + minutes;
+
+    saveLearningStats(stats);
+}
+
+// 记录完成的组（重写原有函数以添加统计）
+const originalToggleComplete = window.toggleComplete;
+function toggleCompleteWithStats() {
+    // 调用原有函数
+    if (typeof originalToggleComplete === 'function') {
+        originalToggleComplete();
+    }
+
+    // 记录统计
+    const completed = isGroupCompleted(currentGroup, currentBook);
+    const stats = getLearningStats();
+    const today = getTodayDateString();
+    const groupKey = `${currentBook}_${currentGroup}`;
+
+    if (completed) {
+        // 新完成一个组
+        if (!stats.completionDates[groupKey]) {
+            const bookConfig = BOOK_CONFIGS[currentBook];
+            const vocabCount = bookConfig.wordsPerGroup;
+
+            stats.dailyVocabulary[today] = (stats.dailyVocabulary[today] || 0) + vocabCount;
+            stats.completionDates[groupKey] = today;
+
+            saveLearningStats(stats);
+            showToast(`已记录今日学习 ${vocabCount} 个词汇`, 'success');
+        }
+    } else {
+        // 取消完成
+        if (stats.completionDates[groupKey]) {
+            const completionDate = stats.completionDates[groupKey];
+            const bookConfig = BOOK_CONFIGS[currentBook];
+            const vocabCount = bookConfig.wordsPerGroup;
+
+            if (stats.dailyVocabulary[completionDate]) {
+                stats.dailyVocabulary[completionDate] -= vocabCount;
+                if (stats.dailyVocabulary[completionDate] <= 0) {
+                    delete stats.dailyVocabulary[completionDate];
+                }
+            }
+            delete stats.completionDates[groupKey];
+
+            saveLearningStats(stats);
+        }
+    }
+
+    // 刷新统计图表（如果在首页）
+    if (typeof renderAllCharts === 'function') {
+        renderAllCharts();
+    }
+}
+
+// 替换原有的 toggleComplete 函数
+if (typeof window !== 'undefined') {
+    window.toggleComplete = toggleCompleteWithStats;
+}
+
+// 获取今天的日期字符串 (YYYY-MM-DD)
+function getTodayDateString() {
+    const now = new Date();
+    return now.toISOString().split('T')[0];
+}
+
+// 获取最近N天的日期列表
+function getRecentDates(days) {
+    const dates = [];
+    const today = new Date();
+
+    for (let i = days - 1; i >= 0; i--) {
+        const date = new Date(today);
+        date.setDate(date.getDate() - i);
+        dates.push(date.toISOString().split('T')[0]);
+    }
+
+    return dates;
+}
+
+// 切换统计显示
+function toggleStatistics() {
+    const content = document.getElementById('statsContent');
+    const toggleBtn = document.getElementById('toggleStatsBtn');
+    const icon = document.getElementById('statsToggleIcon');
+
+    if (content.style.display === 'none') {
+        content.style.display = 'block';
+        icon.textContent = '▲';
+        toggleBtn.innerHTML = `<span id="statsToggleIcon">▲</span> 收起`;
+
+        // 渲染所有图表
+        renderAllCharts();
+    } else {
+        content.style.display = 'none';
+        icon.textContent = '▼';
+        toggleBtn.innerHTML = `<span id="statsToggleIcon">▼</span> 展开`;
+    }
+}
+
+// 渲染所有图表
+function renderAllCharts() {
+    renderProgressChart();
+    renderDailyVocabChart();
+    renderStudyTimeChart();
+    renderHeatmap();
+}
+
+// 1. 进度饼图
+function renderProgressChart() {
+    const canvas = document.getElementById('progressChart');
+    if (!canvas) return;
+
+    const bookConfig = BOOK_CONFIGS[currentBook];
+    const completedCount = getCompletedGroupsCount(currentBook);
+    const totalGroups = bookConfig.totalGroups;
+    const remainingCount = totalGroups - completedCount;
+
+    // 销毁旧图表
+    if (progressChart) {
+        progressChart.destroy();
+    }
+
+    // 创建新图表
+    const ctx = canvas.getContext('2d');
+    progressChart = new Chart(ctx, {
+        type: 'doughnut',
+        data: {
+            labels: ['已完成', '未完成'],
+            datasets: [{
+                data: [completedCount, remainingCount],
+                backgroundColor: [
+                    'rgba(34, 197, 94, 0.8)',
+                    'rgba(229, 231, 235, 0.5)'
+                ],
+                borderColor: [
+                    'rgba(34, 197, 94, 1)',
+                    'rgba(229, 231, 235, 1)'
+                ],
+                borderWidth: 2
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            plugins: {
+                legend: {
+                    display: false
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            const label = context.label || '';
+                            const value = context.parsed || 0;
+                            const percentage = ((value / totalGroups) * 100).toFixed(1);
+                            return `${label}: ${value} 组 (${percentage}%)`;
+                        }
+                    }
+                }
+            }
+        }
+    });
+
+    // 更新图例
+    const legend = document.getElementById('progressLegend');
+    if (legend) {
+        const percentage = ((completedCount / totalGroups) * 100).toFixed(1);
+        legend.innerHTML = `
+            <div class="legend-item">
+                <span class="legend-color" style="background: rgba(34, 197, 94, 0.8);"></span>
+                <span>已完成: ${completedCount} 组 (${percentage}%)</span>
+            </div>
+            <div class="legend-item">
+                <span class="legend-color" style="background: rgba(229, 231, 235, 0.5);"></span>
+                <span>未完成: ${remainingCount} 组</span>
+            </div>
+        `;
+    }
+}
+
+// 2. 每日词汇量柱状图
+function renderDailyVocabChart() {
+    const canvas = document.getElementById('dailyVocabChart');
+    if (!canvas) return;
+
+    const stats = getLearningStats();
+    const dates = getRecentDates(7);
+    const data = dates.map(date => stats.dailyVocabulary[date] || 0);
+
+    // 格式化日期标签
+    const labels = dates.map(date => {
+        const d = new Date(date);
+        return `${d.getMonth() + 1}/${d.getDate()}`;
+    });
+
+    // 销毁旧图表
+    if (dailyVocabChart) {
+        dailyVocabChart.destroy();
+    }
+
+    // 创建新图表
+    const ctx = canvas.getContext('2d');
+    dailyVocabChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: labels,
+            datasets: [{
+                label: '词汇量',
+                data: data,
+                backgroundColor: 'rgba(59, 130, 246, 0.8)',
+                borderColor: 'rgba(59, 130, 246, 1)',
+                borderWidth: 2,
+                borderRadius: 6
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            plugins: {
+                legend: {
+                    display: false
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            return `${context.parsed.y} 个词`;
+                        }
+                    }
+                }
+            },
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    ticks: {
+                        stepSize: 25
+                    }
+                }
+            }
+        }
+    });
+}
+
+// 3. 学习时长图表
+function renderStudyTimeChart() {
+    const canvas = document.getElementById('studyTimeChart');
+    if (!canvas) return;
+
+    const stats = getLearningStats();
+    const dates = getRecentDates(7);
+    const data = dates.map(date => stats.dailyStudyTime[date] || 0);
+
+    // 格式化日期标签
+    const labels = dates.map(date => {
+        const d = new Date(date);
+        return `${d.getMonth() + 1}/${d.getDate()}`;
+    });
+
+    // 销毁旧图表
+    if (studyTimeChart) {
+        studyTimeChart.destroy();
+    }
+
+    // 创建新图表
+    const ctx = canvas.getContext('2d');
+    studyTimeChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: labels,
+            datasets: [{
+                label: '学习时长',
+                data: data,
+                backgroundColor: 'rgba(168, 85, 247, 0.2)',
+                borderColor: 'rgba(168, 85, 247, 1)',
+                borderWidth: 3,
+                fill: true,
+                tension: 0.4,
+                pointRadius: 5,
+                pointHoverRadius: 7,
+                pointBackgroundColor: 'rgba(168, 85, 247, 1)'
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            plugins: {
+                legend: {
+                    display: false
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            return `${context.parsed.y} 分钟`;
+                        }
+                    }
+                }
+            },
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    ticks: {
+                        stepSize: 10,
+                        callback: function(value) {
+                            return value + ' 分钟';
+                        }
+                    }
+                }
+            }
+        }
+    });
+
+    // 更新时长摘要
+    const summary = document.getElementById('timeSummary');
+    if (summary) {
+        const totalWeek = data.reduce((sum, val) => sum + val, 0);
+        const avgDaily = totalWeek > 0 ? (totalWeek / 7).toFixed(1) : 0;
+        const totalHours = (stats.totalStudyTime / 60).toFixed(1);
+
+        summary.innerHTML = `
+            <div class="summary-item">
+                <span class="summary-label">本周总计:</span>
+                <span class="summary-value">${totalWeek} 分钟</span>
+            </div>
+            <div class="summary-item">
+                <span class="summary-label">日均学习:</span>
+                <span class="summary-value">${avgDaily} 分钟</span>
+            </div>
+            <div class="summary-item">
+                <span class="summary-label">累计时长:</span>
+                <span class="summary-value">${totalHours} 小时</span>
+            </div>
+        `;
+    }
+}
+
+// 4. 学习热力图
+function renderHeatmap() {
+    const container = document.getElementById('heatmapContainer');
+    if (!container) return;
+
+    const stats = getLearningStats();
+    const dates = getRecentDates(30);
+
+    // 计算最大值用于颜色缩放
+    const values = dates.map(date => stats.dailyVocabulary[date] || 0);
+    const maxValue = Math.max(...values, 1);
+
+    // 生成热力图格子
+    let html = '<div class="heatmap-grid">';
+
+    dates.forEach(date => {
+        const value = stats.dailyVocabulary[date] || 0;
+        const intensity = maxValue > 0 ? value / maxValue : 0;
+
+        // 根据强度选择颜色
+        let colorClass = 'level-0';
+        if (intensity > 0.75) colorClass = 'level-4';
+        else if (intensity > 0.5) colorClass = 'level-3';
+        else if (intensity > 0.25) colorClass = 'level-2';
+        else if (intensity > 0) colorClass = 'level-1';
+
+        const d = new Date(date);
+        const dateLabel = `${d.getMonth() + 1}月${d.getDate()}日`;
+
+        html += `
+            <div class="heatmap-cell ${colorClass}"
+                 title="${dateLabel}: ${value} 词"
+                 data-date="${date}"
+                 data-value="${value}">
+            </div>
+        `;
+    });
+
+    html += '</div>';
+
+    // 添加图例
+    html += `
+        <div class="heatmap-legend">
+            <span>少</span>
+            <div class="heatmap-cell level-0"></div>
+            <div class="heatmap-cell level-1"></div>
+            <div class="heatmap-cell level-2"></div>
+            <div class="heatmap-cell level-3"></div>
+            <div class="heatmap-cell level-4"></div>
+            <span>多</span>
+        </div>
+    `;
+
+    container.innerHTML = html;
+}
+
+// 在首页初始化时启动学习会话跟踪
+if (typeof window !== 'undefined' && window.location.pathname.includes('index.html')) {
+    window.addEventListener('load', () => {
+        startStudySession();
+    });
+
+    window.addEventListener('beforeunload', () => {
+        endStudySession();
+    });
+}
+
+// 在viewer页面也跟踪学习时间
+if (typeof window !== 'undefined' && window.location.pathname.includes('viewer.html')) {
+    window.addEventListener('load', () => {
+        startStudySession();
+    });
+
+    window.addEventListener('beforeunload', () => {
+        endStudySession();
+    });
+
+    // 每5分钟自动保存一次学习时长
+    setInterval(() => {
+        if (isSessionActive && currentSessionStartTime) {
+            const duration = Math.floor((Date.now() - currentSessionStartTime) / 1000 / 60);
+            if (duration >= 5) {
+                recordStudyTime(5);
+                currentSessionStartTime = Date.now(); // 重置开始时间
+            }
+        }
+    }, 5 * 60 * 1000); // 5分钟
 }
 
 // ========================================

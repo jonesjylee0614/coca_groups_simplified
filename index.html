@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>COCA 5000 高频词学习系统</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 </head>
 <body>
     <div class="container">
@@ -59,6 +60,38 @@
                 <button onclick="openVocabularyBook()" class="vocab-btn">📚 生词本</button>
             </div>
             <p class="search-hint" id="searchHint">当前选择：Book 1 (1-100组)</p>
+        </section>
+
+        <!-- Statistics & Charts Section (P2-2) -->
+        <section class="statistics-section" id="statisticsSection">
+            <div class="section-header">
+                <h2>📊 学习统计</h2>
+                <button class="toggle-stats-btn" onclick="toggleStatistics()" id="toggleStatsBtn">
+                    <span id="statsToggleIcon">▼</span> 展开
+                </button>
+            </div>
+            <div class="stats-content" id="statsContent" style="display: none;">
+                <div class="charts-grid">
+                    <div class="chart-card">
+                        <h3>学习进度</h3>
+                        <canvas id="progressChart"></canvas>
+                        <div class="chart-legend" id="progressLegend"></div>
+                    </div>
+                    <div class="chart-card">
+                        <h3>每日词汇量 (最近7天)</h3>
+                        <canvas id="dailyVocabChart"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>学习时长统计</h3>
+                        <canvas id="studyTimeChart"></canvas>
+                        <div class="time-summary" id="timeSummary"></div>
+                    </div>
+                    <div class="chart-card heatmap-card">
+                        <h3>学习热力图 (最近30天)</h3>
+                        <div id="heatmapContainer" class="heatmap-container"></div>
+                    </div>
+                </div>
+            </div>
         </section>
 
         <section class="groups-section">
