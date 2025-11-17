@@ -38,7 +38,9 @@ const STORAGE_KEYS = {
     SEARCH_CACHE: 'coca_search_cache',
     SEARCH_HISTORY: 'coca_search_history',
     LEARNING_STATS: 'coca_learning_stats',
-    STUDY_SESSIONS: 'coca_study_sessions'
+    STUDY_SESSIONS: 'coca_study_sessions',
+    REVIEW_SCHEDULES: 'coca_review_schedules',
+    NOTIFICATION_PERMISSION: 'coca_notification_permission'
 };
 
 const TAB_ORDER = ['summary', 'translation', 'vocabulary', 'sentences', 'memory', 'practice', 'notes'];
@@ -2534,6 +2536,474 @@ if (typeof window !== 'undefined' && window.location.pathname.includes('viewer.h
             }
         }
     }, 5 * 60 * 1000); // 5分钟
+}
+
+// ========================================
+// 复习提醒系统 (P2-3) - Based on Ebbinghaus Forgetting Curve
+// ========================================
+
+// 复习间隔（天数）- 基于遗忘曲线
+const REVIEW_INTERVALS = [1, 3, 7, 15, 30];
+
+// 获取复习计划
+function getReviewSchedules() {
+    try {
+        const schedules = localStorage.getItem(STORAGE_KEYS.REVIEW_SCHEDULES);
+        return schedules ? JSON.parse(schedules) : {};
+    } catch (e) {
+        console.error('获取复习计划失败:', e);
+        return {};
+    }
+}
+
+// 保存复习计划
+function saveReviewSchedules(schedules) {
+    try {
+        localStorage.setItem(STORAGE_KEYS.REVIEW_SCHEDULES, JSON.stringify(schedules));
+    } catch (e) {
+        console.error('保存复习计划失败:', e);
+    }
+}
+
+// 为已完成的组创建复习计划
+function createReviewSchedule(groupNum, book, completionDate) {
+    const schedules = getReviewSchedules();
+    const groupKey = `${book}_${groupNum}`;
+
+    // 如果已有计划，不重复创建
+    if (schedules[groupKey]) {
+        return;
+    }
+
+    const baseDate = new Date(completionDate);
+    const reviewDates = REVIEW_INTERVALS.map(days => {
+        const reviewDate = new Date(baseDate);
+        reviewDate.setDate(reviewDate.getDate() + days);
+        return reviewDate.toISOString().split('T')[0];
+    });
+
+    schedules[groupKey] = {
+        groupNum: groupNum,
+        book: book,
+        completionDate: completionDate,
+        reviewDates: reviewDates,
+        reviewsCompleted: [], // 已完成的复习日期
+        nextReview: reviewDates[0],
+        reviewCount: 0
+    };
+
+    saveReviewSchedules(schedules);
+}
+
+// 标记复习完成
+function markReviewCompleted(groupNum, book) {
+    const schedules = getReviewSchedules();
+    const groupKey = `${book}_${groupNum}`;
+
+    if (!schedules[groupKey]) {
+        return false;
+    }
+
+    const today = getTodayDateString();
+    const schedule = schedules[groupKey];
+
+    // 避免重复标记同一天的复习
+    if (schedule.reviewsCompleted.includes(today)) {
+        showToast('今天已完成此组的复习', 'info');
+        return false;
+    }
+
+    schedule.reviewsCompleted.push(today);
+    schedule.reviewCount++;
+
+    // 更新下一次复习日期
+    const nextIndex = schedule.reviewCount;
+    schedule.nextReview = nextIndex < schedule.reviewDates.length
+        ? schedule.reviewDates[nextIndex]
+        : null;
+
+    saveReviewSchedules(schedules);
+    showToast(`✅ 已完成 Group ${groupNum} 第 ${schedule.reviewCount} 次复习`, 'success');
+
+    // 刷新复习列表
+    if (typeof renderReviewList === 'function') {
+        renderReviewList();
+    }
+
+    return true;
+}
+
+// 获取今天到期的复习
+function getDueReviews() {
+    const schedules = getReviewSchedules();
+    const today = getTodayDateString();
+    const dueReviews = [];
+
+    for (const [groupKey, schedule] of Object.entries(schedules)) {
+        // 如果已完成所有复习，跳过
+        if (!schedule.nextReview) continue;
+
+        // 检查是否到期（包括过期的）
+        if (schedule.nextReview <= today) {
+            dueReviews.push({
+                ...schedule,
+                daysOverdue: Math.floor((new Date(today) - new Date(schedule.nextReview)) / (1000 * 60 * 60 * 24))
+            });
+        }
+    }
+
+    // 按过期天数排序（最早到期的在前）
+    dueReviews.sort((a, b) => b.daysOverdue - a.daysOverdue);
+
+    return dueReviews;
+}
+
+// 获取即将到期的复习（未来7天）
+function getUpcomingReviews() {
+    const schedules = getReviewSchedules();
+    const today = new Date();
+    const upcomingReviews = [];
+
+    for (const [groupKey, schedule] of Object.entries(schedules)) {
+        if (!schedule.nextReview) continue;
+
+        const nextReviewDate = new Date(schedule.nextReview);
+        const daysUntil = Math.floor((nextReviewDate - today) / (1000 * 60 * 60 * 24));
+
+        // 未来7天内的复习
+        if (daysUntil > 0 && daysUntil <= 7) {
+            upcomingReviews.push({
+                ...schedule,
+                daysUntil: daysUntil
+            });
+        }
+    }
+
+    // 按日期排序
+    upcomingReviews.sort((a, b) => a.daysUntil - b.daysUntil);
+
+    return upcomingReviews;
+}
+
+// 请求通知权限
+async function requestNotificationPermission() {
+    if (!('Notification' in window)) {
+        console.log('浏览器不支持通知');
+        return false;
+    }
+
+    if (Notification.permission === 'granted') {
+        return true;
+    }
+
+    if (Notification.permission !== 'denied') {
+        const permission = await Notification.requestPermission();
+        localStorage.setItem(STORAGE_KEYS.NOTIFICATION_PERMISSION, permission);
+        return permission === 'granted';
+    }
+
+    return false;
+}
+
+// 发送复习提醒通知
+function sendReviewNotification(dueReviews) {
+    if (!('Notification' in window) || Notification.permission !== 'granted') {
+        return;
+    }
+
+    if (dueReviews.length === 0) return;
+
+    const count = dueReviews.length;
+    const firstReview = dueReviews[0];
+
+    const notification = new Notification('📚 COCA学习提醒', {
+        body: `您有 ${count} 个分组需要复习！\n最早：Group ${firstReview.groupNum} (${BOOK_CONFIGS[firstReview.book].name})`,
+        icon: '/favicon.ico',
+        badge: '/favicon.ico',
+        tag: 'coca-review-reminder',
+        requireInteraction: false,
+        silent: false
+    });
+
+    notification.onclick = () => {
+        window.focus();
+        openReviewModal();
+        notification.close();
+    };
+}
+
+// 检查并发送到期提醒
+function checkAndNotifyDueReviews() {
+    const dueReviews = getDueReviews();
+
+    if (dueReviews.length > 0) {
+        // 显示页面内提示
+        showToast(`您有 ${dueReviews.length} 个分组需要复习`, 'info');
+
+        // 发送浏览器通知
+        sendReviewNotification(dueReviews);
+    }
+}
+
+// 打开复习模态框
+function openReviewModal() {
+    // 检查是否已存在模态框
+    let modal = document.getElementById('reviewModal');
+    if (modal) {
+        modal.style.display = 'flex';
+        renderReviewList();
+        return;
+    }
+
+    // 创建复习模态框
+    modal = document.createElement('div');
+    modal.id = 'reviewModal';
+    modal.className = 'review-modal';
+    modal.innerHTML = `
+        <div class="review-modal-content">
+            <div class="review-modal-header">
+                <h2>📅 复习计划</h2>
+                <button class="close-btn" onclick="closeReviewModal()">&times;</button>
+            </div>
+
+            <div class="review-tabs">
+                <button class="review-tab-btn active" onclick="switchReviewTab('due')">
+                    到期复习 <span id="dueCount" class="badge">0</span>
+                </button>
+                <button class="review-tab-btn" onclick="switchReviewTab('upcoming')">
+                    即将到期 <span id="upcomingCount" class="badge">0</span>
+                </button>
+                <button class="review-tab-btn" onclick="switchReviewTab('all')">
+                    全部计划
+                </button>
+            </div>
+
+            <div class="review-content">
+                <div id="reviewList" class="review-list"></div>
+            </div>
+
+            <div class="review-footer">
+                <button class="notification-btn" onclick="enableNotifications()">
+                    <span id="notifIcon">🔔</span> 开启提醒
+                </button>
+                <button class="clear-completed-btn" onclick="clearCompletedReviews()">
+                    清理已完成
+                </button>
+            </div>
+        </div>
+    `;
+
+    document.body.appendChild(modal);
+
+    // 点击模态框外部关闭
+    modal.addEventListener('click', (e) => {
+        if (e.target === modal) {
+            closeReviewModal();
+        }
+    });
+
+    // 渲染列表
+    renderReviewList();
+
+    // 更新通知按钮状态
+    updateNotificationButton();
+}
+
+// 关闭复习模态框
+function closeReviewModal() {
+    const modal = document.getElementById('reviewModal');
+    if (modal) {
+        modal.style.display = 'none';
+    }
+}
+
+// 当前选择的复习标签
+let currentReviewTab = 'due';
+
+// 切换复习标签
+function switchReviewTab(tab) {
+    currentReviewTab = tab;
+
+    // 更新按钮状态
+    document.querySelectorAll('.review-tab-btn').forEach(btn => {
+        btn.classList.remove('active');
+    });
+    event.target.classList.add('active');
+
+    // 渲染列表
+    renderReviewList();
+}
+
+// 渲染复习列表
+function renderReviewList() {
+    const listContainer = document.getElementById('reviewList');
+    if (!listContainer) return;
+
+    const dueReviews = getDueReviews();
+    const upcomingReviews = getUpcomingReviews();
+    const allSchedules = getReviewSchedules();
+
+    // 更新徽章数量
+    const dueCountBadge = document.getElementById('dueCount');
+    const upcomingCountBadge = document.getElementById('upcomingCount');
+    if (dueCountBadge) dueCountBadge.textContent = dueReviews.length;
+    if (upcomingCountBadge) upcomingCountBadge.textContent = upcomingReviews.length;
+
+    let reviews = [];
+    let emptyMessage = '';
+
+    switch (currentReviewTab) {
+        case 'due':
+            reviews = dueReviews;
+            emptyMessage = '🎉 太棒了！暂无到期的复习';
+            break;
+        case 'upcoming':
+            reviews = upcomingReviews;
+            emptyMessage = '📭 未来7天内暂无复习计划';
+            break;
+        case 'all':
+            reviews = Object.values(allSchedules);
+            emptyMessage = '📋 还没有复习计划，完成学习后会自动创建';
+            break;
+    }
+
+    if (reviews.length === 0) {
+        listContainer.innerHTML = `<div class="empty-reviews">${emptyMessage}</div>`;
+        return;
+    }
+
+    listContainer.innerHTML = reviews.map(review => {
+        const bookConfig = BOOK_CONFIGS[review.book];
+        const progress = `${review.reviewCount}/${REVIEW_INTERVALS.length}`;
+        const isOverdue = review.daysOverdue && review.daysOverdue > 0;
+        const isUpcoming = review.daysUntil && review.daysUntil > 0;
+
+        let statusBadge = '';
+        if (isOverdue) {
+            statusBadge = `<span class="status-badge overdue">逾期 ${review.daysOverdue} 天</span>`;
+        } else if (isUpcoming) {
+            statusBadge = `<span class="status-badge upcoming">${review.daysUntil} 天后</span>`;
+        } else if (currentReviewTab === 'all') {
+            if (!review.nextReview) {
+                statusBadge = '<span class="status-badge completed">已完成</span>';
+            } else {
+                statusBadge = `<span class="status-badge">下次: ${review.nextReview}</span>`;
+            }
+        }
+
+        return `
+            <div class="review-item ${isOverdue ? 'overdue-item' : ''}">
+                <div class="review-item-header">
+                    <span class="review-group-name">
+                        📚 ${bookConfig.name} - Group ${review.groupNum}
+                    </span>
+                    ${statusBadge}
+                </div>
+                <div class="review-item-details">
+                    <span class="review-progress">复习进度: ${progress}</span>
+                    <span class="review-completion-date">完成日期: ${review.completionDate}</span>
+                </div>
+                <div class="review-item-actions">
+                    <button class="review-action-btn goto-btn"
+                            onclick="gotoReviewGroup(${review.groupNum}, '${review.book}')">
+                        开始复习 →
+                    </button>
+                    <button class="review-action-btn complete-btn"
+                            onclick="markReviewCompleted(${review.groupNum}, '${review.book}')">
+                        ✓ 完成
+                    </button>
+                </div>
+                ${review.reviewsCompleted.length > 0 ? `
+                    <div class="review-history">
+                        已复习: ${review.reviewsCompleted.join(', ')}
+                    </div>
+                ` : ''}
+            </div>
+        `;
+    }).join('');
+}
+
+// 前往复习组
+function gotoReviewGroup(groupNum, book) {
+    window.location.href = `viewer.html?group=${groupNum}&book=${book}`;
+}
+
+// 开启通知
+async function enableNotifications() {
+    const granted = await requestNotificationPermission();
+
+    if (granted) {
+        showToast('✅ 通知权限已开启', 'success');
+        updateNotificationButton();
+
+        // 立即检查并发送提醒
+        checkAndNotifyDueReviews();
+    } else {
+        showToast('❌ 通知权限被拒绝，请在浏览器设置中开启', 'warning');
+    }
+}
+
+// 更新通知按钮状态
+function updateNotificationButton() {
+    const btn = document.querySelector('.notification-btn');
+    const icon = document.getElementById('notifIcon');
+
+    if (!btn || !icon) return;
+
+    if ('Notification' in window && Notification.permission === 'granted') {
+        btn.innerHTML = '<span id="notifIcon">🔔</span> 通知已开启';
+        btn.classList.add('enabled');
+    } else {
+        btn.innerHTML = '<span id="notifIcon">🔕</span> 开启提醒';
+        btn.classList.remove('enabled');
+    }
+}
+
+// 清理已完成的复习
+function clearCompletedReviews() {
+    const schedules = getReviewSchedules();
+    let clearedCount = 0;
+
+    for (const [groupKey, schedule] of Object.entries(schedules)) {
+        // 删除已完成所有复习的计划
+        if (!schedule.nextReview) {
+            delete schedules[groupKey];
+            clearedCount++;
+        }
+    }
+
+    saveReviewSchedules(schedules);
+    showToast(`已清理 ${clearedCount} 个已完成的复习计划`, 'info');
+
+    // 刷新列表
+    renderReviewList();
+}
+
+// 集成到完成组功能中
+const originalToggleCompleteEnhanced = window.toggleComplete;
+window.toggleComplete = function() {
+    if (typeof originalToggleCompleteEnhanced === 'function') {
+        originalToggleCompleteEnhanced();
+    }
+
+    // 检查是否新完成
+    const completed = isGroupCompleted(currentGroup, currentBook);
+    if (completed) {
+        const today = getTodayDateString();
+        // 创建复习计划
+        createReviewSchedule(currentGroup, currentBook, today);
+        showToast('📅 已为此组创建复习计划', 'info');
+    }
+};
+
+// 页面加载时检查到期复习
+if (typeof window !== 'undefined') {
+    window.addEventListener('load', () => {
+        // 延迟3秒后检查，避免干扰页面加载
+        setTimeout(() => {
+            checkAndNotifyDueReviews();
+        }, 3000);
+    });
 }
 
 // ========================================
