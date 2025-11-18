@@ -1,12 +1,12 @@
 {
   "summary": {
-    "total_chapters": 2,
-    "perfect_chapters": 2,
-    "total_words_required": 100,
-    "total_words_found": 100,
+    "total_chapters": 100,
+    "perfect_chapters": 100,
+    "total_words_required": 5000,
+    "total_words_found": 5000,
     "overall_coverage": 100.0,
-    "total_story_words": 2976,
-    "avg_chapter_length": 1488.0
+    "total_story_words": 195194,
+    "avg_chapter_length": 1951.94
   },
   "chapters": [
     {
@@ -27,6 +27,986 @@
       "missing": 0,
       "coverage": 100.0,
       "word_count": 1754,
+      "missing_words": []
+    },
+    {
+      "chapter": 3,
+      "file": "novel_chapters/chapter_03.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1458,
+      "missing_words": []
+    },
+    {
+      "chapter": 4,
+      "file": "novel_chapters/chapter_04.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1728,
+      "missing_words": []
+    },
+    {
+      "chapter": 5,
+      "file": "novel_chapters/chapter_05.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1784,
+      "missing_words": []
+    },
+    {
+      "chapter": 6,
+      "file": "novel_chapters/chapter_06.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2354,
+      "missing_words": []
+    },
+    {
+      "chapter": 7,
+      "file": "novel_chapters/chapter_07.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2124,
+      "missing_words": []
+    },
+    {
+      "chapter": 8,
+      "file": "novel_chapters/chapter_08.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2077,
+      "missing_words": []
+    },
+    {
+      "chapter": 9,
+      "file": "novel_chapters/chapter_09.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1716,
+      "missing_words": []
+    },
+    {
+      "chapter": 10,
+      "file": "novel_chapters/chapter_10.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2226,
+      "missing_words": []
+    },
+    {
+      "chapter": 100,
+      "file": "novel_chapters/chapter_100.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2434,
+      "missing_words": []
+    },
+    {
+      "chapter": 11,
+      "file": "novel_chapters/chapter_11.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2114,
+      "missing_words": []
+    },
+    {
+      "chapter": 12,
+      "file": "novel_chapters/chapter_12.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2351,
+      "missing_words": []
+    },
+    {
+      "chapter": 13,
+      "file": "novel_chapters/chapter_13.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2555,
+      "missing_words": []
+    },
+    {
+      "chapter": 14,
+      "file": "novel_chapters/chapter_14.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2931,
+      "missing_words": []
+    },
+    {
+      "chapter": 15,
+      "file": "novel_chapters/chapter_15.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2699,
+      "missing_words": []
+    },
+    {
+      "chapter": 16,
+      "file": "novel_chapters/chapter_16.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2944,
+      "missing_words": []
+    },
+    {
+      "chapter": 17,
+      "file": "novel_chapters/chapter_17.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2664,
+      "missing_words": []
+    },
+    {
+      "chapter": 18,
+      "file": "novel_chapters/chapter_18.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2924,
+      "missing_words": []
+    },
+    {
+      "chapter": 19,
+      "file": "novel_chapters/chapter_19.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2892,
+      "missing_words": []
+    },
+    {
+      "chapter": 20,
+      "file": "novel_chapters/chapter_20.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 3313,
+      "missing_words": []
+    },
+    {
+      "chapter": 21,
+      "file": "novel_chapters/chapter_21.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1709,
+      "missing_words": []
+    },
+    {
+      "chapter": 22,
+      "file": "novel_chapters/chapter_22.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1879,
+      "missing_words": []
+    },
+    {
+      "chapter": 23,
+      "file": "novel_chapters/chapter_23.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2146,
+      "missing_words": []
+    },
+    {
+      "chapter": 24,
+      "file": "novel_chapters/chapter_24.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1987,
+      "missing_words": []
+    },
+    {
+      "chapter": 25,
+      "file": "novel_chapters/chapter_25.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2063,
+      "missing_words": []
+    },
+    {
+      "chapter": 26,
+      "file": "novel_chapters/chapter_26.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2254,
+      "missing_words": []
+    },
+    {
+      "chapter": 27,
+      "file": "novel_chapters/chapter_27.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1846,
+      "missing_words": []
+    },
+    {
+      "chapter": 28,
+      "file": "novel_chapters/chapter_28.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2317,
+      "missing_words": []
+    },
+    {
+      "chapter": 29,
+      "file": "novel_chapters/chapter_29.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2136,
+      "missing_words": []
+    },
+    {
+      "chapter": 30,
+      "file": "novel_chapters/chapter_30.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1986,
+      "missing_words": []
+    },
+    {
+      "chapter": 31,
+      "file": "novel_chapters/chapter_31.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1428,
+      "missing_words": []
+    },
+    {
+      "chapter": 32,
+      "file": "novel_chapters/chapter_32.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1530,
+      "missing_words": []
+    },
+    {
+      "chapter": 33,
+      "file": "novel_chapters/chapter_33.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1462,
+      "missing_words": []
+    },
+    {
+      "chapter": 34,
+      "file": "novel_chapters/chapter_34.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1713,
+      "missing_words": []
+    },
+    {
+      "chapter": 35,
+      "file": "novel_chapters/chapter_35.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1502,
+      "missing_words": []
+    },
+    {
+      "chapter": 36,
+      "file": "novel_chapters/chapter_36.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1599,
+      "missing_words": []
+    },
+    {
+      "chapter": 37,
+      "file": "novel_chapters/chapter_37.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1541,
+      "missing_words": []
+    },
+    {
+      "chapter": 38,
+      "file": "novel_chapters/chapter_38.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1547,
+      "missing_words": []
+    },
+    {
+      "chapter": 39,
+      "file": "novel_chapters/chapter_39.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1464,
+      "missing_words": []
+    },
+    {
+      "chapter": 40,
+      "file": "novel_chapters/chapter_40.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1845,
+      "missing_words": []
+    },
+    {
+      "chapter": 41,
+      "file": "novel_chapters/chapter_41.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1999,
+      "missing_words": []
+    },
+    {
+      "chapter": 42,
+      "file": "novel_chapters/chapter_42.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2147,
+      "missing_words": []
+    },
+    {
+      "chapter": 43,
+      "file": "novel_chapters/chapter_43.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2443,
+      "missing_words": []
+    },
+    {
+      "chapter": 44,
+      "file": "novel_chapters/chapter_44.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1601,
+      "missing_words": []
+    },
+    {
+      "chapter": 45,
+      "file": "novel_chapters/chapter_45.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2107,
+      "missing_words": []
+    },
+    {
+      "chapter": 46,
+      "file": "novel_chapters/chapter_46.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2522,
+      "missing_words": []
+    },
+    {
+      "chapter": 47,
+      "file": "novel_chapters/chapter_47.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2810,
+      "missing_words": []
+    },
+    {
+      "chapter": 48,
+      "file": "novel_chapters/chapter_48.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 3227,
+      "missing_words": []
+    },
+    {
+      "chapter": 49,
+      "file": "novel_chapters/chapter_49.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 3075,
+      "missing_words": []
+    },
+    {
+      "chapter": 50,
+      "file": "novel_chapters/chapter_50.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 3249,
+      "missing_words": []
+    },
+    {
+      "chapter": 51,
+      "file": "novel_chapters/chapter_51.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1759,
+      "missing_words": []
+    },
+    {
+      "chapter": 52,
+      "file": "novel_chapters/chapter_52.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1871,
+      "missing_words": []
+    },
+    {
+      "chapter": 53,
+      "file": "novel_chapters/chapter_53.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1661,
+      "missing_words": []
+    },
+    {
+      "chapter": 54,
+      "file": "novel_chapters/chapter_54.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1388,
+      "missing_words": []
+    },
+    {
+      "chapter": 55,
+      "file": "novel_chapters/chapter_55.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1312,
+      "missing_words": []
+    },
+    {
+      "chapter": 56,
+      "file": "novel_chapters/chapter_56.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1383,
+      "missing_words": []
+    },
+    {
+      "chapter": 57,
+      "file": "novel_chapters/chapter_57.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1261,
+      "missing_words": []
+    },
+    {
+      "chapter": 58,
+      "file": "novel_chapters/chapter_58.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1390,
+      "missing_words": []
+    },
+    {
+      "chapter": 59,
+      "file": "novel_chapters/chapter_59.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1525,
+      "missing_words": []
+    },
+    {
+      "chapter": 60,
+      "file": "novel_chapters/chapter_60.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1716,
+      "missing_words": []
+    },
+    {
+      "chapter": 61,
+      "file": "novel_chapters/chapter_61.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2086,
+      "missing_words": []
+    },
+    {
+      "chapter": 62,
+      "file": "novel_chapters/chapter_62.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1690,
+      "missing_words": []
+    },
+    {
+      "chapter": 63,
+      "file": "novel_chapters/chapter_63.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1793,
+      "missing_words": []
+    },
+    {
+      "chapter": 64,
+      "file": "novel_chapters/chapter_64.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1901,
+      "missing_words": []
+    },
+    {
+      "chapter": 65,
+      "file": "novel_chapters/chapter_65.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1691,
+      "missing_words": []
+    },
+    {
+      "chapter": 66,
+      "file": "novel_chapters/chapter_66.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1678,
+      "missing_words": []
+    },
+    {
+      "chapter": 67,
+      "file": "novel_chapters/chapter_67.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1707,
+      "missing_words": []
+    },
+    {
+      "chapter": 68,
+      "file": "novel_chapters/chapter_68.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1504,
+      "missing_words": []
+    },
+    {
+      "chapter": 69,
+      "file": "novel_chapters/chapter_69.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1341,
+      "missing_words": []
+    },
+    {
+      "chapter": 70,
+      "file": "novel_chapters/chapter_70.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1579,
+      "missing_words": []
+    },
+    {
+      "chapter": 71,
+      "file": "novel_chapters/chapter_71.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1924,
+      "missing_words": []
+    },
+    {
+      "chapter": 72,
+      "file": "novel_chapters/chapter_72.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1768,
+      "missing_words": []
+    },
+    {
+      "chapter": 73,
+      "file": "novel_chapters/chapter_73.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1737,
+      "missing_words": []
+    },
+    {
+      "chapter": 74,
+      "file": "novel_chapters/chapter_74.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1752,
+      "missing_words": []
+    },
+    {
+      "chapter": 75,
+      "file": "novel_chapters/chapter_75.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1535,
+      "missing_words": []
+    },
+    {
+      "chapter": 76,
+      "file": "novel_chapters/chapter_76.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1358,
+      "missing_words": []
+    },
+    {
+      "chapter": 77,
+      "file": "novel_chapters/chapter_77.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2265,
+      "missing_words": []
+    },
+    {
+      "chapter": 78,
+      "file": "novel_chapters/chapter_78.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2263,
+      "missing_words": []
+    },
+    {
+      "chapter": 79,
+      "file": "novel_chapters/chapter_79.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2143,
+      "missing_words": []
+    },
+    {
+      "chapter": 80,
+      "file": "novel_chapters/chapter_80.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2136,
+      "missing_words": []
+    },
+    {
+      "chapter": 81,
+      "file": "novel_chapters/chapter_81.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1579,
+      "missing_words": []
+    },
+    {
+      "chapter": 82,
+      "file": "novel_chapters/chapter_82.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1810,
+      "missing_words": []
+    },
+    {
+      "chapter": 83,
+      "file": "novel_chapters/chapter_83.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2005,
+      "missing_words": []
+    },
+    {
+      "chapter": 84,
+      "file": "novel_chapters/chapter_84.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1618,
+      "missing_words": []
+    },
+    {
+      "chapter": 85,
+      "file": "novel_chapters/chapter_85.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1900,
+      "missing_words": []
+    },
+    {
+      "chapter": 86,
+      "file": "novel_chapters/chapter_86.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1713,
+      "missing_words": []
+    },
+    {
+      "chapter": 87,
+      "file": "novel_chapters/chapter_87.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 921,
+      "missing_words": []
+    },
+    {
+      "chapter": 88,
+      "file": "novel_chapters/chapter_88.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 903,
+      "missing_words": []
+    },
+    {
+      "chapter": 89,
+      "file": "novel_chapters/chapter_89.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2043,
+      "missing_words": []
+    },
+    {
+      "chapter": 90,
+      "file": "novel_chapters/chapter_90.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1770,
+      "missing_words": []
+    },
+    {
+      "chapter": 91,
+      "file": "novel_chapters/chapter_91.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1718,
+      "missing_words": []
+    },
+    {
+      "chapter": 92,
+      "file": "novel_chapters/chapter_92.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1547,
+      "missing_words": []
+    },
+    {
+      "chapter": 93,
+      "file": "novel_chapters/chapter_93.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1820,
+      "missing_words": []
+    },
+    {
+      "chapter": 94,
+      "file": "novel_chapters/chapter_94.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1845,
+      "missing_words": []
+    },
+    {
+      "chapter": 95,
+      "file": "novel_chapters/chapter_95.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2324,
+      "missing_words": []
+    },
+    {
+      "chapter": 96,
+      "file": "novel_chapters/chapter_96.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2214,
+      "missing_words": []
+    },
+    {
+      "chapter": 97,
+      "file": "novel_chapters/chapter_97.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2087,
+      "missing_words": []
+    },
+    {
+      "chapter": 98,
+      "file": "novel_chapters/chapter_98.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2449,
+      "missing_words": []
+    },
+    {
+      "chapter": 99,
+      "file": "novel_chapters/chapter_99.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 2413,
       "missing_words": []
     }
   ]

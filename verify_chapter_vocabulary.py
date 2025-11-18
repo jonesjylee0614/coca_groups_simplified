@@ -28,8 +28,8 @@ def extract_words_from_text(text):
     # Convert to lowercase for matching
     text_lower = text.lower()
 
-    # Extract words (alphanumeric + apostrophes for contractions)
-    words = re.findall(r"[a-z]+(?:'[a-z]+)?", text_lower)
+    # Extract words (alphanumeric + apostrophes for contractions + hyphens and slashes for compound words)
+    words = re.findall(r"[a-z]+(?:'[a-z]+)?(?:[-/][a-z]+)?", text_lower)
 
     return set(words)
 
