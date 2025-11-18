@@ -1,0 +1,33 @@
+{
+  "summary": {
+    "total_chapters": 2,
+    "perfect_chapters": 2,
+    "total_words_required": 100,
+    "total_words_found": 100,
+    "overall_coverage": 100.0,
+    "total_story_words": 2976,
+    "avg_chapter_length": 1488.0
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "file": "novel_chapters/chapter_01.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1222,
+      "missing_words": []
+    },
+    {
+      "chapter": 2,
+      "file": "novel_chapters/chapter_02.md",
+      "required": 50,
+      "found": 50,
+      "missing": 0,
+      "coverage": 100.0,
+      "word_count": 1754,
+      "missing_words": []
+    }
+  ]
+}
